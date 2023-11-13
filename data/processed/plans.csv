@@ -1,0 +1,920 @@
+id,carrier_name,name,level,plan_type,hsa_eligible,infertility_treatment_rider,preventative_care,individual_medical_deductible_in_network,individual_medical_deductible_out_of_network,family_medical_deductible_in_network,family_medical_deductible_out_of_network,individual_medical_moop_in_network,individual_medical_moop_out_of_network,family_medical_moop_in_network,family_medical_moop_out_of_network,coinsurance_in_network,coinsurance_out_of_network,preventative_care_in_network
+20523CA0030427,Aetna,CA Gold HMO AVN $35/55 250 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+20523CA0030551,Aetna,CA Platinum HMO AVN $20/30 0 wINF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,,,0
+20523CA0030698,Aetna,CA Bronze HMO Basic $65/95 6300 wINF,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,6300,,12600,,8200,,16400,,40,,0
+20523CA0030825,Aetna,CA Bronze HMO Basic $75/125 7900,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,7900,,15800,,7900,,15800,,,,0
+20523CA0030881,Aetna,CA Bronze HMO AVN $75/125 7900,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,7900,,15800,,7900,,15800,,,,0
+20523CA0031072,Aetna,CA Silver HMO AVN $55/90 2500 wINF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,35,,0
+20523CA0031138,Aetna,CA Gold HMO AVN $25/50 500,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7800,,15600,,20,,0
+20523CA0031164,Aetna,CA Gold HMO Basic $25/50 500,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7800,,15600,,20,,0
+20523CA0031199,Aetna,CA Silver HMO AVN $60/100 2500,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,35,,0
+20523CA0031225,Aetna,CA Silver HMO Basic $60/100 2500,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,35,,0
+20523CA0031253,Aetna,CA Bronze HMO $75/125 7900,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,7900,,15800,,7900,,15800,,0,,0
+20523CA0031254,Aetna,CA Gold HMO $25/50 500,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7800,,15600,,20,,0
+20523CA0031255,Aetna,CA Gold HMO $30/60 0,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,20,,0
+20523CA0031256,Aetna,CA Gold HMO AVN $30/60 0,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+20523CA0031258,Aetna,CA Gold HMO Basic $30/60 0,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+20523CA0031260,Aetna,CA Silver HMO $60/100 2500,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,35,,0
+20523CA0031362,Aetna,CA Bronze HMO Basic $65/95 6300 M,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,6300,,12600,,8200,,16400,,40,,0
+20523CA0031372,Aetna,CA Gold HMO AVN $35/55 250 M,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+20523CA0031423,Aetna,CA Platinum HMO AVN $20/30 0 M,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,,,0
+20523CA0031474,Aetna,CA Silver HMO AVN $55/90 2500 M,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,35,,0
+20523CA0031542,Aetna,CA Bronze HMO $75/125 7900 wINF,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,7900,,15800,,7900,,15800,,0,,0
+20523CA0031562,Aetna,CA Bronze HMO AVN $75/125 7900 wINF,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,7900,,15800,,7900,,15800,,,,0
+20523CA0031589,Aetna,CA Bronze HMO Basic $75/125 7900 wINF,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,7900,,15800,,7900,,15800,,,,0
+20523CA0031616,Aetna,CA Gold HMO $25/50 500 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7800,,15600,,20,,0
+20523CA0031653,Aetna,CA Gold HMO $30/60 0 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,20,,0
+20523CA0031672,Aetna,CA Gold HMO $30/70 1250,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,7800,,15600,,30,,0
+20523CA0031691,Aetna,CA Gold HMO $30/70 1250 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,7800,,15600,,30,,0
+20523CA0031710,Aetna,CA Gold HMO $35/65 250,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,0,,0
+20523CA0031729,Aetna,CA Gold HMO $35/65 250 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,0,,0
+20523CA0031749,Aetna,CA Gold HMO AVN $25/50 500 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7800,,15600,,20,,0
+20523CA0031767,Aetna,CA Gold HMO AVN $30/60 0 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+20523CA0031784,Aetna,CA Gold HMO AVN $30/70 1250,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,7800,,15600,,30,,0
+20523CA0031801,Aetna,CA Gold HMO AVN $30/70 1250 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,7800,,15600,,30,,0
+20523CA0031820,Aetna,CA Gold HMO AVN $35/65 250,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+20523CA0031837,Aetna,CA Gold HMO AVN $35/65 250 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+20523CA0031910,Aetna,CA Gold HMO Basic $25/50 500 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7800,,15600,,20,,0
+20523CA0031919,Aetna,CA Gold HMO Basic $30/60 0 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+20523CA0031928,Aetna,CA Gold HMO Basic $30/70 1250,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,7800,,15600,,30,,0
+20523CA0031937,Aetna,CA Gold HMO Basic $30/70 1250 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,7800,,15600,,30,,0
+20523CA0031946,Aetna,CA Gold HMO Basic $35/65 250,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+20523CA0031955,Aetna,CA Gold HMO Basic $35/65 250 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+20523CA0031964,Aetna,CA Platinum HMO $20/40 0,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,10,,0
+20523CA0031983,Aetna,CA Platinum HMO $20/40 0 wINF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,10,,0
+20523CA0032004,Aetna,CA Platinum HMO AVN $20/40 0,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,,,0
+20523CA0032021,Aetna,CA Platinum HMO AVN $20/40 0 wINF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,,,0
+20523CA0032058,Aetna,CA Platinum HMO Basic $20/40 0,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,,,0
+20523CA0032067,Aetna,CA Platinum HMO Basic $20/40 0 wINF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,,,0
+20523CA0032076,Aetna,CA Silver HMO $50/70 0,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,8700,,17400,,50,,0
+20523CA0032095,Aetna,CA Silver HMO $50/70 0 wINF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,8700,,17400,,50,,0
+20523CA0032132,Aetna,CA Silver HMO $60/100 2500 wINF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,35,,0
+20523CA0032151,Aetna,CA Silver HMO AVN $50/70 0,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,8700,,17400,,50,,0
+20523CA0032168,Aetna,CA Silver HMO AVN $50/70 0 wINF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,8700,,17400,,50,,0
+20523CA0032188,Aetna,CA Silver HMO AVN $60/100 2500 wINF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,35,,0
+20523CA0032235,Aetna,CA Silver HMO Basic $50/70 0,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,8700,,17400,,50,,0
+20523CA0032244,Aetna,CA Silver HMO Basic $50/70 0 wINF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,8700,,17400,,50,,0
+20523CA0032253,Aetna,CA Silver HMO Basic $60/100 2500 wINF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,35,,0
+20523CA0032703,Aetna,CA Bronze HMO AWH NoCA $75/125 7900,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,7900,,15800,,7900,,15800,,,,0
+20523CA0032712,Aetna,CA Bronze HMO AWH NoCA $75/125 7900 wINF,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,7900,,15800,,7900,,15800,,,,0
+20523CA0032721,Aetna,CA Gold HMO AWH NoCA $25/50 500,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7800,,15600,,20,,0
+20523CA0032730,Aetna,CA Gold HMO AWH NoCA $25/50 500 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7800,,15600,,20,,0
+20523CA0032739,Aetna,CA Gold HMO AWH NoCA $30/60 0,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+20523CA0032748,Aetna,CA Gold HMO AWH NoCA $30/60 0 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+20523CA0032757,Aetna,CA Gold HMO AWH NoCA $30/70 1250,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,7800,,15600,,30,,0
+20523CA0032766,Aetna,CA Gold HMO AWH NoCA $30/70 1250 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,7800,,15600,,30,,0
+20523CA0032775,Aetna,CA Gold HMO AWH NoCA $35/55 250 M,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+20523CA0032784,Aetna,CA Gold HMO AWH NoCA $35/55 250 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+20523CA0032793,Aetna,CA Gold HMO AWH NoCA $35/65 250,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+20523CA0032802,Aetna,CA Gold HMO AWH NoCA $35/65 250 wINF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+20523CA0032811,Aetna,CA Platinum HMO AWH NoCA $20/30 0 M,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,,,0
+20523CA0032820,Aetna,CA Platinum HMO AWH NoCA $20/30 0 wINF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,,,0
+20523CA0032829,Aetna,CA Platinum HMO AWH NoCA $20/40 0,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,,,0
+20523CA0032838,Aetna,CA Platinum HMO AWH NoCA $20/40 0 wINF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,,,0
+20523CA0032847,Aetna,CA Silver HMO AWH NoCA $50/70 0,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,8700,,17400,,50,,0
+20523CA0032856,Aetna,CA Silver HMO AWH NoCA $50/70 0 wINF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,8700,,17400,,50,,0
+20523CA0032865,Aetna,CA Silver HMO AWH NoCA $55/90 2500 M,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,35,,0
+20523CA0032874,Aetna,CA Silver HMO AWH NoCA $55/90 2500 wINF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,35,,0
+20523CA0032883,Aetna,CA Silver HMO AWH NoCA $60/100 2500,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,35,,0
+20523CA0032892,Aetna,CA Silver HMO AWH NoCA $60/100 2500 wINF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,35,,0
+27330CA0130006,Kaiser Permanente,Platinum 90 PPO 0/15 + Child Dental,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: 30%,0,500,0,1000,4500,9000,9000,18000,10,30,0
+27330CA0130007,Kaiser Permanente,Gold 80 PPO 350/25 + Child Dental,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 40%,350,1000,700,2000,7800,15600,15600,31200,20,40,0
+27330CA0130008,Kaiser Permanente,Silver 70 PPO 2500/55 + Child Dental,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 40%,2500,5000,5000,10000,8750,17500,17500,35000,35,40,0
+27330CA0130010,Kaiser Permanente,Bronze 60 PPO 6300/65 + Child Dental,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 40%,6300,12600,12600,25200,8200,16400,16400,32800,40,100,0
+27603CA0000001-77,CalChoice,Anthem Prudent Buyer Bronze PPO C (OOA),expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,6000,12000,12000,24000,8500,17000,17000,34000,40,50,0
+27603CA0000002-77,CalChoice,Anthem Prudent Buyer Silver PPO D (OOA),silver,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,2000,4000,4000,8000,7050,14100,14100,28200,35,50,0
+27603CA0000003-77,CalChoice,Anthem Select PPO Silver PPO E,silver,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,2000,4000,4000,8000,7050,14100,14100,28200,35,50,0
+27603CA0000004-77,CalChoice,Anthem Select HMO Silver HMO A,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2200,,4400,,9100,,18200,,,,0
+27603CA0000005-77,CalChoice,Anthem Select HMO Gold HMO A,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6500,,13000,,,,0
+27603CA0000006-77,CalChoice,Anthem Select HMO Platinum HMO A,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,,,0
+27603CA0000007-77,CalChoice,Anthem CaliforniaCare HMO Silver HMO B,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2200,,4400,,9100,,18200,,,,0
+27603CA0000008-77,CalChoice,Anthem CaliforniaCare HMO Gold HMO B,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6500,,13000,,,,0
+27603CA0000009-77,CalChoice,Anthem Prudent Buyer Bronze PPO A (OOA),bronze,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,6250,12500,12500,25000,7050,14100,14100,28200,35,50,0
+27603CA0000011-77,CalChoice,Anthem Select PPO Bronze PPO D,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,6000,12000,12000,24000,8500,17000,17000,34000,40,50,0
+27603CA0000012-77,CalChoice,Anthem Select PPO Bronze PPO B,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,6250,12500,12500,25000,7050,14100,14100,28200,35,50,0
+27603CA0000013-77,CalChoice,Anthem Select PPO Silver PPO B,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1700,3400,3400,6800,9100,18200,18200,36400,40,50,0
+27603CA0000014-77,CalChoice,Anthem Select PPO Gold PPO B,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1000,2000,3000,4000,7800,15600,15600,31200,25,50,0
+27603CA0000015-77,CalChoice,Anthem Prudent Buyer Silver PPO C (OOA),silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1700,3400,3400,6800,9100,18200,18200,36400,40,50,0
+27603CA0000016-77,CalChoice,Anthem Select PPO Gold PPO C,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1500,4000,7700,15400,15400,30800,20,50,0
+27603CA0000017-77,CalChoice,Anthem Select PPO Gold PPO D,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1500,3000,3000,6000,7250,14500,14500,29000,25,50,0
+27603CA0000018-77,CalChoice,Anthem Prudent Buyer Gold PPO E (OOA),gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1500,4000,7700,15400,15400,30800,20,50,0
+27603CA0000021-77,CalChoice,Anthem Prudent Buyer Gold PPO F (OOA),gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1500,4000,7700,15400,15400,30800,20,50,0
+27603CA0000022-77,CalChoice,Anthem Select PPO Gold PPO G,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1500,4000,7700,15400,15400,30800,20,50,0
+27603CA0000023-77,CalChoice,Anthem Prudent Buyer Platinum PPO A (OOA),platinum,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,2000,0,4000,8900,17800,17800,35600,10,50,0
+27603CA1210266,Anthem,Anthem Gold Select HMO 35,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6750,,13500,,,,0
+27603CA1210266-13,Anthem,Anthem Gold Select HMO 35 w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6750,,13500,,0,,0
+27603CA1210290,Anthem,Anthem Gold HMO 35,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6750,,13500,,,,0
+27603CA1210290-13,Anthem,Anthem Gold HMO 35 w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6750,,13500,,0,,0
+27603CA1210475,Anthem,Anthem Platinum Select HMO 0/25,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2300,,4600,,,,0
+27603CA1210475-13,Anthem,Anthem Platinum Select HMO 0/25 w/ T&L,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2300,,4600,,0,,0
+27603CA1210510,Anthem,Anthem Platinum HMO 0/25,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2300,,4600,,,,0
+27603CA1210510-13,Anthem,Anthem Platinum HMO 0/25 w/ T&L,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2300,,4600,,0,,0
+27603CA1210534,Anthem,Anthem Gold Select HMO 30,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6600,,13200,,,,0
+27603CA1210534-13,Anthem,Anthem Gold Select HMO 30 w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6600,,13200,,0,,0
+27603CA1210551,Anthem,Anthem Gold HMO 30,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6600,,13200,,,,0
+27603CA1210551-13,Anthem,Anthem Gold HMO 30 w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6600,,13200,,0,,0
+27603CA1210773,Anthem,Anthem Silver HMO 55,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,,,0
+27603CA1210773-13,Anthem,Anthem Silver HMO 55 w/ T&L,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,0,,0
+27603CA1210792,Anthem,Anthem Silver Select HMO 55,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,,,0
+27603CA1210792-13,Anthem,Anthem Silver Select HMO 55 w/ T&L,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,0,,0
+27603CA1210865,Anthem,Anthem Platinum HMO 0/30,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2700,,5400,,,,0
+27603CA1210865-13,Anthem,Anthem Platinum HMO 0/30 w/ T&L,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2700,,5400,,0,,0
+27603CA1210884,Anthem,Anthem Platinum Select HMO 0/30,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2700,,5400,,,,0
+27603CA1210884-13,Anthem,Anthem Platinum Select HMO 0/30 w/ T&L,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2700,,5400,,0,,0
+27603CA1210971,Anthem,Anthem Silver HMO 60/2500/45%,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,45,,0
+27603CA1210971-13,Anthem,Anthem Silver HMO 60/2500/45% w/ T&L,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,45,,0
+27603CA1210990,Anthem,Anthem Silver Select HMO 60/2500/45%,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,45,,0
+27603CA1210990-13,Anthem,Anthem Silver Select HMO 60/2500/45% w/ T&L,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,45,,0
+27603CA1211066,Anthem,Anthem Silver Priority Select HMO 55,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,,,0
+27603CA1211066-13,Anthem,Anthem Silver Priority Select HMO 55 w/ T&L,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,0,,0
+27603CA1211080,Anthem,Anthem Platinum Priority Select HMO 0/30,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2700,,5400,,,,0
+27603CA1211080-13,Anthem,Anthem Platinum Priority Select HMO 0/30 w/ T&L,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2700,,5400,,0,,0
+27603CA1211094,Anthem,Anthem Gold Priority Select HMO 35,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6750,,13500,,,,0
+27603CA1211094-13,Anthem,Anthem Gold Priority Select HMO 35 w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6750,,13500,,0,,0
+27603CA1211108,Anthem,Anthem Gold Priority Select HMO 30,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6600,,13200,,,,0
+27603CA1211108-13,Anthem,Anthem Gold Priority Select HMO 30 w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6600,,13200,,0,,0
+27603CA1211122,Anthem,Anthem Silver Priority Select HMO 60/2500/45%,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,45,,0
+27603CA1211122-13,Anthem,Anthem Silver Priority Select HMO 60/2500/45% w/ T&L,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,45,,0
+27603CA1211136,Anthem,Anthem Platinum Priority Select HMO 0/25,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2300,,4600,,,,0
+27603CA1211136-13,Anthem,Anthem Platinum Priority Select HMO 0/25 w/ T&L,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2300,,4600,,0,,0
+27603CA1211150,Anthem,Anthem Gold HMO 35/500/20%,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1500,,8450,,16900,,20,,0
+27603CA1211150-13,Anthem,Anthem Gold HMO 35/500/20% w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1500,,8450,,16900,,20,,0
+27603CA1211169,Anthem,Anthem Gold HMO 35/1250/20%,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,8600,,17200,,20,,0
+27603CA1211169-13,Anthem,Anthem Gold HMO 35/1250/20% w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,8600,,17200,,20,,0
+27603CA1211188,Anthem,Anthem Gold Select HMO 35/1250/20%,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,8600,,17200,,20,,0
+27603CA1211188-13,Anthem,Anthem Gold Select HMO 35/1250/20% w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,8600,,17200,,20,,0
+27603CA1211207,Anthem,Anthem Gold Select HMO 35/500/20%,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1500,,8450,,16900,,20,,0
+27603CA1211207-13,Anthem,Anthem Gold Select HMO 35/500/20% w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1500,,8450,,16900,,20,,0
+27603CA1211226,Anthem,Anthem Gold Priority Select HMO 35/1250/20%,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,8600,,17200,,20,,0
+27603CA1211226-13,Anthem,Anthem Gold Priority Select HMO 35/1250/20% w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,8600,,17200,,20,,0
+27603CA1211245,Anthem,Anthem Gold Priority Select HMO 35/500/20%,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1500,,8450,,16900,,20,,0
+27603CA1211245-13,Anthem,Anthem Gold Priority Select HMO 35/500/20% w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1500,,8450,,16900,,20,,0
+27603CA1211321,Anthem,Anthem Platinum HMO 0/20,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,,,0
+27603CA1211321-13,Anthem,Anthem Platinum HMO 0/20 w/ T&L,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,0,,0
+27603CA1211340,Anthem,Anthem Link Platinum Vivity HMO 15,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,,,0
+27603CA1211340-13,Anthem,Anthem Link Platinum Vivity HMO 15 w/ T&L,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,25,,0
+27603CA1211359,Anthem,Anthem Link Platinum Vivity HMO 15 WH,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,,,0
+27603CA1211359-13,Anthem,Anthem Link Platinum Vivity HMO 15 WH w/ T&L,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,25,,0
+27603CA1211378,Anthem,Anthem Link Gold Vivity HMO 35/1000,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,6750,,13500,,,,0
+27603CA1211378-13,Anthem,Anthem Link Gold Vivity HMO 35/1000 w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,6750,,13500,,25,,0
+27603CA1211397,Anthem,Anthem Link Gold Vivity HMO 35/1000 WH,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,6750,,13500,,,,0
+27603CA1211397-13,Anthem,Anthem Link Gold Vivity HMO 35/1000 WH w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,6750,,13500,,25,,0
+27603CA1211416,Anthem,Anthem Link Gold Vivity HMO 35/1850,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1850,,3700,,7750,,15500,,,,0
+27603CA1211416-13,Anthem,Anthem Link Gold Vivity HMO 35/1850 w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1850,,3700,,7750,,15500,,25,,0
+27603CA1211435,Anthem,Anthem Link Gold Vivity HMO 35/1850 WH,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1850,,3700,,7750,,15500,,,,0
+27603CA1211435-13,Anthem,Anthem Link Gold Vivity HMO 35/1850 WH w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1850,,3700,,7750,,15500,,25,,0
+27603CA1211454,Anthem,Anthem Link Gold Vivity HMO 25 WH,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6150,,12300,,,,0
+27603CA1211454-13,Anthem,Anthem Link Gold Vivity HMO 25 WH w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6150,,12300,,25,,0
+27603CA1211473,Anthem,Anthem Link Gold Vivity HMO 25,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6150,,12300,,,,0
+27603CA1211473-13,Anthem,Anthem Link Gold Vivity HMO 25 w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,6150,,12300,,25,,0
+27603CA1211492,Anthem,Anthem Link Silver Vivity HMO 50/2650,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2650,,5300,,9100,,18200,,,,0
+27603CA1211492-13,Anthem,Anthem Link Silver Vivity HMO 50/2650 w/ T&L,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2650,,5300,,9100,,18200,,25,,0
+27603CA1211511,Anthem,Anthem Link Silver Vivity HMO 50/2650 WH,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2650,,5300,,9100,,18200,,,,0
+27603CA1211511-13,Anthem,Anthem Link Silver Vivity HMO 50/2650 WH w/ T&L,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2650,,5300,,9100,,18200,,25,,0
+27603CA1211530,Anthem,Anthem Link Gold Vivity HMO 25/500,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1500,,6500,,13000,,,,0
+27603CA1211530-13,Anthem,Anthem Link Gold Vivity HMO 25/500 w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1500,,6500,,13000,,25,,0
+27603CA1211549,Anthem,Anthem Link Gold Vivity HMO 25/500 WH,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1500,,6500,,13000,,,,0
+27603CA1211549-13,Anthem,Anthem Link Gold Vivity HMO 25/500 WH w/ T&L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1500,,6500,,13000,,25,,0
+27603CA1211568,Anthem,Anthem Silver Select HMO 60/2500/45% WH,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,45,,0
+27603CA1211568-13,Anthem,Anthem Silver Select HMO 60/2500/45% WH w/ T&L,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,45,,0
+27603CA1211587,Anthem,Anthem Silver Priority Select HMO 60/2500/45% WH,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,45,,0
+27603CA1211587-13,Anthem,Anthem Silver Priority Select HMO 60/2500/45% WH w/ T&L,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,9100,,18200,,45,,0
+27603CA1211606,Anthem,Anthem Platinum Select HMO 0/20,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,,,0
+27603CA1211606-13,Anthem,Anthem Platinum Select HMO 0/20 w/ T&L,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,0,,0
+27603CA1211625,Anthem,Anthem Platinum Priority Select HMO 0/20,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,,,0
+27603CA1211625-13,Anthem,Anthem Platinum Priority Select HMO 0/20 w/ T&L,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,0,,0
+27603CA1211682,Anthem,Anthem Gold Priority Select HMO 35/1250/20% RxD,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,8600,,17200,,20,,0
+27603CA1211701,Anthem,Anthem Gold Priority Select HMO 35/500/20% RxD,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1500,,8450,,16900,,20,,0
+27603CA1211720,Anthem,Anthem Gold Select HMO 35/500/20% RxD,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1500,,8450,,16900,,20,,0
+27603CA1211739,Anthem,Anthem Gold HMO 35/500/20% RxD,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1500,,8450,,16900,,20,,0
+27603CA1211758,Anthem,Anthem Gold Select HMO 35/1250/20% RxD,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,8600,,17200,,20,,0
+27603CA1211777,Anthem,Anthem Gold HMO 35/1250/20% RxD,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1250,,2500,,8600,,17200,,20,,0
+27603CA1220107,Anthem,Anthem Gold Select PPO 25/350/20%,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,350,2000,700,4000,7800,15600,15600,31200,20,50,0
+27603CA1220129,Anthem,Anthem Platinum Select PPO 15/10%,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,2000,0,4000,4500,9000,9000,18000,10,50,0
+27603CA1220130,Anthem,Anthem Bronze Select PPO 7000/0% w/HSA,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,7000,14000,14000,28000,7000,17500,14000,35000,0,50,0
+27603CA1220250,Anthem,Anthem Silver Select PPO 55/2500/35%,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,2500,5000,5000,10000,8600,17200,17200,34400,35,50,0
+27603CA1220252,Anthem,Anthem Bronze Select PPO 6700/0% w/HSA PrevRx,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,6700,13400,13400,26800,7050,17625,14100,35250,0,50,0
+27603CA1220259,Anthem,Anthem Bronze PPO 6700/0% w/HSA PrevRx,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,6700,13400,13400,26800,7050,17625,14100,35250,0,50,0
+27603CA1220354,Anthem,Anthem Bronze Select PPO 6000/45% w/HSA PrevRx,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,6000,12000,12000,24000,7050,14100,14100,28200,45,50,0
+27603CA1220381,Anthem,Anthem Bronze PPO 6000/45% w/HSA PrevRx,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,6000,12000,12000,24000,7050,14100,14100,28200,45,50,0
+27603CA1220560,Anthem,Anthem Silver PPO 2100/30% w/HSA PrevRx,silver,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,2100,4200,4200,8400,7200,14400,14400,28800,30,50,0
+27603CA1220575,Anthem,Anthem Silver Select PPO 2100/30% w/HSA PrevRx,silver,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,2100,4200,4200,8400,7200,14400,14400,28800,30,50,0
+27603CA1220723,Anthem,Anthem Gold PPO 25/30%,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,2000,0,4000,8200,16400,16400,32800,30,50,0
+27603CA1220742,Anthem,Anthem Gold PPO 30/500/20%,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1500,4000,7900,15800,15800,31600,20,50,0
+27603CA1220780,Anthem,Anthem Gold PPO 30/750/20%,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,750,2000,2250,4000,8200,16400,16400,32800,20,50,0
+27603CA1220799,Anthem,Anthem Gold PPO 35/1000/20%,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1000,2000,3000,4000,8200,16400,16400,32800,20,50,0
+27603CA1220818,Anthem,Anthem Platinum PPO 15/250/10%,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,250,2000,750,4000,3800,7600,7600,15200,10,50,0
+27603CA1220837,Anthem,Anthem Silver PPO 50/2200/40%,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,2200,4400,4400,8800,8600,17200,17200,34400,40,50,0
+27603CA1220869,Anthem,Anthem Silver Select PPO 55/1950/35%,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1950,3900,3900,7800,9100,18200,18200,36400,35,50,0
+27603CA1220876,Anthem,Anthem Silver PPO 55/1950/35%,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1950,3900,3900,7800,9100,18200,18200,36400,35,50,0
+27603CA1220890,Anthem,Anthem Gold Select PPO 35/1000/20%,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1000,2000,3000,4000,8200,16400,16400,32800,20,50,0
+27603CA1220891,Anthem,Anthem Gold Select PPO 25/30%,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,2000,0,4000,8200,16400,16400,32800,30,50,0
+27603CA1220892,Anthem,Anthem Gold Select PPO 30/500/20%,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1500,4000,7900,15800,15800,31600,20,50,0
+27603CA1220893,Anthem,Anthem Gold Select PPO 30/750/20%,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,750,2000,2250,4000,8200,16400,16400,32800,20,50,0
+27603CA1220894,Anthem,Anthem Platinum Select PPO 15/250/10%,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,250,2000,750,4000,3800,7600,7600,15200,10,50,0
+27603CA1220896,Anthem,Anthem Silver Select PPO 50/2200/40%,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,2200,4400,4400,8800,8600,17200,17200,34400,40,50,0
+27603CA1220897,Anthem,Anthem Platinum Select PPO 15/40/10%,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,2000,0,4000,3800,7600,7600,15200,10,50,0
+27603CA1220904,Anthem,Anthem Platinum PPO 15/40/10%,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,2000,0,4000,3800,7600,7600,15200,10,50,0
+27603CA1221119,Anthem,Anthem Silver PPO 45/1750/40%,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1750,3500,3500,7000,9100,18200,18200,36400,40,50,0
+27603CA1221132,Anthem,Anthem Silver Select PPO 45/1750/40%,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1750,3500,3500,7000,9100,18200,18200,36400,40,50,0
+27603CA1221133,Anthem,Anthem Gold Select PPO 35/500/25%,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1500,4000,8200,16400,16400,32800,25,50,0
+27603CA1221134,Anthem,Anthem Silver Select PPO 55/2500/45%,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,2500,5000,5000,10000,8700,17400,17400,34800,45,50,0
+27603CA1221135,Anthem,Anthem Bronze Select PPO 4600/50%,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,4600,9200,9200,18400,8100,16200,16200,32400,50,50,0
+27603CA1221144,Anthem,Anthem Gold PPO 35/500/25%,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1500,4000,8200,16400,16400,32800,25,50,0
+27603CA1221163,Anthem,Anthem Silver PPO 55/2500/45%,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,2500,5000,5000,10000,8700,17400,17400,34800,45,50,0
+27603CA1221182,Anthem,Anthem Bronze PPO 4600/50%,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,4600,9200,9200,18400,8100,16200,16200,32400,50,50,0
+27603CA1221234,Anthem,Anthem Gold Select PPO 5/1500/30%,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1500,3000,3000,6000,8300,16600,16600,33200,30,50,0
+27603CA1221235,Anthem,Anthem Platinum Select PPO 5/200/15%,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,200,2000,600,4000,3800,7600,7600,15200,15,50,0
+27603CA1221280,Anthem,Anthem Platinum PPO 5/200/15%,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,200,2000,600,4000,3800,7600,7600,15200,15,50,0
+27603CA1221299,Anthem,Anthem Gold PPO 5/1500/30%,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1500,3000,3000,6000,8300,16600,16600,33200,30,50,0
+27603CA1221331,Anthem,Anthem Bronze Select PPO 40/6200/40%,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,6200,12400,12400,24800,8700,17400,17400,34800,40,50,0
+27603CA1221332,Anthem,Anthem Bronze Select PPO 60/6850/40%,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,6850,13700,13700,27400,8200,16400,16400,32800,40,50,0
+27603CA1221333,Anthem,Anthem Bronze Select PPO 70/6600/35%,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,6600,13200,13200,26400,8700,17400,17400,34800,35,50,0
+27603CA1221340,Anthem,Anthem Bronze PPO 40/6200/40%,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,6200,12400,12400,24800,8700,17400,17400,34800,40,50,0
+27603CA1221359,Anthem,Anthem Bronze PPO 60/6850/40%,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,6850,13700,13700,27400,8200,16400,16400,32800,40,50,0
+27603CA1221378,Anthem,Anthem Bronze PPO 70/6600/35%,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,6600,13200,13200,26400,8700,17400,17400,34800,35,50,0
+27603CA1221397,Anthem,Anthem Platinum PPO 5/200/15% WH,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,200,2000,600,4000,3800,7600,7600,15200,15,50,0
+27603CA1221416,Anthem,Anthem Gold PPO 35/500/25% WH,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1500,4000,8200,16400,16400,32800,25,50,0
+27603CA1221435,Anthem,Anthem Gold PPO 35/1000/20% WH,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1000,2000,3000,4000,8200,16400,16400,32800,20,50,0
+27603CA1221454,Anthem,Anthem Silver PPO 45/1750/40% WH,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1750,3500,3500,7000,9100,18200,18200,36400,40,50,0
+27603CA1221473,Anthem,Anthem Silver PPO 55/2500/45% WH,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,2500,5000,5000,10000,8700,17400,17400,34800,45,50,0
+27603CA1221492,Anthem,Anthem Bronze PPO 6000/45% w/HSA PrevRx WH,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,6000,12000,12000,24000,7050,14100,14100,28200,45,50,0
+27603CA1221511,Anthem,Anthem Bronze PPO 6700/0% w/HSA PrevRx WH,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,6700,13400,13400,26800,7050,17625,14100,35250,0,50,0
+27603CA1221529,Anthem,Anthem Bronze PPO 75/7300/40%,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,7300,14600,14600,29200,8650,17300,17300,34600,40,50,0
+27603CA1221547,Anthem,Anthem Silver PPO 2600/35% w/HSA PrevRx,silver,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,2600,5200,5200,10400,7050,14100,14100,28200,35,50,0
+27603CA1221560,Anthem,Anthem Bronze Select PPO 75/7300/40%,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,7300,14600,14600,29200,8650,17300,17300,34600,40,50,0
+27603CA1221561,Anthem,Anthem Silver Select PPO 2600/35% w/HSA PrevRx,silver,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,2600,5200,5200,10400,7050,14100,14100,28200,35,50,0
+27603CA1221564,Anthem,Anthem Silver Select PPO 45/1750/40% WH,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1750,3500,3500,7000,9100,18200,18200,36400,40,50,0
+27603CA1221590,Anthem,Anthem Gold PPO 1700/15% w/HSA PrevRx,gold,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,1700,3400,3400,6800,3700,7400,7400,14800,15,50,0
+27603CA1221623,Anthem,Anthem Gold Select PPO 1700/15% w/HSA PrevRx,gold,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,1700,3400,3400,6800,3700,7400,7400,14800,15,50,0
+27603CA1221650,Anthem,Anthem Gold PPO 30/500/20% RxD,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1500,4000,7900,15800,15800,31600,20,50,0
+27603CA1221669,Anthem,Anthem Gold PPO 25/30% RxD,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,2000,0,4000,8200,16400,16400,32800,30,50,0
+27603CA1221682,Anthem,Anthem Gold Select PPO 25/30% RxD,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,2000,0,4000,8200,16400,16400,32800,30,50,0
+27603CA1221683,Anthem,Anthem Gold Select PPO 30/500/20% RxD,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1500,4000,7900,15800,15800,31600,20,50,0
+37873CA0030031,UnitedHealthcare,Doctors Plan EPO Bronze CVPR /L65Y,bronze,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,7500,,15000,,9100,,18200,,50,,0
+37873CA0030037,UnitedHealthcare,Doctors Plan EPO HDHP Bronze CVP2 /L45Y,expanded_bronze,EPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,6000,,12000,,7500,,15000,,40,,0
+37873CA0090001-13,UnitedHealthcare,Select Plus PPO HDHP Silver CVQQ /L46S,silver,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,2800,5600,3000,6000,7500,14700,15000,29400,40,50,0
+37873CA0090002-13,UnitedHealthcare,Select Plus PPO Bronze CVQP /L42Y,bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,5500,11000,11000,22000,9100,18200,18200,36400,40,50,0
+37873CA0090003-13,UnitedHealthcare,Doctors Plan EPO HDHP Silver CVPW /L46S,silver,EPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,2800,,3000,,7500,,15000,,40,,0
+37873CA0090004-13,UnitedHealthcare,Doctors Plan EPO Bronze CVP8 /L42Y,bronze,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,5500,,11000,,9100,,18200,,40,,0
+37873CA0090005-13,UnitedHealthcare,Core PPO Bronze CVQC /L42Y,bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,5500,11000,11000,22000,9100,18200,18200,36400,40,50,0
+37873CA0090006-13,UnitedHealthcare,Core PPO HDHP Silver CVQD /L46S,silver,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,2800,5600,3000,6000,7500,14700,15000,29400,40,50,0
+37873CA0090027,UnitedHealthcare,Core PPO Bronze CVPS /L65Y,bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,7500,15000,15000,30000,9100,18200,18200,36400,50,50,0
+37873CA0090028,UnitedHealthcare,Core PPO Bronze CV2O /L65Y,bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,7500,15000,15000,30000,9100,18200,18200,36400,50,50,0
+37873CA0090041,UnitedHealthcare,Core PPO HDHP Bronze CVQL /L45Y,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,6000,12000,12000,24000,7500,14700,15000,29400,40,50,0
+37873CA0090042,UnitedHealthcare,Select Plus PPO Bronze CVPU /L65Y,bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,7500,15000,15000,30000,9100,18200,18200,36400,50,50,0
+37873CA0090043,UnitedHealthcare,Select Plus PPO Bronze CV2P /L65Y,bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,7500,15000,15000,30000,9100,18200,18200,36400,50,50,0
+37873CA0090055,UnitedHealthcare,Select Plus PPO HDHP Bronze CVQY /L45Y,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,6000,12000,12000,24000,7500,14700,15000,29400,40,50,0
+40025CA0000001-77,CalChoice,Cigna + Oscar LocalPlus Bronze EPO C,expanded_bronze,EPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,5750,,11500,,7450,,14900,,40,,0
+40025CA0000002-77,CalChoice,Cigna + Oscar LocalPlus Bronze EPO D,expanded_bronze,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,6000,,12000,,8700,,17400,,40,,0
+40025CA0000003-77,CalChoice,Cigna + Oscar LocalPlus Silver EPO C,silver,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1950,,3900,,8950,,17900,,35,,0
+40025CA0000004-77,CalChoice,Cigna + Oscar LocalPlus Silver EPO D,silver,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2600,,5200,,8950,,17900,,40,,0
+40025CA0000005-77,CalChoice,Cigna + Oscar LocalPlus Silver EPO E,silver,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,3000,,6000,,7250,,14500,,30,,0
+40025CA0000006-77,CalChoice,Cigna + Oscar LocalPlus Gold EPO C,gold,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,8950,,17900,,30,,0
+40025CA0000007-77,CalChoice,Cigna + Oscar LocalPlus Gold EPO D,gold,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1350,,2700,,8550,,17100,,20,,0
+40025CA0000008-77,CalChoice,Cigna + Oscar LocalPlus Gold EPO E,gold,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,750,,1500,,8550,,17100,,,,0
+40025CA0000009-77,CalChoice,Cigna + Oscar LocalPlus Platinum EPO C,platinum,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4850,,9700,,10,,0
+40025CA0000010-77,CalChoice,Cigna + Oscar LocalPlus Platinum EPO D,platinum,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,4750,,9500,,10,,0
+40025CA0000011-77,CalChoice,Cigna + Oscar LocalPlus Platinum EPO E,platinum,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,3750,,7500,,15,,0
+40025CA0000012-77,CalChoice,Cigna + Oscar Open Access Plus Bronze EPO E,expanded_bronze,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,7250,,14500,,9100,,18200,,35,,0
+40025CA0000013-77,CalChoice,Cigna + Oscar LocalPlus Bronze EPO F,expanded_bronze,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,7250,,14500,,9100,,18200,,35,,0
+40025CA0000014-77,CalChoice,Cigna + Oscar Open Access Plus Silver EPO F,silver,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1950,,3900,,8950,,17900,,35,,0
+40025CA0000015-77,CalChoice,Cigna + Oscar Open Access Plus Silver EPO G,silver,EPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,3000,,6000,,7250,,14500,,30,,0
+40025CA0000016-77,CalChoice,Cigna + Oscar Open Access Plus Gold EPO F,gold,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,8950,,17900,,30,,0
+40025CA0000017-77,CalChoice,Cigna + Oscar Open Access Plus Gold EPO G,gold,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,750,,1500,,8550,,17100,,,,0
+40025CA0000018-77,CalChoice,Cigna + Oscar Open Access Plus Platinum EPO F,platinum,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4850,,9700,,10,,0
+40025CA0000019-77,CalChoice,Cigna + Oscar Open Access Plus Platinum EPO G,platinum,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,3750,,7500,,15,,0
+40025CA0080001,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $0/$20,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,4500,9000,9000,18000,,50,0
+40025CA0080004,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $0/$20 INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,4500,9000,9000,18000,,50,0
+40025CA0080007,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $0/$10,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,4850,9200,9700,18400,10,50,0
+40025CA0080010,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $0/$10 INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,4850,9200,9700,18400,10,50,0
+40025CA0080013,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $250,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,250,1000,500,2000,4750,8800,9500,17600,10,50,0
+40025CA0080016,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $250 INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,250,1000,500,2000,4750,8800,9500,17600,10,50,0
+40025CA0080019,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $500,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,1000,1000,2000,3750,9000,7500,18000,15,50,0
+40025CA0080022,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $500 INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,500,1000,1000,2000,3750,9000,7500,18000,15,50,0
+40025CA0080025,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $0,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,8950,16500,17900,33000,30,50,0
+40025CA0080028,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $0 INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,8950,16500,17900,33000,30,50,0
+40025CA0080031,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $250,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,250,1000,500,2000,7800,15600,15600,31200,,50,0
+40025CA0080034,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $250 INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,250,1000,500,2000,7800,15600,15600,31200,,50,0
+40025CA0080037,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $500,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,1000,1000,2000,8700,17100,17400,34200,25,50,0
+40025CA0080040,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $500 INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,500,1000,1000,2000,8700,17100,17400,34200,25,50,0
+40025CA0080043,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $750,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,750,1500,1500,3000,8550,16900,17100,33800,20,50,0
+40025CA0080046,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $750 INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,750,1500,1500,3000,8550,16900,17100,33800,20,50,0
+40025CA0080049,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $1350,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1350,2700,2700,5400,8550,17100,17100,34200,20,50,0
+40025CA0080052,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $1350 INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1350,2700,2700,5400,8550,17100,17100,34200,20,50,0
+40025CA0080055,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $0,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,4500,0,9000,9100,17400,18200,34800,30,50,0
+40025CA0080058,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $0 INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,4500,0,9000,9100,17400,18200,34800,30,50,0
+40025CA0080061,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $1950,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1950,4500,3900,9000,8950,17800,17900,35600,35,50,0
+40025CA0080064,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $1950 INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1950,4500,3900,9000,8950,17800,17900,35600,35,50,0
+40025CA0080093,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $1000,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1000,15000,2000,30000,8700,25000,17400,50000,30,50,0
+40025CA0080096,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $1000 INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1000,15000,2000,30000,8700,25000,17400,50000,30,50,0
+40025CA0080099,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $6000,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,6000,12000,12000,24000,8700,18200,17400,36400,40,50,0
+40025CA0080102,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $6000 INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,6000,12000,12000,24000,8700,18200,17400,36400,40,50,0
+40025CA0080105,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $6300,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,6300,12600,12600,25200,8200,16400,16400,32800,40,50,0
+40025CA0080108,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $6300 INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,6300,12600,12600,25200,8200,16400,16400,32800,40,50,0
+40025CA0080129,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $0/$20,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,4500,9000,9000,18000,,50,0
+40025CA0080132,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $0/$20 INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,4500,9000,9000,18000,,50,0
+40025CA0080135,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $0/$10,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,4850,9200,9700,18400,10,50,0
+40025CA0080138,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $0/$10 INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,4850,9200,9700,18400,10,50,0
+40025CA0080141,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $250,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,250,1000,500,2000,4750,8800,9500,17600,10,50,0
+40025CA0080144,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $250 INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,250,1000,500,2000,4750,8800,9500,17600,10,50,0
+40025CA0080147,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $500,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,1000,1000,2000,3750,9000,7500,18000,15,50,0
+40025CA0080150,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $500 INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,500,1000,1000,2000,3750,9000,7500,18000,15,50,0
+40025CA0080153,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $0,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,8950,16500,17900,33000,30,50,0
+40025CA0080156,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $0 INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,8950,16500,17900,33000,30,50,0
+40025CA0080159,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $250,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,250,1000,500,2000,7800,15600,15600,31200,,50,0
+40025CA0080162,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $250 INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,250,1000,500,2000,7800,15600,15600,31200,,50,0
+40025CA0080165,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $500,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,1000,1000,2000,8700,17100,17400,34200,25,50,0
+40025CA0080168,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $500 INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,500,1000,1000,2000,8700,17100,17400,34200,25,50,0
+40025CA0080171,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $750,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,750,1500,1500,3000,8550,16900,17100,33800,20,50,0
+40025CA0080174,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $750 INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,750,1500,1500,3000,8550,16900,17100,33800,20,50,0
+40025CA0080177,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $1350,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1350,2700,2700,5400,8550,17100,17100,34200,20,50,0
+40025CA0080180,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $1350 INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1350,2700,2700,5400,8550,17100,17100,34200,20,50,0
+40025CA0080183,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $0,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,4500,0,9000,9100,17400,18200,34800,30,50,0
+40025CA0080186,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $0 INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,4500,0,9000,9100,17400,18200,34800,30,50,0
+40025CA0080189,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $1950,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1950,4500,3900,9000,8950,17800,17900,35600,35,50,0
+40025CA0080192,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $1950 INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1950,4500,3900,9000,8950,17800,17900,35600,35,50,0
+40025CA0080195,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $2500,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,2500,5000,5000,10000,8750,17500,17500,35000,40,50,0
+40025CA0080198,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $2500 INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2500,5000,5000,10000,8750,17500,17500,35000,40,50,0
+40025CA0080201,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $2600,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,2600,5500,5200,11000,8950,17800,17900,35600,40,50,0
+40025CA0080204,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $2600 INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2600,5500,5200,11000,8950,17800,17900,35600,40,50,0
+40025CA0080207,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $3000 HSA,silver,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,3000,6000,6000,12000,7250,13700,14500,27400,30,50,0
+40025CA0080210,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $3000 INF HSA,silver,PPO,True,True,In-Network: $0 / Out-of-Network: 50% after deductible,3000,6000,6000,12000,7250,13700,14500,27400,30,50,0
+40025CA0080213,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $1000,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1000,15000,2000,30000,8700,25000,17400,50000,30,50,0
+40025CA0080216,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $1000 INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1000,15000,2000,30000,8700,25000,17400,50000,30,50,0
+40025CA0080219,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $3000,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,3000,15000,6000,30000,9100,25000,18200,50000,30,50,0
+40025CA0080222,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $3000 INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,3000,15000,6000,30000,9100,25000,18200,50000,30,50,0
+40025CA0080225,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $6000,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,6000,12000,12000,24000,8700,18200,17400,36400,40,50,0
+40025CA0080228,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $6000 INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,6000,12000,12000,24000,8700,18200,17400,36400,40,50,0
+40025CA0080231,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $6300,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,6300,12600,12600,25200,8200,16400,16400,32800,40,50,0
+40025CA0080234,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $6300 INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,6300,12600,12600,25200,8200,16400,16400,32800,40,50,0
+40025CA0080237,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $5750 HSA,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,5750,12000,11500,24000,7450,14000,14900,28000,40,50,0
+40025CA0080240,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $5750 INF HSA,expanded_bronze,PPO,True,True,In-Network: $0 / Out-of-Network: 50% after deductible,5750,12000,11500,24000,7450,14000,14900,28000,40,50,0
+40025CA0080243,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $7250,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,7250,15000,14500,30000,9100,25000,18200,50000,35,50,0
+40025CA0080246,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $7250 INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,7250,15000,14500,30000,9100,25000,18200,50000,35,50,0
+40025CA0080249,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $3000 HSA,silver,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,3000,6000,6000,12000,7250,13700,14500,27400,30,50,0
+40025CA0080252,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $3000 INF HSA,silver,PPO,True,True,In-Network: $0 / Out-of-Network: 50% after deductible,3000,6000,6000,12000,7250,13700,14500,27400,30,50,0
+40025CA0080255,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $3000,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,3000,15000,6000,30000,9100,25000,18200,50000,30,50,0
+40025CA0080258,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $3000 INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,3000,15000,6000,30000,9100,25000,18200,50000,30,50,0
+40025CA0080261,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $7250,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,7250,15000,14500,30000,9100,25000,18200,50000,35,50,0
+40025CA0080264,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $7250 INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,7250,15000,14500,30000,9100,25000,18200,50000,35,50,0
+40025CA0080267,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $2600,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,2600,5500,5200,11000,8950,17800,17900,35600,40,50,0
+40025CA0080270,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $2600 INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2600,5500,5200,11000,8950,17800,17900,35600,40,50,0
+40025CA0080273,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $5750 HSA,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,5750,12000,11500,24000,7450,14000,14900,28000,40,50,0
+40025CA0080276,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $5750 INF HSA,expanded_bronze,PPO,True,True,In-Network: $0 / Out-of-Network: 50% after deductible,5750,12000,11500,24000,7450,14000,14900,28000,40,50,0
+40025CA0080279,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $2500 INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2500,5000,5000,10000,8750,17500,17500,35000,40,50,0
+40025CA0080282,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $2500,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,2500,5000,5000,10000,8750,17500,17500,35000,40,50,0
+40513CA0000001-77,CalChoice,Kaiser Permanente Full Bronze HMO A,expanded_bronze,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,6300,,12600,,8600,,17200,,40,,0
+40513CA0000002-77,CalChoice,Kaiser Permanente Full Silver HMO A,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2300,,4600,,8750,,17500,,45,,0
+40513CA0000003-77,CalChoice,Kaiser Permanente Full Platinum HMO A,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3000,,6000,,,,0
+40513CA0000004-77,CalChoice,Kaiser Permanente Full Bronze HMO B,expanded_bronze,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,5400,,10800,,8300,,16600,,50,,0
+40513CA0000005-77,CalChoice,Kaiser Permanente Full Silver HMO B,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1900,,3800,,8750,,17500,,45,,0
+40513CA0000006-77,CalChoice,Kaiser Permanente Full Gold HMO B,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+40513CA0000007-77,CalChoice,Kaiser Permanente Full Platinum HMO B,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,,,0
+40513CA0000008-77,CalChoice,Kaiser Permanente Full Bronze HMO C,expanded_bronze,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,7000,,14000,,0,,0
+40513CA0000009-77,CalChoice,Kaiser Permanente Full Silver HMO C,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,30,,0
+40513CA0000010-77,CalChoice,Kaiser Permanente Full Gold HMO C,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,,,0
+40513CA0000011-77,CalChoice,Kaiser Permanente Full Silver HMO D,silver,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,2700,,5400,,7200,,14400,,25,,0
+40513CA0000012-77,CalChoice,Kaiser Permanente Full Gold HMO D,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,7800,,15600,,,,0
+40513CA0000013-77,CalChoice,Kaiser Permanente Full Silver HMO E,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2800,,5600,,8750,,17500,,45,,0
+40513CA0000014-77,CalChoice,Kaiser Permanente Full Gold HMO E,gold,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,1600,,3200,,3550,,7100,,15,,0
+40513CA0400041,CoveredCA,Gold 80 HDHP HMO 1600/15% + Child Dental Alt,gold,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,1600,,3200,,3550,,7100,,15,,0
+40513CA0400042,CoveredCA,Gold 80 HDHP HMO 1600/15% + Child Dental Alt INF,gold,HMO,True,True,In-Network: $0 / Out-of-Network: Not Covered,1600,,3200,,3550,,7100,,15,,0
+40513CA0400043,CoveredCA,Platinum 90 HMO 0/10 + Child Dental Alt,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3000,,6000,,,,0
+40513CA0400044,CoveredCA,Platinum 90 HMO 0/10 + Child Dental Alt INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3000,,6000,,,,0
+40513CA0400045,CoveredCA,Platinum 90 HMO 0/20 + Child Dental,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,,,0
+40513CA0400046,CoveredCA,Platinum 90 HMO 0/20 + Child Dental INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,,,0
+40513CA0400047,CoveredCA,Gold 80 HMO 0/30 + Child Dental Alt,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,,,0
+40513CA0400048,CoveredCA,Gold 80 HMO 0/30 + Child Dental Alt INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,,,0
+40513CA0400049,CoveredCA,Gold 80 HMO 250/35 + Child Dental,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+40513CA0400050,CoveredCA,Gold 80 HMO 250/35 + Child Dental INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+40513CA0400051,CoveredCA,Gold 80 HMO 1000/40 + Child Dental Alt,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,7800,,15600,,,,0
+40513CA0400052,CoveredCA,Gold 80 HMO 1000/40 + Child Dental Alt INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,7800,,15600,,,,0
+40513CA0400053,CoveredCA,Silver 70 HMO 1900/65 + Child Dental Alt,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1900,,3800,,8750,,17500,,45,,0
+40513CA0400054,CoveredCA,Silver 70 HMO 1900/65 + Child Dental Alt INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1900,,3800,,8750,,17500,,45,,0
+40513CA0400055,CoveredCA,Silver 70 HMO 2300/65 + Child Dental Alt,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2300,,4600,,8750,,17500,,45,,0
+40513CA0400056,CoveredCA,Silver 70 HMO 2300/65 + Child Dental Alt INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2300,,4600,,8750,,17500,,45,,0
+40513CA0400057,CoveredCA,Silver 70 HMO 2800/65 + Child Dental Alt,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2800,,5600,,8750,,17500,,45,,0
+40513CA0400058,CoveredCA,Silver 70 HMO 2800/65 + Child Dental Alt INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2800,,5600,,8750,,17500,,45,,0
+40513CA0400059,CoveredCA,Silver 70 HMO 2500/55 + Child Dental,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,35,,0
+40513CA0400060,CoveredCA,Silver 70 HMO 2500/55 + Child Dental INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,35,,0
+40513CA0400061,CoveredCA,Silver 70 HDHP HMO 2700/25% + Child Dental,silver,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,2700,,5400,,7200,,14400,,25,,0
+40513CA0400062,CoveredCA,Silver 70 HDHP HMO 2700/25% + Child Dental INF,silver,HMO,True,True,In-Network: $0 / Out-of-Network: Not Covered,2700,,5400,,7200,,14400,,25,,0
+40513CA0400063,CoveredCA,Bronze 60 HMO 6300/65 + Child Dental,expanded_bronze,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,6300,,12600,,8600,,17200,,40,,0
+40513CA0400064,CoveredCA,Bronze 60 HMO 6300/65 + Child Dental INF,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,6300,,12600,,8600,,17200,,40,,0
+40513CA0400065,CoveredCA,Bronze 60 HDHP HMO 7000/0% + Child Dental,expanded_bronze,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,7000,,14000,,0,,0
+40513CA0400066,CoveredCA,Bronze 60 HDHP HMO 7000/0% + Child Dental INF,expanded_bronze,HMO,True,True,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,7000,,14000,,0,,0
+40513CA0400067,CoveredCA,Bronze 60 HMO 5400/60 + Child Dental Alt,expanded_bronze,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,5400,,10800,,8300,,16600,,50,,0
+40513CA0400068,CoveredCA,Bronze 60 HMO 5400/60 + Child Dental Alt INF,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,5400,,10800,,8300,,16600,,50,,0
+40513CA0410012,Kaiser Permanente,Platinum 90 HMO 0/20 + Child Dental,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,,,0
+40513CA0410014,Kaiser Permanente,Gold 80 HMO 250/35 + Child Dental,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+40513CA0410016,Kaiser Permanente,Silver 70 HMO 2500/55 + Child Dental,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,35,,0
+40513CA0410017,Kaiser Permanente,Silver 70 HMO 1900/65 + Child Dental Alt,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1900,,3800,,8750,,17500,,45,,0
+40513CA0410019,Kaiser Permanente,Bronze 60 HMO 6300/65 + Child Dental ,expanded_bronze,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,6300,,12600,,8600,,17200,,40,,0
+40513CA0410021,Kaiser Permanente,Bronze 60 HDHP HMO 7000/0 + Child Dental,expanded_bronze,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,7000,,14000,,0,,0
+40513CA0410022,Kaiser Permanente,Gold 80 HRA HMO 2250/35 + Child Dental,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2250,,4500,,8500,,17000,,25,,0
+40513CA0410026,Kaiser Permanente,Platinum 90 HMO 0/10 + Child Dental Alt,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3000,,6000,,,,0
+40513CA0410037,Kaiser Permanente,Platinum 90 HMO 0/10 + Child Dental Alt INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3000,,6000,,,,0
+40513CA0410038,Kaiser Permanente,Platinum 90 HMO 0/20 + Child Dental INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,,,0
+40513CA0410039,Kaiser Permanente,Gold 80 HMO 250/35 + Child Dental INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+40513CA0410041,Kaiser Permanente,Gold 80 HRA HMO 2250/35 + Child Dental INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2250,,4500,,8500,,17000,,25,,0
+40513CA0410042,Kaiser Permanente,Silver 70 HMO 1900/65 + Child Dental Alt INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1900,,3800,,8750,,17500,,45,,0
+40513CA0410043,Kaiser Permanente,Silver 70 HMO 2500/55 + Child Dental INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,35,,0
+40513CA0410044,Kaiser Permanente,Bronze 60 HMO 6300/65 + Child Dental INF,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,6300,,12600,,8600,,17200,,40,,0
+40513CA0410045,Kaiser Permanente,Bronze 60 HDHP HMO 7000/0 + Child Dental INF,expanded_bronze,HMO,True,True,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,7000,,14000,,0,,0
+40513CA0410046,Kaiser Permanente,Silver 70 HDHP HMO 2700/25% + Child Dental,silver,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,2700,,5400,,7200,,14400,,25,,0
+40513CA0410048,Kaiser Permanente,Silver 70 HDHP HMO 2700/25% + Child Dental INF,silver,HMO,True,True,In-Network: $0 / Out-of-Network: Not Covered,2700,,5400,,7200,,14400,,25,,0
+40513CA0410049,Kaiser Permanente,Silver 70 HMO 2300/65 + Child Dental Alt,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2300,,4600,,8750,,17500,,45,,0
+40513CA0410050,Kaiser Permanente,Silver 70 HMO 2300/65 + Child Dental Alt INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2300,,4600,,8750,,17500,,45,,0
+40513CA0410051,Kaiser Permanente,Gold 80 HMO 0/30 + Child Dental Alt,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,,,0
+40513CA0410052,Kaiser Permanente,Gold 80 HMO 0/30 + Child Dental Alt INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,,,0
+40513CA0410053,Kaiser Permanente,Gold 80 HMO 1000/40 + Child Dental Alt,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,7800,,15600,,,,0
+40513CA0410054,Kaiser Permanente,Gold 80 HMO 1000/40 + Child Dental Alt INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,7800,,15600,,,,0
+40513CA0410055,Kaiser Permanente,Bronze 60 HMO 5400/60 + Child Dental Alt,expanded_bronze,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,5400,,10800,,8300,,16600,,50,,0
+40513CA0410056,Kaiser Permanente,Bronze 60 HMO 5400/60 + Child Dental Alt INF,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,5400,,10800,,8300,,16600,,50,,0
+40513CA0410057,Kaiser Permanente,Silver 70 HMO 2800/65 + Child Dental Alt,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2800,,5600,,8750,,17500,,45,,0
+40513CA0410058,Kaiser Permanente,Silver 70 HMO 2800/65 + Child Dental Alt INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2800,,5600,,8750,,17500,,45,,0
+40513CA0410059,Kaiser Permanente,Gold 80 HDHP HMO 1600/15% + Child Dental Alt,gold,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,1600,,3200,,3550,,7100,,15,,0
+40513CA0410060,Kaiser Permanente,Gold 80 HDHP HMO 1600/15% + Child Dental Alt INF,gold,HMO,True,True,In-Network: $0 / Out-of-Network: Not Covered,1600,,3200,,3550,,7100,,15,,0
+40733CA0090083,Aetna,CA Gold PPO 80/50 1000,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1000,2000,2000,4000,7000,14000,14000,28000,20,50,0
+40733CA0090084,Aetna,CA Gold PPO 80/50 1000 wINF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1000,2000,2000,4000,7000,14000,14000,28000,20,50,0
+40733CA0090085,Aetna,CA Bronze PPO 50/50 8300,bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,8300,16600,16600,33200,8550,17100,17100,34200,50,50,0
+40733CA0090086,Aetna,CA Bronze PPO 50/50 8300 wINF,bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,8300,16600,16600,33200,8550,17100,17100,34200,50,50,0
+40733CA0090087,Aetna,CA Bronze PPO 55/50 4600,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,4600,9200,9200,18400,8400,16800,16800,33600,45,50,0
+40733CA0090088,Aetna,CA Bronze PPO 55/50 4600 wINF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,4600,9200,9200,18400,8400,16800,16800,33600,45,50,0
+40733CA0090089,Aetna,CA Silver PPO 60/50 2100,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2100,4200,4200,8400,9100,18200,18200,36400,40,50,0
+40733CA0090090,Aetna,CA Silver PPO 60/50 2100 wINF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2100,4200,4200,8400,9100,18200,18200,36400,40,50,0
+40733CA0110488,Aetna,CA Bronze MC 100 7000 HSA M,expanded_bronze,POS,True,True,In-Network: $0 / Out-of-Network: $0 after deductible,7000,14000,14000,28000,7000,14000,14000,28000,0,0,0
+40733CA0110607,Aetna,CA Gold MC 80/50 350 M,gold,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,350,700,700,1400,7800,15600,15600,31200,20,50,0
+40733CA0110608,Aetna,CA Gold MC 75/50 500,gold,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,500,1000,1000,2000,8200,16400,16400,32800,25,50,0
+40733CA0110652,Aetna,CA Silver MC 65/50 2500 M,silver,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2500,5000,5000,10000,8600,17200,17200,34400,35,50,0
+40733CA0110696,Aetna,CA Silver MC 60/50 2100,silver,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2100,4200,4200,8400,9100,18200,18200,36400,40,50,0
+40733CA0110718,Aetna,CA Bronze MC 50/50 8300,bronze,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,8300,16600,16600,33200,8550,17100,17100,34200,50,50,0
+40733CA0110735,Aetna,CA Gold MC 70/50 1250,gold,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1250,2500,2500,5000,7500,15000,15000,30000,30,50,0
+40733CA0110762,Aetna,CA Platinum MC 90/50 0 M,platinum,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,4500,9000,9000,18000,10,50,0
+40733CA0110769,Aetna,CA Silver MC 65/50 2600,silver,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2600,5200,5200,10400,9000,18000,18000,36000,35,50,0
+40733CA0110812,Aetna,CA Gold MC 80/50 1500,gold,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1500,3000,3000,6000,5000,10000,10000,20000,20,50,0
+40733CA0110835,Aetna,CA Bronze MC 100 7000 HSA wINF,expanded_bronze,POS,True,True,In-Network: $0 / Out-of-Network: $0 after deductible,7000,14000,14000,28000,7000,14000,14000,28000,0,0,0
+40733CA0110836,Aetna,CA Bronze MC 100/50 7350,expanded_bronze,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,7350,14700,14700,29400,8700,17500,17400,35000,,50,0
+40733CA0110837,Aetna,CA Bronze MC 100/50 7350 wINF,expanded_bronze,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,7350,14700,14700,29400,8700,17500,17400,35000,,50,0
+40733CA0110838,Aetna,CA Bronze MC 50/50 8300 wINF,bronze,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,8300,16600,16600,33200,8550,17100,17100,34200,50,50,0
+40733CA0110839,Aetna,CA Bronze MC 55/50 4600,expanded_bronze,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,4600,9200,9200,18400,8400,16800,16800,33600,45,50,0
+40733CA0110840,Aetna,CA Bronze MC 55/50 4600 wINF,expanded_bronze,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,4600,9200,9200,18400,8400,16800,16800,33600,45,50,0
+40733CA0111003,Aetna,CA Gold MC 70/50 1250 wINF,gold,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1250,2500,2500,5000,7500,15000,15000,30000,30,50,0
+40733CA0111004,Aetna,CA Gold MC 75/50 500 wINF,gold,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,500,1000,1000,2000,8200,16400,16400,32800,25,50,0
+40733CA0111005,Aetna,CA Gold MC 80/50 1500 wINF,gold,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1500,3000,3000,6000,5000,10000,10000,20000,20,50,0
+40733CA0111006,Aetna,CA Gold MC 80/50 350 wINF,gold,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,350,700,700,1400,7800,15600,15600,31200,20,50,0
+40733CA0111007,Aetna,CA Gold MC 90/50 3000 HSA,gold,POS,True,True,In-Network: $0 / Out-of-Network: 50% after deductible,3000,6000,6000,12000,3750,7500,7500,15000,10,50,0
+40733CA0111008,Aetna,CA Gold MC 90/50 3000 HSA wINF,gold,POS,True,True,In-Network: $0 / Out-of-Network: 50% after deductible,3000,6000,6000,12000,3750,7500,7500,15000,10,50,0
+40733CA0111195,Aetna,CA Platinum MC 80/50 250,platinum,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,250,1000,500,2000,4200,8400,8400,16800,20,50,0
+40733CA0111196,Aetna,CA Platinum MC 80/50 250 wINF,platinum,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,250,1000,500,2000,4200,8400,8400,16800,20,50,0
+40733CA0111197,Aetna,CA Platinum MC 90/50 0 wINF,platinum,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,4500,9000,9000,18000,10,50,0
+40733CA0111278,Aetna,CA Silver MC 60/50 2100 wINF,silver,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2100,4200,4200,8400,9100,18200,18200,36400,40,50,0
+40733CA0111279,Aetna,CA Silver MC 65/50 2500 wINF,silver,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2500,5000,5000,10000,8600,17200,17200,34400,35,50,0
+40733CA0111280,Aetna,CA Silver MC 65/50 2600 wINF,silver,POS,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2600,5200,5200,10400,9000,18000,18000,36000,35,50,0
+49116CA0000001-77,CalChoice,UnitedHealthcare SignatureValue Silver HMO A,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2400,,4800,,9100,,18200,,40,,0
+49116CA0000002-77,CalChoice,UnitedHealthcare SignatureValue Gold HMO A,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,8500,,17000,,30,,0
+49116CA0000003-77,CalChoice,UnitedHealthcare SignatureValue Platinum HMO A,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,20,,0
+49116CA0000004-77,CalChoice,UnitedHealthcare SignatureValue Platinum HMO E,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3000,,6000,,,,0
+49116CA0000005-77,CalChoice,UnitedHealthcare SignatureValue Gold HMO F,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,,,0
+49116CA0000006-77,CalChoice,UnitedHealthcare SignatureValue Gold HMO H,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,8000,,16000,,20,,0
+49116CA0000019-77,CalChoice,UnitedHealthcare Harmony Silver HMO G,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2400,,4800,,9100,,18200,,30,,0
+49116CA0000020-77,CalChoice,UnitedHealthcare Harmony Gold HMO L,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,8500,,17000,,30,,0
+49116CA0000021-77,CalChoice,UnitedHealthcare Harmony Gold HMO M,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,,,0
+49116CA0000022-77,CalChoice,UnitedHealthcare Harmony Gold HMO N,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,8000,,16000,,20,,0
+49116CA0000023-77,CalChoice,UnitedHealthcare Harmony Platinum HMO H,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,20,,0
+49116CA0000024-77,CalChoice,UnitedHealthcare Harmony Platinum HMO I,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3000,,6000,,,,0
+49116CA0000025-77,CalChoice,UnitedHealthcare Harmony Silver HMO F,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2400,,4800,,9100,,18200,,40,,0
+49116CA0000027-77,CalChoice,UnitedHealthcare Harmony Gold HMO P,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,40,,0
+49116CA0000028-77,CalChoice,UnitedHealthcare SignatureValue Gold HMO Q,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,40,,0
+49116CA0000030-77,CalChoice,UnitedHealthcare Harmony Platinum HMO K,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,20,,0
+49116CA0000031-77,CalChoice,UnitedHealthcare SignatureValue Platinum HMO L,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,20,,0
+49116CA0000032-77,CalChoice,UnitedHealthcare SignatureValue Platinum HMO B,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,,,0
+49116CA0000033-77,CalChoice,UnitedHealthcare Harmony Platinum HMO M,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,0,,0
+49116CA0070431,UnitedHealthcare,SignatureValue HMO Platinum 25-50/20%,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,20,,0
+49116CA0070436,UnitedHealthcare,SignatureValue HMO Silver 60-95/40%/2400ded,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2400,,4800,,9100,,18200,,40,,0
+49116CA0070481,UnitedHealthcare,SignatureValue Harmony HMO Platinum 25-50/20%,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,20,,0
+49116CA0070497,UnitedHealthcare,SignatureValue Harmony HMO Silver CWYL /L61S,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2400,,4800,,9100,,18200,,40,,0
+49116CA0070708,UnitedHealthcare,SignatureValue Harmony HMO Platinum CWXX /N92S,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,,,0
+49116CA0070709,UnitedHealthcare,SignatureValue HMO Platinum CWXY /N92S,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,,,0
+49116CA0070711,UnitedHealthcare,SignatureValue Harmony HMO Platinum CWX2 /N93S,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3000,,6000,,,,0
+49116CA0070718,UnitedHealthcare,SignatureValue HMO Platinum CWX3 /N93S,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3000,,6000,,,,0
+49116CA0070724,UnitedHealthcare,SignatureValue Harmony HMO Platinum 25-50/10%,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,10,,0
+49116CA0070731,UnitedHealthcare,SignatureValue HMO Platinum 25-50/10%,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,10,,0
+49116CA0070737,UnitedHealthcare,SignatureValue Harmony HMO Gold CWX8 /N94S,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+49116CA0070738,UnitedHealthcare,SignatureValue HMO Gold CWX9 /N94S,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+49116CA0070740,UnitedHealthcare,SignatureValue Harmony HMO Gold CWYB /N95S,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,,,0
+49116CA0070747,UnitedHealthcare,SignatureValue HMO Gold CWYC /N95S,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,,,0
+49116CA0070753,UnitedHealthcare,SignatureValue Harmony HMO Gold 35-70/20%/500ded,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,8000,,16000,,20,,0
+49116CA0070760,UnitedHealthcare,SignatureValue HMO Gold 35-70/20%/500ded,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,8000,,16000,,20,,0
+49116CA0070766,UnitedHealthcare,SignatureValue Harmony HMO Gold CWYH /N96S,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,8500,,17000,,30,,0
+49116CA0070773,UnitedHealthcare,SignatureValue HMO Gold 35-70/30%/1500ded,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,8500,,17000,,30,,0
+49116CA0070779,UnitedHealthcare,SignatureValue Harmony HMO Silver CWYN /L61S,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2400,,4800,,9100,,18200,,40,,0
+49116CA0100001-13,UnitedHealthcare,Core PPO Silver CVQK /L41S,silver,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2450,4900,4900,9800,9100,18200,18200,36400,40,50,0
+49116CA0100002-13,UnitedHealthcare,Core PPO Silver CVQJ /L41S,silver,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1950,3900,3900,7800,9100,18200,18200,36400,40,50,0
+49116CA0100003-13,UnitedHealthcare,Select Plus PPO Silver CVQX /L41S,silver,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2450,4900,4900,9800,9100,18200,18200,36400,40,50,0
+49116CA0100004-13,UnitedHealthcare,Select Plus PPO Silver CVQW /L41S,silver,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1950,3900,3900,7800,9100,18200,18200,36400,40,50,0
+49116CA0100005-13,UnitedHealthcare,Core PPO Gold CVPV /L40S,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1500,3000,3000,6000,8800,17600,17600,34200,30,50,0
+49116CA0100006-13,UnitedHealthcare,Core PPO Gold CVQI /N55S,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,2000,2000,4000,8500,17000,17000,34000,20,50,0
+49116CA0100007-13,UnitedHealthcare,Core PPO Gold CVQH /N55S,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,1000,1000,2000,8500,17000,17000,34000,20,50,0
+49116CA0100008-13,UnitedHealthcare,Core PPO Gold CVQF /N54S,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,8500,17000,17000,34000,30,50,0
+49116CA0100009-13,UnitedHealthcare,Select Plus PPO Gold CVQZ /L40S,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1500,3000,3000,6000,8800,17600,17600,34200,30,50,0
+49116CA0100010-13,UnitedHealthcare,Select Plus PPO Gold CVQV /N55S,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,2000,2000,4000,8500,17000,17000,34000,20,50,0
+49116CA0100011-13,UnitedHealthcare,Select Plus PPO Gold CVQU /N55S,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,1000,1000,2000,8500,17000,17000,34000,20,50,0
+49116CA0100012-13,UnitedHealthcare,Select Plus PPO Gold CVQS /N54S,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,8500,17000,17000,34000,30,50,0
+49116CA0100013-13,UnitedHealthcare,Core PPO Platinum CVQB /L44S,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,1000,500,2000,3600,7200,7200,14400,20,50,0
+49116CA0100014-13,UnitedHealthcare,Core PPO Platinum CVQE /L47S,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,1000,500,2000,3500,7000,7000,14000,20,50,0
+49116CA0100015-13,UnitedHealthcare,Core PPO Platinum CVQG /L44S,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,1000,500,2000,3600,7200,7200,14400,10,50,0
+49116CA0100016-13,UnitedHealthcare,Core PPO Platinum CVQA /L44S,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,3600,7200,7200,14400,10,50,0
+49116CA0100017-13,UnitedHealthcare,Select Plus PPO Platinum CVQO /L44S,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,1000,500,2000,3600,7200,7200,14400,20,50,0
+49116CA0100018-13,UnitedHealthcare,Select Plus PPO Platinum CVQR /L47S,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,1000,500,2000,3500,7000,7000,14000,20,50,0
+49116CA0100019-13,UnitedHealthcare,Select Plus PPO Platinum CVQT /L44S,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,1000,500,2000,3600,7200,7200,14400,10,50,0
+49116CA0100020-13,UnitedHealthcare,Select Plus PPO Platinum CVQN /L44S,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,3600,7200,7200,14400,10,50,0
+49116CA0100021-13,UnitedHealthcare,Non-Differential PPO Silver CEMI /F82,silver,PPO,False,False,In-Network: $0 / Out-of-Network: $0,2250,2250,4500,4500,8500,8500,17000,17000,30,30,0
+49116CA0100023-13,UnitedHealthcare,Core PPO Bronze CEMD /K92L,bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,6300,12600,12600,25200,8200,15900,16400,31800,40,50,0
+49116CA0100025-13,UnitedHealthcare,Core PPO Silver CVPT /N53L,silver,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,5000,5000,10000,8600,17200,17200,34400,35,50,0
+49116CA0100027-13,UnitedHealthcare,Core PPO Gold CEMB /K90L,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,350,1400,700,2800,7800,12800,15600,25600,20,50,0
+49116CA0100029-13,UnitedHealthcare,Core PPO Platinum CEMA /K89L,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,4500,9000,9000,18000,10,50,0
+49116CA0100030-13,UnitedHealthcare,Doctors Plan EPO Silver CVP7 /L41S,silver,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2450,,4900,,9100,,18200,,40,,0
+49116CA0100031-13,UnitedHealthcare,Doctors Plan EPO Silver CVP6 /L41S,silver,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1950,,3900,,9100,,18200,,40,,0
+49116CA0100032-13,UnitedHealthcare,Doctors Plan EPO Gold CVP5 /L40S,gold,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,8800,,17600,,30,,0
+49116CA0100033-13,UnitedHealthcare,Doctors Plan EPO Gold CVP4 /N55S,gold,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,8500,,17000,,20,,0
+49116CA0100034-13,UnitedHealthcare,Doctors Plan EPO Gold CVP3 /N55S,gold,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,8500,,17000,,20,,0
+49116CA0100035-13,UnitedHealthcare,Doctors Plan EPO Gold CVP9 /N54S,gold,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,8500,,17000,,30,,0
+49116CA0100036-13,UnitedHealthcare,Doctors Plan EPO Platinum CVPX /L44S,platinum,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,3600,,7200,,20,,0
+49116CA0100037-13,UnitedHealthcare,Doctors Plan EPO Platinum CVPY /L47S,platinum,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,3500,,7000,,20,,0
+49116CA0100038-13,UnitedHealthcare,Doctors Plan EPO Platinum CVQM /L44S,platinum,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,3600,,7200,,10,,0
+49116CA0100039-13,UnitedHealthcare,Doctors Plan EPO Platinum CVPZ /L44S,platinum,EPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3600,,7200,,10,,0
+64210CA0000001-77,CalChoice,Sutter Health Plus Bronze HMO A,expanded_bronze,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,6300,,12600,,8200,,16400,,40,,0
+64210CA0000002-77,CalChoice,Sutter Health Plus Gold HMO A,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,5000,,10000,,20,,0
+64210CA0000003-77,CalChoice,Sutter Health Plus Platinum HMO A,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,,,0
+64210CA0000004-77,CalChoice,Sutter Health Plus Bronze HMO B,expanded_bronze,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,7000,,14000,,0,,0
+64210CA0000005-77,CalChoice,Sutter Health Plus Silver HMO B,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,30,,0
+64210CA0000006-77,CalChoice,Sutter Health Plus Gold HMO B,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+64210CA0000007-77,CalChoice,Sutter Health Plus Platinum HMO B,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,10,,0
+64210CA0000008-77,CalChoice,Sutter Health Plus Silver HMO C,silver,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,7050,,14100,,20,,0
+64210CA0000009-77,CalChoice,Sutter Health Plus Gold HMO C,gold,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,6000,,12000,,20,,0
+64210CA0630040,Sutter Health Plus,Platinum MS80 HMO,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,,,0
+64210CA0630041,Sutter Health Plus,Gold MS83 HMO,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,,,0
+64210CA0630043,Sutter Health Plus,Bronze MS86 HMO,expanded_bronze,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,6300,,12600,,8200,,16400,,40,,0
+64210CA0630044,Sutter Health Plus,Bronze SD48 HDHP HMO,expanded_bronze,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,7000,,14000,,0,,0
+64210CA0630056,Sutter Health Plus,Platinum MS68 HMO,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3500,,7000,,,,0
+64210CA0630059,Sutter Health Plus,Gold MS77 HMO,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,5000,,10000,,20,,0
+64210CA0630061,Sutter Health Plus,Silver MS84 HMO,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,40,,0
+64210CA0630063,Sutter Health Plus,Silver SD01 HDHP HMO,silver,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,7050,,14100,,25,,0
+64210CA0630065,Sutter Health Plus,Gold MS62 HMO,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7500,,15000,,,,0
+64210CA0690001,Sutter Health Plus,Gold SD02 HDHP HMO,gold,HMO,True,False,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,6000,,12000,,20,,0
+67138CA0000002-77,CalChoice,Health Net WholeCare Silver HMO A,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,50,,0
+67138CA0000003-77,CalChoice,Health Net WholeCare Gold HMO A,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,40,,0
+67138CA0000004-77,CalChoice,Health Net WholeCare Gold HMO B,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0000006-77,CalChoice,Health Net WholeCare Gold HMO C,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,,,0
+67138CA0000007-77,CalChoice,Health Net WholeCare Platinum HMO C,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,,,0
+67138CA0000010-77,CalChoice,Health Net Full Gold HMO E,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,,,0
+67138CA0000011-77,CalChoice,Health Net Full Platinum HMO E,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,,,0
+67138CA0000012-77,CalChoice,Health Net Full Gold HMO F,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0000013-77,CalChoice,Health Net WholeCare Platinum HMO F,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,,,0
+67138CA0000015-77,CalChoice,Health Net Full Platinum HMO H,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,,,0
+67138CA0000016-77,CalChoice,Health Net Full Gold HMO G,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+67138CA0000017-77,CalChoice,Health Net Full Silver HMO D,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,50,,0
+67138CA0000018-77,CalChoice,Health Net SmartCare Gold HMO H,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,,,0
+67138CA0000019-77,CalChoice,Health Net SmartCare Gold HMO I,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,,,0
+67138CA0000020-77,CalChoice,Health Net SmartCare Platinum HMO I,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,0,,0
+67138CA0000021-77,CalChoice,Health Net SmartCare Platinum HMO J,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,,,0
+67138CA0240057,Health Net,Full Network HMO Platinum $10,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,10,,0
+67138CA0240057-33,Health Net,Full Network HMO Platinum $10 + Chiropractic,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,10,,0
+67138CA0240075,Health Net,Full Network HMO Platinum $20,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,20,,0
+67138CA0240075-33,Health Net,Full Network HMO Platinum $20 + Chiropractic,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,20,,0
+67138CA0240093,Health Net,Full Network HMO Gold $30,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,30,,0
+67138CA0240093-33,Health Net,Full Network HMO Gold $30 + Chiropractic,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,30,,0
+67138CA0240111,Health Net,Full Network HMO Gold $40,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0240111-33,Health Net,Full Network HMO Gold $40 + Chiropractic,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0240147,Health Net,Full Network HMO Platinum $10 + Infertility,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,10,,0
+67138CA0240147-33,Health Net,Full Network HMO Platinum $10 + Infertility + Chiropractic,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,10,,0
+67138CA0240165,Health Net,Full Network HMO Platinum $20 + Infertility,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,20,,0
+67138CA0240165-33,Health Net,Full Network HMO Platinum $20 + Infertility + Chiropractic,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,20,,0
+67138CA0240183,Health Net,Full Network HMO Gold $30 + Infertility,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,30,,0
+67138CA0240183-33,Health Net,Full Network HMO Gold $30 + Infertility + Chiropractic,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,30,,0
+67138CA0240201,Health Net,Full Network HMO Gold $40 + Infertility,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0240201-33,Health Net,Full Network HMO Gold $40 + Infertility + Chiropractic,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0240237,Health Net,Full Network HMO Silver $55,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,50,,0
+67138CA0240237-33,Health Net,Full Network HMO Silver $55 + Chiropractic,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,50,,0
+67138CA0240255,Health Net,Full Network HMO Silver $55 + Infertility,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,50,,0
+67138CA0240255-33,Health Net,Full Network HMO Silver $55 + Infertility + Chiropractic,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,50,,0
+67138CA0240453,Health Net,Full Network HMO Platinum $30,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,30,,0
+67138CA0240453-33,Health Net,Full Network HMO Platinum $30 + Chiropractic,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,30,,0
+67138CA0240471,Health Net,Full Network HMO Platinum $30 + Infertility,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,30,,0
+67138CA0240471-33,Health Net,Full Network HMO Platinum $30 + Infertility + Chiropractic,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,30,,0
+67138CA0240489,Health Net,Full Network HMO Gold $35,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,30,,0
+67138CA0240489-33,Health Net,Full Network HMO Gold $35 + Chiropractic,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,30,,0
+67138CA0240507,Health Net,Full Network HMO Gold $35 + Infertility,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,30,,0
+67138CA0240507-33,Health Net,Full Network HMO Gold $35 + Infertility + Chiropractic,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,30,,0
+67138CA0240528,Health Net,Full Network HMO Gold $50,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0240528-33,Health Net,Full Network HMO Gold $50 + Chiropractic,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0240546,Health Net,Full Network HMO Gold $50 + Infertility,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0240546-33,Health Net,Full Network HMO Gold $50 + Infertility + Chiropractic,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0240570,Health Net,Full Network HMO Platinum $0,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,30,,0
+67138CA0240570-33,Health Net,Full Network HMO Platinum $0 + Chiropractic,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,30,,0
+67138CA0240571,Health Net,Full Network HMO Platinum $0 + Infertility,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,30,,0
+67138CA0240571-33,Health Net,Full Network HMO Platinum $0 + Infertility + Chiropractic,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,30,,0
+67138CA0510081,Health Net,SmartCare HMO Platinum $10,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,10,,0
+67138CA0510081-33,Health Net,SmartCare HMO Platinum $10 + Chiropractic,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,10,,0
+67138CA0510088,Health Net,SmartCare HMO Platinum $20,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,20,,0
+67138CA0510088-33,Health Net,SmartCare HMO Platinum $20 + Chiropractic,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,20,,0
+67138CA0510095,Health Net,SmartCare HMO Gold $30,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,30,,0
+67138CA0510095-33,Health Net,SmartCare HMO Gold $30 + Chiropractic,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,30,,0
+67138CA0510102,Health Net,SmartCare HMO Gold $40,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0510102-33,Health Net,SmartCare HMO Gold $40 + Chiropractic,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0510116,Health Net,SmartCare HMO Platinum $10 + Infertility,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,10,,0
+67138CA0510116-33,Health Net,SmartCare HMO Platinum $10 + Infertility + Chiropractic,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,10,,0
+67138CA0510123,Health Net,SmartCare HMO Platinum $20 + Infertility,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,20,,0
+67138CA0510123-33,Health Net,SmartCare HMO Platinum $20 + Infertility + Chiropractic,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,20,,0
+67138CA0510130,Health Net,SmartCare HMO Gold $30 + Infertility,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,30,,0
+67138CA0510130-33,Health Net,SmartCare HMO Gold $30 + Infertility + Chiropractic,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,30,,0
+67138CA0510137,Health Net,SmartCare HMO Gold $40 + Infertility,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0510137-33,Health Net,SmartCare HMO Gold $40 + Infertility + Chiropractic,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0510151,Health Net,SmartCare HMO Silver $55,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,50,,0
+67138CA0510151-33,Health Net,SmartCare HMO Silver $55 + Chiropractic,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,50,,0
+67138CA0510158,Health Net,SmartCare HMO Silver $55 + Infertility,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,50,,0
+67138CA0510158-33,Health Net,SmartCare HMO Silver $55 + Infertility + Chiropractic,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,50,,0
+67138CA0510165,Health Net,SmartCare HMO Platinum $30,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,30,,0
+67138CA0510165-33,Health Net,SmartCare HMO Platinum $30 + Chiropractic,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,30,,0
+67138CA0510172,Health Net,SmartCare HMO Platinum $30 + Infertility,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,30,,0
+67138CA0510172-33,Health Net,SmartCare HMO Platinum $30 + Infertility + Chiropractic,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,30,,0
+67138CA0510179,Health Net,SmartCare HMO Gold $35,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,30,,0
+67138CA0510179-33,Health Net,SmartCare HMO Gold $35 + Chiropractic,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,30,,0
+67138CA0510186,Health Net,SmartCare HMO Gold $35 + Infertility,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,30,,0
+67138CA0510186-33,Health Net,SmartCare HMO Gold $35 + Infertility + Chiropractic,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,30,,0
+67138CA0510193,Health Net,SmartCare HMO Gold $50,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0510193-33,Health Net,SmartCare HMO Gold $50 + Chiropractic,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0510200,Health Net,SmartCare HMO Gold $50 + Infertility,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0510200-33,Health Net,SmartCare HMO Gold $50 + Infertility + Chiropractic,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0510207,Health Net,SmartCare HMO Platinum $0,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,30,,0
+67138CA0510207-33,Health Net,SmartCare HMO Platinum $0 + Chiropractic,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,30,,0
+67138CA0510208,Health Net,SmartCare HMO Platinum $0 + Infertility,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,30,,0
+67138CA0510208-33,Health Net,SmartCare HMO Platinum $0 + Infertility + Chiropractic,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,30,,0
+67138CA0600024,Health Net,WholeCare HMO Platinum $10,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,10,,0
+67138CA0600024-33,Health Net,WholeCare HMO Platinum $10 + Chiropractic,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,10,,0
+67138CA0600025,Health Net,WholeCare HMO Platinum $20,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,20,,0
+67138CA0600025-33,Health Net,WholeCare HMO Platinum $20 + Chiropractic,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,20,,0
+67138CA0600026,Health Net,WholeCare HMO Gold $30,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,30,,0
+67138CA0600026-33,Health Net,WholeCare HMO Gold $30 + Chiropractic,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,30,,0
+67138CA0600027,Health Net,WholeCare HMO Gold $40,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0600027-33,Health Net,WholeCare HMO Gold $40 + Chiropractic,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0600029,Health Net,WholeCare HMO Platinum $10 + Infertility,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,10,,0
+67138CA0600029-33,Health Net,WholeCare HMO Platinum $10 + Infertility + Chiropractic,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,1900,,3800,,10,,0
+67138CA0600030,Health Net,WholeCare HMO Platinum $20 + Infertility,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,20,,0
+67138CA0600030-33,Health Net,WholeCare HMO Platinum $20 + Infertility + Chiropractic,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,20,,0
+67138CA0600031,Health Net,WholeCare HMO Gold $30 + Infertility,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,30,,0
+67138CA0600031-33,Health Net,WholeCare HMO Gold $30 + Infertility + Chiropractic,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,30,,0
+67138CA0600032,Health Net,WholeCare HMO Gold $40 + Infertility,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0600032-33,Health Net,WholeCare HMO Gold $40 + Infertility + Chiropractic,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0600034,Health Net,WholeCare HMO Silver $55,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,50,,0
+67138CA0600034-33,Health Net,WholeCare HMO Silver $55 + Chiropractic,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,50,,0
+67138CA0600035,Health Net,WholeCare HMO Silver $55 + Infertility,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,50,,0
+67138CA0600035-33,Health Net,WholeCare HMO Silver $55 + Infertility + Chiropractic,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,9100,,18200,,50,,0
+67138CA0600036,Health Net,WholeCare HMO Platinum $30,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,30,,0
+67138CA0600036-33,Health Net,WholeCare HMO Platinum $30 + Chiropractic,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,30,,0
+67138CA0600037,Health Net,WholeCare HMO Platinum $30 + Infertility,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,30,,0
+67138CA0600037-33,Health Net,WholeCare HMO Platinum $30 + Infertility + Chiropractic,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2500,,5000,,30,,0
+67138CA0600038,Health Net,WholeCare HMO Gold $35,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,30,,0
+67138CA0600038-33,Health Net,WholeCare HMO Gold $35 + Chiropractic,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,30,,0
+67138CA0600039,Health Net,WholeCare HMO Gold $35 + Infertility,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,30,,0
+67138CA0600039-33,Health Net,WholeCare HMO Gold $35 + Infertility + Chiropractic,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7250,,14500,,30,,0
+67138CA0600041,Health Net,WholeCare HMO Gold $50,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0600041-33,Health Net,WholeCare HMO Gold $50 + Chiropractic,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0600042,Health Net,WholeCare HMO Gold $50 + Infertility,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0600042-33,Health Net,WholeCare HMO Gold $50 + Infertility + Chiropractic,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7500,,15000,,40,,0
+67138CA0600043,Health Net,WholeCare HMO Platinum $0,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,30,,0
+67138CA0600043-33,Health Net,WholeCare HMO Platinum $0 + Chiropractic,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,30,,0
+67138CA0600044,Health Net,WholeCare HMO Platinum $0 + Infertility,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,30,,0
+67138CA0600044-33,Health Net,WholeCare HMO Platinum $0 + Infertility + Chiropractic,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,3150,,6300,,30,,0
+67138CA0730007,Health Net,Platinum PPO 0/15,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,4500,9000,9000,18000,10,50,0
+67138CA0730007-33,Health Net,Platinum PPO 0/15 + Chiropractic,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,4500,9000,9000,18000,10,50,0
+67138CA0730026,Health Net,Platinum PPO 250/15,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,250,1000,500,2000,3800,9000,7600,18000,10,50,0
+67138CA0730026-33,Health Net,Platinum PPO 250/15 + Chiropractic,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,250,1000,500,2000,3800,9000,7600,18000,10,50,0
+67138CA0730045,Health Net,Gold PPO 0/35,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,2000,0,4000,8100,16200,16200,32400,30,50,0
+67138CA0730045-33,Health Net,Gold PPO 0/35 + Chiropractic,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,0,2000,0,4000,8100,16200,16200,32400,30,50,0
+67138CA0730064,Health Net,Gold PPO 1000/35,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1000,2000,2000,4000,8000,16000,16000,32000,30,50,0
+67138CA0730064-33,Health Net,Gold PPO 1000/35 + Chiropractic,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1000,2000,2000,4000,8000,16000,16000,32000,30,50,0
+67138CA0730083,Health Net,Gold PPO 1600/0,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1600,3200,3200,6400,8500,17000,17000,34000,40,50,0
+67138CA0730083-33,Health Net,Gold PPO 1600/0 + Chiropractic,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1600,3200,3200,6400,8500,17000,17000,34000,40,50,0
+67138CA0730102,Health Net,Gold PPO 350/25,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,350,2000,700,4000,7800,15600,15600,31200,20,50,0
+67138CA0730102-33,Health Net,Gold PPO 350/25 + Chiropractic,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,350,2000,700,4000,7800,15600,15600,31200,20,50,0
+67138CA0730121,Health Net,Gold PPO 500/20,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1000,4000,8000,16000,16000,32000,30,50,0
+67138CA0730121-33,Health Net,Gold PPO 500/20 + Chiropractic,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1000,4000,8000,16000,16000,32000,30,50,0
+67138CA0730140,Health Net,Gold PPO 750/15,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,750,2250,1500,4500,8200,16400,16400,32800,30,50,0
+67138CA0730140-33,Health Net,Gold PPO 750/15 + Chiropractic,gold,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,750,2250,1500,4500,8200,16400,16400,32800,30,50,0
+67138CA0730159,Health Net,Silver HDHP PPO 1500/50%,silver,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,1500,3000,3000,6000,7000,14000,14000,28000,50,50,0
+67138CA0730159-33,Health Net,Silver HDHP PPO 1500/50% + Chiropractic,silver,PPO,True,False,In-Network: $0 / Out-of-Network: 50% after deductible,1500,3000,3000,6000,7000,14000,14000,28000,50,50,0
+67138CA0730178,Health Net,Silver PPO 1700/50,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1700,3400,3400,6800,8900,17800,17800,35600,40,50,0
+67138CA0730178-33,Health Net,Silver PPO 1700/50 + Chiropractic,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,1700,3400,3400,6800,8900,17800,17800,35600,40,50,0
+67138CA0730197,Health Net,Silver PPO 2250/60,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,2250,4500,4500,9000,9100,18200,18200,36400,40,50,0
+67138CA0730197-33,Health Net,Silver PPO 2250/60 + Chiropractic,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,2250,4500,4500,9000,9100,18200,18200,36400,40,50,0
+67138CA0730216,Health Net,Silver PPO 2500/55,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,2500,5000,5000,10000,8600,17200,17200,34400,35,50,0
+67138CA0730216-33,Health Net,Silver PPO 2500/55 + Chiropractic,silver,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,2500,5000,5000,10000,8600,17200,17200,34400,35,50,0
+67138CA0730235,Health Net,Bronze HDHP PPO 7000/0%,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: $0 after deductible,7000,14000,14000,28000,7000,14000,14000,28000,0,0,0
+67138CA0730235-33,Health Net,Bronze HDHP PPO 7000/0% + Chiropractic,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: $0 after deductible,7000,14000,14000,28000,7000,14000,14000,28000,0,0,0
+67138CA0730254,Health Net,Bronze PPO 6300/65,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,6300,12600,12600,25200,8200,16400,16400,32800,40,50,0
+67138CA0730254-33,Health Net,Bronze PPO 6300/65 + Chiropractic,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: 50% after deductible,6300,12600,12600,25200,8200,16400,16400,32800,40,50,0
+67138CA0730273,Health Net,Platinum PPO 0/15 + Infertility,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,4500,9000,9000,18000,10,50,0
+67138CA0730273-33,Health Net,Platinum PPO 0/15 + Infertility + Chiropractic,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,1000,0,2000,4500,9000,9000,18000,10,50,0
+67138CA0730292,Health Net,Platinum PPO 250/15 + Infertility,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,250,1000,500,2000,3800,9000,7600,18000,10,50,0
+67138CA0730292-33,Health Net,Platinum PPO 250/15 + Infertility + Chiropractic,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,250,1000,500,2000,3800,9000,7600,18000,10,50,0
+67138CA0730311,Health Net,Gold PPO 0/35 + Infertility,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,2000,0,4000,8100,16200,16200,32400,30,50,0
+67138CA0730311-33,Health Net,Gold PPO 0/35 + Infertility + Chiropractic,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,0,2000,0,4000,8100,16200,16200,32400,30,50,0
+67138CA0730330,Health Net,Gold PPO 1000/35 + Infertility,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1000,2000,2000,4000,8000,16000,16000,32000,30,50,0
+67138CA0730330-33,Health Net,Gold PPO 1000/35 + Infertility + Chiropractic,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1000,2000,2000,4000,8000,16000,16000,32000,30,50,0
+67138CA0730349,Health Net,Gold PPO 1600/0 + Infertility,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1600,3200,3200,6400,8500,17000,17000,34000,40,50,0
+67138CA0730349-33,Health Net,Gold PPO 1600/0 + Infertility + Chiropractic,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1600,3200,3200,6400,8500,17000,17000,34000,40,50,0
+67138CA0730368,Health Net,Gold PPO 350/25 + Infertility,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,350,2000,700,4000,7800,15600,15600,31200,20,50,0
+67138CA0730368-33,Health Net,Gold PPO 350/25 + Infertility + Chiropractic,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,350,2000,700,4000,7800,15600,15600,31200,20,50,0
+67138CA0730387,Health Net,Gold PPO 500/20 + Infertility,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1000,4000,8000,16000,16000,32000,30,50,0
+67138CA0730387-33,Health Net,Gold PPO 500/20 + Infertility + Chiropractic,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,500,2000,1000,4000,8000,16000,16000,32000,30,50,0
+67138CA0730406,Health Net,Gold PPO 750/15 + Infertility,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,750,2250,1500,4500,8200,16400,16400,32800,30,50,0
+67138CA0730406-33,Health Net,Gold PPO 750/15 + Infertility + Chiropractic,gold,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,750,2250,1500,4500,8200,16400,16400,32800,30,50,0
+67138CA0730425,Health Net,Silver HDHP PPO 1500/50% + Infertility,silver,PPO,True,True,In-Network: $0 / Out-of-Network: 50% after deductible,1500,3000,3000,6000,7000,14000,14000,28000,50,50,0
+67138CA0730425-33,Health Net,Silver HDHP PPO 1500/50% + Infertility + Chiropractic,silver,PPO,True,True,In-Network: $0 / Out-of-Network: 50% after deductible,1500,3000,3000,6000,7000,14000,14000,28000,50,50,0
+67138CA0730444,Health Net,Silver PPO 1700/50 + Infertility,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1700,3400,3400,6800,8900,17800,17800,35600,40,50,0
+67138CA0730444-33,Health Net,Silver PPO 1700/50 + Infertility + Chiropractic,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,1700,3400,3400,6800,8900,17800,17800,35600,40,50,0
+67138CA0730463,Health Net,Silver PPO 2250/60 + Infertility,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2250,4500,4500,9000,9100,18200,18200,36400,40,50,0
+67138CA0730463-33,Health Net,Silver PPO 2250/60 + Infertility + Chiropractic,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2250,4500,4500,9000,9100,18200,18200,36400,40,50,0
+67138CA0730482,Health Net,Silver PPO 2500/55 + Infertility,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2500,5000,5000,10000,8600,17200,17200,34400,35,50,0
+67138CA0730482-33,Health Net,Silver PPO 2500/55 + Infertility + Chiropractic,silver,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,2500,5000,5000,10000,8600,17200,17200,34400,35,50,0
+67138CA0730501,Health Net,Bronze HDHP PPO 7000/0% + Infertility,expanded_bronze,PPO,True,True,In-Network: $0 / Out-of-Network: $0 after deductible,7000,14000,14000,28000,7000,14000,14000,28000,0,0,0
+67138CA0730501-33,Health Net,Bronze HDHP PPO 7000/0% + Infertility + Chiropractic,expanded_bronze,PPO,True,True,In-Network: $0 / Out-of-Network: $0 after deductible,7000,14000,14000,28000,7000,14000,14000,28000,0,0,0
+67138CA0730520,Health Net,Bronze PPO 6300/65 + Infertility,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,6300,12600,12600,25200,8200,16400,16400,32800,40,50,0
+67138CA0730520-33,Health Net,Bronze PPO 6300/65 + Infertility + Chiropractic,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: 50% after deductible,6300,12600,12600,25200,8200,16400,16400,32800,40,50,0
+70285CA8150001,CoveredCA,Platinum 90 PPO 0/15 + Child Dental,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,4500,9000,9000,18000,10,50,0
+70285CA8150002,CoveredCA,Platinum 90 PPO 0/15 + Child Dental INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,4500,9000,9000,18000,10,50,0
+70285CA8150003,CoveredCA,Gold 80 PPO 350/25 + Child Dental,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,350,1000,700,2000,7800,12850,15600,25700,20,50,0
+70285CA8150004,CoveredCA,Gold 80 PPO 350/25 + Child Dental INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,350,1000,700,2000,7800,12850,15600,25700,20,50,0
+70285CA8150005,CoveredCA,Silver 70 PPO 2500/55 + Child Dental,silver,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,5000,5000,10000,8600,13250,17200,26500,35,50,0
+70285CA8150006,CoveredCA,Silver 70 PPO 2500/55 + Child Dental INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,5000,5000,10000,8600,13250,17200,26500,35,50,0
+70285CA8150007,CoveredCA,Bronze 60 PPO 6300/65 + Child Dental,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,6300,6300,12600,12600,8200,13250,16400,26500,40,50,0
+70285CA8150008,CoveredCA,Bronze 60 PPO 6300/65 + Child Dental INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,6300,6300,12600,12600,8200,13250,16400,26500,40,50,0
+70285CA8150051,CoveredCA,Blue Shield Silver Full PPO Savings 2300/25% + Child Dental INF,silver,PPO,True,True,In-Network: $0 / Out-of-Network: Not Covered,2300,4600,4600,9200,7500,15000,15000,30000,25,50,0
+70285CA8150052,CoveredCA,Blue Shield Bronze Full PPO Savings 7000 + Child Dental INF,bronze,PPO,True,True,In-Network: $0 / Out-of-Network: Not Covered,7000,10000,14000,20000,7000,14000,14000,28000,0,50,0
+70285CA8150053,CoveredCA,Blue Shield Silver Full PPO Savings 2300/25% + Child Dental,silver,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,2300,4600,4600,9200,7500,15000,15000,30000,25,50,0
+70285CA8150054,CoveredCA,Blue Shield Bronze Full PPO Savings 7000 + Child Dental,bronze,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,7000,10000,14000,20000,7000,14000,14000,28000,0,50,0
+70285CA8160001,BlueShield of California,Platinum Full PPO 0/10 OffEx,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,4700,9400,9400,18800,10,40,0
+70285CA8160002,BlueShield of California,Platinum Full PPO 250/15 OffEx,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,1000,500,2000,4300,8600,8600,17200,10,40,0
+70285CA8160003,BlueShield of California,Gold Full PPO 0/25 OffEx,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,8500,17000,17000,34000,30,40,0
+70285CA8160004,BlueShield of California,Gold Full PPO 500/30 OffEx,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,1000,1000,2000,8500,17000,17000,34000,20,40,0
+70285CA8160005,BlueShield of California,Gold Full PPO 750/30 OffEx,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,750,1500,1500,3000,8150,16300,16300,32600,20,40,0
+70285CA8160006,BlueShield of California,Gold Full PPO 1000/35 OffEx,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,2000,2000,4000,8150,16300,16300,32600,20,40,0
+70285CA8160007,BlueShield of California,Silver Full PPO 2550/70 OffEx,silver,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2550,5100,5100,10200,8750,17500,17500,35000,40,50,0
+70285CA8160008,BlueShield of California,Silver Full PPO 2000/60 OffEx,silver,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2000,4000,4000,8000,8750,17500,17500,35000,35,50,0
+70285CA8160009,BlueShield of California,Bronze Full PPO 6250/65 OffEx,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,6250,12500,12500,25000,8750,17500,17500,35000,40,50,0
+70285CA8160010,BlueShield of California,Bronze Full PPO 6850/55 OffEx,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,6850,10850,13700,21700,8750,17500,17500,35000,35,50,0
+70285CA8160011,BlueShield of California,Silver Full PPO Savings 2300/25% OffEx,silver,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,2300,4600,3000,6000,7500,15000,15000,30000,25,50,0
+70285CA8160012,BlueShield of California,Bronze Full PPO Savings 5700/40% OffEx,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,5700,11400,11400,22800,7000,14000,14000,28000,40,50,0
+70285CA8160013,BlueShield of California,Bronze Full PPO Savings 7000 OffEx,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,7000,10000,14000,20000,7000,14000,14000,28000,0,50,0
+70285CA8160064,BlueShield of California,Platinum Full PPO 0/10 OffEx INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,4700,9400,9400,18800,10,40,0
+70285CA8160065,BlueShield of California,Platinum Full PPO 250/15 OffEx INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,1000,500,2000,4300,8600,8600,17200,10,40,0
+70285CA8160066,BlueShield of California,Gold Full PPO 0/25 OffEx INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,8500,17000,17000,34000,30,40,0
+70285CA8160067,BlueShield of California,Gold Full PPO 500/30 OffEx INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,500,1000,1000,2000,8500,17000,17000,34000,20,40,0
+70285CA8160068,BlueShield of California,Gold Full PPO 750/30 OffEx INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,750,1500,1500,3000,8150,16300,16300,32600,20,40,0
+70285CA8160069,BlueShield of California,Gold Full PPO 1000/35 OffEx INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1000,2000,2000,4000,8150,16300,16300,32600,20,40,0
+70285CA8160070,BlueShield of California,Silver Full PPO 2550/70 OffEx INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2550,5100,5100,10200,8750,17500,17500,35000,40,50,0
+70285CA8160071,BlueShield of California,Silver Full PPO 2000/60 OffEx INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2000,4000,4000,8000,8750,17500,17500,35000,35,50,0
+70285CA8160072,BlueShield of California,Bronze Full PPO 6250/65 OffEx INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,6250,12500,12500,25000,8750,17500,17500,35000,40,50,0
+70285CA8160073,BlueShield of California,Bronze Full PPO 6850/55 OffEx INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,6850,10850,13700,21700,8750,17500,17500,35000,35,50,0
+70285CA8160074,BlueShield of California,Silver Full PPO Savings 2300/25% OffEx INF,silver,PPO,True,True,In-Network: $0 / Out-of-Network: Not Covered,2300,4600,3000,6000,7500,15000,15000,30000,25,50,0
+70285CA8160075,BlueShield of California,Bronze Full PPO Savings 5700/40% OffEx INF,expanded_bronze,PPO,True,True,In-Network: $0 / Out-of-Network: Not Covered,5700,11400,11400,22800,7000,14000,14000,28000,40,50,0
+70285CA8160076,BlueShield of California,Bronze Full PPO Savings 7000 OffEx INF,expanded_bronze,PPO,True,True,In-Network: $0 / Out-of-Network: Not Covered,7000,10000,14000,20000,7000,14000,14000,28000,0,50,0
+70285CA8160083,BlueShield of California,Platinum Tandem PPO 0/10 OffEx ,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,4700,9400,9400,18800,10,40,0
+70285CA8160102,BlueShield of California,Platinum Tandem PPO 250/15 OffEx ,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,1000,500,2000,4300,8600,8600,17200,10,40,0
+70285CA8160121,BlueShield of California,Gold Tandem PPO 750/30 OffEx,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,750,1500,1500,3000,8150,16300,16300,32600,20,40,0
+70285CA8160140,BlueShield of California,Silver Tandem PPO 2550/70 OffEx,silver,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2550,5100,5100,10200,8750,17500,17500,35000,40,50,0
+70285CA8160159,BlueShield of California,Silver Tandem PPO 2000/60 OffEx,silver,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2000,4000,4000,8000,8750,17500,17500,35000,35,50,0
+70285CA8160178,BlueShield of California,Bronze Tandem PPO 6250/65 OffEx,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,6250,12500,12500,25000,8750,17500,17500,35000,40,50,0
+70285CA8160197,BlueShield of California,Platinum Tandem PPO 0/10 OffEx INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,4700,9400,9400,18800,10,40,0
+70285CA8160216,BlueShield of California,Platinum Tandem PPO 250/15 OffEx INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,1000,500,2000,4300,8600,8600,17200,10,40,0
+70285CA8160235,BlueShield of California,Gold Tandem PPO 750/30 OffEx INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,750,1500,1500,3000,8150,16300,16300,32600,20,40,0
+70285CA8160254,BlueShield of California,Silver Tandem PPO 2550/70 OffEx INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2550,5100,5100,10200,8750,17500,17500,35000,40,50,0
+70285CA8160273,BlueShield of California,Silver Tandem PPO 2000/60 OffEx INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2000,4000,4000,8000,8750,17500,17500,35000,35,50,0
+70285CA8160292,BlueShield of California,Bronze Tandem PPO 6250/65 OffEx INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,6250,12500,12500,25000,8750,17500,17500,35000,40,50,0
+70285CA8160305,BlueShield of California,Platinum Full PPO 0/0 OffEx,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,5000,10000,10000,20000,10,40,0
+70285CA8160306,BlueShield of California,Platinum Full PPO 0/0 OffEx INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,5000,10000,10000,20000,10,40,0
+70285CA8160313,BlueShield of California,Platinum Tandem PPO 0/0 OffEx ,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,5000,10000,10000,20000,10,40,0
+70285CA8160332,BlueShield of California,Platinum Tandem PPO 0/0 OffEx INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,5000,10000,10000,20000,10,40,0
+70285CA8160355,BlueShield of California,Bronze Full PPO 7500/65 OffEx,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,7500,15000,15000,30000,8750,17500,17500,35000,50,50,0
+70285CA8160356,BlueShield of California,Bronze Full PPO 7500/65 OffEx INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,7500,15000,15000,30000,8750,17500,17500,35000,50,50,0
+70285CA8160363,BlueShield of California,Bronze Tandem PPO 7500/65 OffEx,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,7500,15000,15000,30000,8750,17500,17500,35000,50,50,0
+70285CA8160382,BlueShield of California,Silver Tandem PPO Savings 2300/25% OffEx ,silver,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,2300,4600,3000,6000,7500,15000,15000,30000,25,50,0
+70285CA8160401,BlueShield of California,Bronze Tandem PPO 7500/65 OffEx INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,7500,15000,15000,30000,8750,17500,17500,35000,50,50,0
+70285CA8160420,BlueShield of California,Silver Tandem PPO Savings 2300/25% OffEx INF,silver,PPO,True,True,In-Network: $0 / Out-of-Network: Not Covered,2300,4600,3000,6000,7500,15000,15000,30000,25,50,0
+70285CA8160433,BlueShield of California,Silver Full PPO Savings 2600/35% HDHP PrevRx OffEx,silver,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,2600,5200,3000,6000,7500,15000,15000,30000,35,50,0
+70285CA8160434,BlueShield of California,Silver Full PPO Savings 2600/35% HDHP PrevRx OffEx INF,silver,PPO,True,True,In-Network: $0 / Out-of-Network: Not Covered,2600,5200,3000,6000,7500,15000,15000,30000,35,50,0
+70285CA8160441,BlueShield of California,Gold Tandem PPO 0/25 OffEx,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,8500,17000,17000,34000,30,40,0
+70285CA8160460,BlueShield of California,Gold Tandem PPO 500/30 OffEx,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,1000,1000,2000,8500,17000,17000,34000,20,40,0
+70285CA8160479,BlueShield of California,Gold Tandem PPO 1000/35 OffEx,gold,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,2000,2000,4000,8150,16300,16300,32600,20,40,0
+70285CA8160498,BlueShield of California,Bronze Tandem PPO 6850/55 OffEx,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,6850,10850,13700,21700,8750,17500,17500,35000,35,50,0
+70285CA8160517,BlueShield of California,Silver Tandem PPO Savings 2600/35% HDHP PrevRx OffEx,silver,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,2600,5200,3000,6000,7500,15000,15000,30000,35,50,0
+70285CA8160536,BlueShield of California,Bronze Tandem PPO Savings 5700/40% OffEx,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,5700,11400,11400,22800,7000,14000,14000,28000,40,50,0
+70285CA8160555,BlueShield of California,Bronze Tandem PPO Savings 7000 OffEx,expanded_bronze,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,7000,10000,14000,20000,7000,14000,14000,28000,0,50,0
+70285CA8160574,BlueShield of California,Gold Tandem PPO 0/25 OffEx INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,1000,0,2000,8500,17000,17000,34000,30,40,0
+70285CA8160593,BlueShield of California,Gold Tandem PPO 500/30 OffEx INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,500,1000,1000,2000,8500,17000,17000,34000,20,40,0
+70285CA8160612,BlueShield of California,Gold Tandem PPO 1000/35 OffEx INF,gold,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1000,2000,2000,4000,8150,16300,16300,32600,20,40,0
+70285CA8160631,BlueShield of California,Bronze Tandem PPO 6850/55 OffEx INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,6850,10850,13700,21700,8750,17500,17500,35000,35,50,0
+70285CA8160650,BlueShield of California,Silver Tandem PPO Savings 2600/35% HDHP PrevRx OffEx INF,silver,PPO,True,True,In-Network: $0 / Out-of-Network: Not Covered,2600,5200,3000,6000,7500,15000,15000,30000,35,50,0
+70285CA8160669,BlueShield of California,Bronze Tandem PPO Savings 5700/40% OffEx INF,expanded_bronze,PPO,True,True,In-Network: $0 / Out-of-Network: Not Covered,5700,11400,11400,22800,7000,14000,14000,28000,40,50,0
+70285CA8160688,BlueShield of California,Bronze Tandem PPO Savings 7000 OffEx INF,expanded_bronze,PPO,True,True,In-Network: $0 / Out-of-Network: Not Covered,7000,10000,14000,20000,7000,14000,14000,28000,0,50,0
+70285CA8160701,BlueShield of California,Silver Full PPO 2350/65 OffEx,silver,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2350,4700,4700,9400,8750,17500,17500,35000,40,50,0
+70285CA8160702,BlueShield of California,Silver Full PPO 2350/65 OffEx INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2350,4700,4700,9400,8750,17500,17500,35000,40,50,0
+70285CA8160709,BlueShield of California,Silver Tandem PPO 2350/65 OffEx,silver,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2350,4700,4700,9400,8750,17500,17500,35000,40,50,0
+70285CA8160728,BlueShield of California,Silver Tandem PPO 2350/65 OffEx INF,silver,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2350,4700,4700,9400,8750,17500,17500,35000,40,50,0
+70285CA8160741,BlueShield of California,Platinum Full PPO 250/10 OffEx,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,250,500,500,3000,6000,6000,12000,10,40,0
+70285CA8160742,BlueShield of California,Gold Full PPO Savings 1750/15% HDHP PrevRx OffEx,gold,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,1750,3500,3000,6000,3300,6600,6600,13200,15,40,0
+70285CA8160743,BlueShield of California,Platinum Full PPO 250/10 OffEx INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,250,500,500,3000,6000,6000,12000,10,40,0
+70285CA8160744,BlueShield of California,Gold Full PPO Savings 1750/15% HDHP PrevRx OffEx INF,gold,PPO,True,True,In-Network: $0 / Out-of-Network: Not Covered,1750,3500,3000,6000,3300,6600,6600,13200,15,40,0
+70285CA8160751,BlueShield of California,Platinum Tandem PPO 250/10 OffEx,platinum,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,250,500,500,3000,6000,6000,12000,10,40,0
+70285CA8160770,BlueShield of California,Gold Tandem PPO Savings 1750/15% HDHP PrevRx OffEx,gold,PPO,True,False,In-Network: $0 / Out-of-Network: Not Covered,1750,3500,3000,6000,3300,6600,6600,13200,15,40,0
+70285CA8160789,BlueShield of California,Platinum Tandem PPO 250/10 OffEx INF,platinum,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,250,500,500,3000,6000,6000,12000,10,40,0
+70285CA8160808,BlueShield of California,Gold Tandem PPO Savings 1750/15% HDHP PrevRx OffEx INF,gold,PPO,True,True,In-Network: $0 / Out-of-Network: Not Covered,1750,3500,3000,6000,3300,6600,6600,13200,15,40,0
+70285CA8160821,BlueShield of California,Bronze Full PPO 5500/65 OffEx,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,5500,11000,11000,22000,8750,17500,17500,35000,,50,0
+70285CA8160822,BlueShield of California,Bronze Full PPO 6500/70 OffEx,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,6500,13000,13000,26000,8750,17500,17500,35000,50,50,0
+70285CA8160823,BlueShield of California,Bronze Full PPO 5500/65 OffEx INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,5500,11000,11000,22000,8750,17500,17500,35000,,50,0
+70285CA8160824,BlueShield of California,Bronze Full PPO 6500/70 OffEx INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,6500,13000,13000,26000,8750,17500,17500,35000,50,50,0
+70285CA8160831,BlueShield of California,Bronze Tandem PPO 5500/65 OffEx,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,5500,11000,11000,22000,8750,17500,17500,35000,,50,0
+70285CA8160850,BlueShield of California,Bronze Tandem PPO 6500/70 OffEx,expanded_bronze,PPO,False,False,In-Network: $0 / Out-of-Network: Not Covered,6500,13000,13000,26000,8750,17500,17500,35000,50,50,0
+70285CA8160869,BlueShield of California,Bronze Tandem PPO 5500/65 OffEx INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,5500,11000,11000,22000,8750,17500,17500,35000,,50,0
+70285CA8160888,BlueShield of California,Bronze Tandem PPO 6500/70 OffEx INF,expanded_bronze,PPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,6500,13000,13000,26000,8750,17500,17500,35000,50,50,0
+70285CA8170007,BlueShield of California,Gold Access+ HMO (R) 1500/35 OffEx ,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,8150,,16300,,,,0
+70285CA8170024,BlueShield of California,Gold Local Access+ HMO (R) 1500/35 OffEx,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,8150,,16300,,,,0
+70285CA8170041,BlueShield of California,Gold Trio HMO 1500/35 OffEx,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,8150,,16300,,,,0
+70285CA8170058,BlueShield of California,Silver Access+ HMO (R) 2300/70 OffEx,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2300,,4600,,8750,,17500,,,,0
+70285CA8170075,BlueShield of California,Silver Local Access+ HMO (R) 2300/70 OffEx,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2300,,4600,,8750,,17500,,,,0
+70285CA8170092,BlueShield of California,Silver Trio HMO 2300/70 OffEx,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2300,,4600,,8750,,17500,,,,0
+70285CA8170109,BlueShield of California,Platinum Access+ HMO (R) 0/25 OffEx,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2350,,4700,,,,0
+70285CA8170126,BlueShield of California,Platinum Local Access+ HMO (R) 0/25 OffEx,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2350,,4700,,,,0
+70285CA8170143,BlueShield of California,Platinum Trio HMO 0/25 OffEx,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2350,,4700,,,,0
+70285CA8170160,BlueShield of California,Gold Access+ HMO (R) 500/35 OffEx,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7500,,15000,,,,0
+70285CA8170177,BlueShield of California,Gold Local Access+ HMO (R) 500/35 OffEx,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7500,,15000,,,,0
+70285CA8170194,BlueShield of California,Gold Trio HMO 500/35 OffEx,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7500,,15000,,,,0
+70285CA8170211,BlueShield of California,Platinum Access+ HMO (R) 0/20 OffEx,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2000,,4000,,,,0
+70285CA8170228,BlueShield of California,Platinum Local Access+ HMO (R) 0/20 OffEx,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2000,,4000,,,,0
+70285CA8170245,BlueShield of California,Platinum Trio HMO 0/20 OffEx,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2000,,4000,,,,0
+70285CA8170262,BlueShield of California,Platinum Access+ HMO (R) 0/30 OffEx,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2700,,5400,,,,0
+70285CA8170279,BlueShield of California,Platinum Local Access+ HMO (R) 0/30 OffEx,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2700,,5400,,,,0
+70285CA8170296,BlueShield of California,Platinum Trio HMO 0/30 OffEx,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2700,,5400,,,,0
+70285CA8170323,BlueShield of California,Gold Access+ HMO (R) 1500/35 OffEx INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,8150,,16300,,,,0
+70285CA8170340,BlueShield of California,Gold Local Access+ HMO (R) 1500/35 OffEx INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,8150,,16300,,,,0
+70285CA8170357,BlueShield of California,Gold Trio HMO 1500/35 OffEx INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1500,,3000,,8150,,16300,,,,0
+70285CA8170374,BlueShield of California,Silver Access+ HMO (R) 2300/70 OffEx INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2300,,4600,,8750,,17500,,,,0
+70285CA8170391,BlueShield of California,Silver Local Access+ HMO (R) 2300/70 OffEx INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2300,,4600,,8750,,17500,,,,0
+70285CA8170408,BlueShield of California,Silver Trio HMO 2300/70 OffEx INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2300,,4600,,8750,,17500,,,,0
+70285CA8170425,BlueShield of California,Platinum Access+ HMO (R) 0/25 OffEx INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2350,,4700,,,,0
+70285CA8170442,BlueShield of California,Platinum Local Access+ HMO (R) 0/25 OffEx INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2350,,4700,,,,0
+70285CA8170459,BlueShield of California,Platinum Trio HMO 0/25 OffEx INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2350,,4700,,,,0
+70285CA8170476,BlueShield of California,Gold Access+ HMO (R) 500/35 OffEx INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7500,,15000,,,,0
+70285CA8170493,BlueShield of California,Gold Local Access+ HMO (R) 500/35 OffEx INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7500,,15000,,,,0
+70285CA8170510,BlueShield of California,Gold Trio HMO 500/35 OffEx INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,500,,1000,,7500,,15000,,,,0
+70285CA8170527,BlueShield of California,Platinum Access+ HMO (R) 0/20 OffEx INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2000,,4000,,,,0
+70285CA8170544,BlueShield of California,Platinum Local Access+ HMO (R) 0/20 OffEx INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2000,,4000,,,,0
+70285CA8170561,BlueShield of California,Platinum Trio HMO 0/20 OffEx INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2000,,4000,,,,0
+70285CA8170578,BlueShield of California,Platinum Access+ HMO (R) 0/30 OffEx INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2700,,5400,,,,0
+70285CA8170595,BlueShield of California,Platinum Local Access+ HMO (R) 0/30 OffEx INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2700,,5400,,,,0
+70285CA8170612,BlueShield of California,Platinum Trio HMO 0/30 OffEx INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,2700,,5400,,,,0
+70285CA8170639,BlueShield of California,Gold Access+ HMO (R) 0/30 OffEx,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+70285CA8170656,BlueShield of California,Gold Local Access+ HMO (R) 0/30 OffEx,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+70285CA8170673,BlueShield of California,Gold Trio HMO 0/30 OffEx,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+70285CA8170741,BlueShield of California,Gold Access+ HMO (R) 0/30 OffEx INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+70285CA8170758,BlueShield of California,Gold Local Access+ HMO (R) 0/30 OffEx INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+70285CA8170775,BlueShield of California,Gold Trio HMO 0/30 OffEx INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,7000,,14000,,,,0
+70285CA8170848,BlueShield of California,Gold Access+ HMO (R) 1000/35 OffEx ,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,7500,,15000,,,,0
+70285CA8170865,BlueShield of California,Gold Local Access+ HMO (R) 1000/35 OffEx,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,7500,,15000,,,,0
+70285CA8170882,BlueShield of California,Gold Trio HMO 1000/35 OffEx,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,7500,,15000,,,,0
+70285CA8170907,BlueShield of California,Gold Access+ HMO (R) 1000/35 OffEx INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,7500,,15000,,,,0
+70285CA8170924,BlueShield of California,Gold Local Access+ HMO (R) 1000/35 OffEx INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,7500,,15000,,,,0
+70285CA8170941,BlueShield of California,Gold Trio HMO 1000/35 OffEx INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,1000,,2000,,7500,,15000,,,,0
+70285CA8170961,BlueShield of California,Silver Access+ HMO (R) 2750/70 OffEx,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2750,,5500,,8750,,17500,,,,0
+70285CA8170978,BlueShield of California,Silver Local Access+ HMO (R) 2750/70 OffEx,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2750,,5500,,8750,,17500,,,,0
+70285CA8170995,BlueShield of California,Silver Trio HMO 2750/70 OffEx,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2750,,5500,,8750,,17500,,,,0
+70285CA8171025,BlueShield of California,Silver Access+ HMO (R) 2750/70 OffEx INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2750,,5500,,8750,,17500,,,,0
+70285CA8171042,BlueShield of California,Silver Local Access+ HMO (R) 2750/70 OffEx INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2750,,5500,,8750,,17500,,,,0
+70285CA8171059,BlueShield of California,Silver Trio HMO 2750/70 OffEx INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2750,,5500,,8750,,17500,,,,0
+70285CA8171089,BlueShield of California,Bronze Trio HMO 7000/70 OffEx,expanded_bronze,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,8750,,14000,,50,,0
+70285CA8171107,BlueShield of California,Bronze Trio HMO 7000/70 OffEx INF,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,8750,,14000,,50,,0
+70285CA8171125,BlueShield of California,Bronze Access+ HMO (R) 7000/70 OffEx,expanded_bronze,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,8750,,17500,,50,,0
+70285CA8171142,BlueShield of California,Bronze Local Access+ HMO (R) 7000/70 OffEx,expanded_bronze,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,8750,,17500,,50,,0
+70285CA8171159,BlueShield of California,Bronze Access+ HMO (R) 7000/70 OffEx INF,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,8750,,17500,,50,,0
+70285CA8171176,BlueShield of California,Bronze Local Access+ HMO (R) 7000/70 OffEx INF,expanded_bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,8750,,17500,,50,,0
+70285CA8230007,CoveredCA,Blue Shield Trio Gold 80 HMO 250/35 + Child Dental INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,20,,0
+70285CA8230024,CoveredCA,Blue Shield Trio Platinum 90 HMO 0/20 + Child Dental INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,10,,0
+70285CA8230041,CoveredCA,Trio Silver 70 HMO 2500/55 + Child Dental INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,40,,0
+70285CA8230058,CoveredCA,Trio Gold 80 HMO 250/35 + Child Dental,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,20,,0
+70285CA8230075,CoveredCA,Trio Platinum 90 HMO 0/20 + Child Dental,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,10,,0
+70285CA8230092,CoveredCA,Trio Silver 70 HMO 2500/55 + Child Dental,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,40,,0
+70285CA8230123,CoveredCA,Blue Shield Bronze Trio HMO 7000/70 + Child Dental INF,bronze,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,8750,,17500,,50,,0
+70285CA8230141,CoveredCA,Blue Shield Bronze Trio HMO 7000/70 + Child Dental,bronze,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,7000,,14000,,8750,,17500,,50,,0
+70285CA8230195,CoveredCA,Blue Shield Access+ Platinum 90 HMO 0/20 + Child Dental INF,platinum,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,10,,0
+70285CA8230214,CoveredCA,Blue Shield Access+ Platinum 90 HMO 0/20 + Child Dental,platinum,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,10,,0
+70285CA8230233,CoveredCA,Blue Shield Access+ Gold 80 HMO 250/35 + Child Dental INF,gold,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,20,,0
+70285CA8230252,CoveredCA,Blue Shield Access+ Gold 80 HMO 250/35 + Child Dental,gold,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,250,,500,,7800,,15600,,20,,0
+70285CA8230271,CoveredCA,Blue Shield Access+ Silver 70 HMO 2500/55 + Child Dental INF,silver,HMO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,40,,0
+70285CA8230290,CoveredCA,Blue Shield Access+ Silver 70 HMO 2500/55 + Child Dental,silver,HMO,False,False,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8750,,17500,,40,,0
+95677CA0100001-13,UnitedHealthcare,Navigate EPO Bronze CDFE /K92L,bronze,EPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,6300,,12600,,8200,,16400,,40,,0
+95677CA0100002-13,UnitedHealthcare,Navigate EPO Platinum CDFB /K89L,platinum,EPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,0,,0,,4500,,9000,,10,,0
+95677CA0100003-13,UnitedHealthcare,Navigate EPO Gold CDFC /K90L,gold,EPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,350,,700,,7800,,15600,,20,,0
+95677CA0100004-13,UnitedHealthcare,Navigate EPO Silver CUVI /N53L,silver,EPO,False,True,In-Network: $0 / Out-of-Network: Not Covered,2500,,5000,,8600,,17200,,35,,0

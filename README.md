@@ -19,6 +19,13 @@ A repo for medical plan similarity (and expressed similarity attributes) and rec
     - emergency_services
     - infertility
     - rx_deductible
+- **How?**
+
+  1. After processing, normalizing, and cleaning the data, just find the similarity across attributes (we should change the weights to say that one feature or many feature/s are more important than another)
+  2. We can enable some sort of filtering; I want to see similar plans from this carrier & this plan type
+  3. We can cluster the plans (based off of plan type and metallic level), and then compute similarity within that cluster
+
+  - How might we let a use "buy down" or "buy up" - I think that this will get closer to when we need actuarial value? How might we "slide up" on the scale of a deductible or copay or something like that?
 
 ## v2 - How can we make this model "better"
 

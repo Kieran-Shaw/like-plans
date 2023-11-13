@@ -21,3 +21,8 @@
 - How should I handle this when building the similarity model?
   - In general, I don't actually think that this is super important. It mostly is the case with the Blues (Anthem, BlueShield) in California, and I haven't seen this much with the other carriers.
   - It is probably most instructive to have in network vs. out of network cost sharing, and this in network tier 1 vs. tier 2 doesn't seem as important.
+- "Not Covered" or "Null" Values
+  - Sometimes, there are "Not Covered" values in the moop or deductible or coinsurance - really, you can name any feature.
+  - This isn't a bad thing, it is actually a feature of the plan.
+    - ex: an HMO plan does not have out of network cost sharing (unless, for emergency services)
+    - ex: a plan may not have coinsurance (this is different than a value of 0%). 0% implies that there still exists coinsurance on that plan, while nan (null value) really means that the plan doesn't have any.
