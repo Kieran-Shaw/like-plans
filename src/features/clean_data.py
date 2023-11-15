@@ -21,7 +21,6 @@ COLUMNS = [
     "plan_coinsurance",
     "hsa_eligible",
     "infertility_treatment_rider",
-    "preventative_care",
 ]
 
 # import the dataframes
@@ -111,15 +110,16 @@ df["coinsurance_out_of_network"] = (
     .replace("%", "", regex=True)
 )
 
-# preventative care
-df["preventative_care_in_network"] = (
-    df["preventative_care"]
-    .apply(lambda x: re.findall(r"In-Network: \$([\d,]+)", x)[0])
-    .astype(int)
-)
+# # preventative care
+# df["preventative_care_in_network"] = (
+#     df["preventative_care"]
+#     .apply(lambda x: re.findall(r"In-Network: \$([\d,]+)", x)[0])
+#     .astype(int)
+# )
 # need to add preventative care out of network (I can create some encodings or I could impute the value??)
 
 # drop the columns not needed
+
 df.drop(
     columns=[
         "individual_medical_deductible",
@@ -130,6 +130,8 @@ df.drop(
     ],
     inplace=True,
 )
+
+# transform the fields to be used in a model
 
 
 # write the file out

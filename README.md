@@ -23,9 +23,11 @@ A repo for medical plan similarity (and expressed similarity attributes) and rec
 
   1. After processing, normalizing, and cleaning the data, just find the similarity across attributes (we should change the weights to say that one feature or many feature/s are more important than another)
   2. We can enable some sort of filtering; I want to see similar plans from this carrier & this plan type
-  3. We can cluster the plans (based off of plan type and metallic level), and then compute similarity within that cluster
+  3. We can cluster the plans (based off of plan type and metallic level), and then compute similarity within that cluster?
 
-  - How might we let a use "buy down" or "buy up" - I think that this will get closer to when we need actuarial value? How might we "slide up" on the scale of a deductible or copay or something like that?
+  - This feels like it actually helps answer the question of comparing an HMO vs. an HMO. But, it brings up the question... what do we compare a EPO or POS to? These are distinct plan types
+
+  - How might we let a use "buy down" or "buy up" - I think that this will get closer to when we need actuarial value? How might we "slide up" on the scale of a deductible or copay or something like that? I think we should be using actuarial value for this. What is a slightly better plan / worse design - ie, the plan covers a higher proportion of the cost of healthcare or the plan covers a slightly less porportion of healthcare costs?
 
 ## v2 - How can we make this model "better"
 

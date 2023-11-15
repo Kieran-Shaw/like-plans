@@ -6,6 +6,12 @@
 
 - The raw_pricings.csv file has, for each plan, every premium by age. The format is "long" format.
 
+# Cleaning Plans
+
+- How should I be dealing with null values? For example, how should we deal with null values for HMO plans that don't have out of network coverage (so they have no deductible or coinsurance or anything like that?)
+  - Potentially, we need to have a different similarity model for the different plan types.
+  - Would we want to compare an HMO plan vs. a PPO plan? My gut is saying that that sort of comparison isn't worth it at finding similar plans. BUT, that level of comparison could be worth it / worthwhile when talking about looking at an employers package of plans - what is the average actuarial value of your offering to employees across the plans? How much do you contribute to those plans? What does plotting AV vs. average contribution do?
+
 # Data Visualization
 
 - I need to prepare a dataframe where we can visualize the things that we want (ex: premium vs. plan_level)
