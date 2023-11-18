@@ -2,6 +2,13 @@
 
 A repo for medical plan similarity (and expressed similarity attributes) and recommendations
 
+## How to use this repository?
+
+1. Google ADC file path in .env
+2. Run `python src/data/get_data.py` to get the plans and pricings
+3. Run `python src/data/clean_data.py` to clean the data
+4. Run `python src/models/v1_model.py` to see results.csv table populated
+
 ## v1 - Simple Similarity Model using Cost Sharing Details (plan attributes)
 
 - This is a basic model - one that purely builds a similarity across the plan attributes that are known
@@ -16,7 +23,7 @@ A repo for medical plan similarity (and expressed similarity attributes) and rec
     - primary_care_physician
     - specialist
     - coinsurance
-    - emergency_services
+    - emergency_room
     - infertility
     - rx_deductible
 - **How?**

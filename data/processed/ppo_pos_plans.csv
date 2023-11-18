@@ -1,0 +1,374 @@
+id,carrier_name,name,hsa_eligible,infertility_treatment_rider
+27603CA1221182,Anthem,Anthem Bronze PPO 4600/50%,0,0
+27603CA1220107,Anthem,Anthem Gold Select PPO 25/350/20%,0,0
+27603CA1220891,Anthem,Anthem Gold Select PPO 25/30%,0,0
+27603CA1220894,Anthem,Anthem Platinum Select PPO 15/250/10%,0,0
+27603CA1220897,Anthem,Anthem Platinum Select PPO 15/40/10%,0,0
+27603CA1221135,Anthem,Anthem Bronze Select PPO 4600/50%,0,0
+49116CA0100021-13,UnitedHealthcare,Non-Differential PPO Silver CEMI /F82,0,0
+49116CA0100025-13,UnitedHealthcare,Core PPO Silver CVPT /N53L,0,0
+70285CA8150003,CoveredCA,Gold 80 PPO 350/25 + Child Dental,0,0
+70285CA8150004,CoveredCA,Gold 80 PPO 350/25 + Child Dental INF,0,1
+40733CA0110836,Aetna,CA Bronze MC 100/50 7350,0,1
+70285CA8150001,CoveredCA,Platinum 90 PPO 0/15 + Child Dental,0,0
+27603CA0000009-77,CalChoice,Anthem Prudent Buyer Bronze PPO A (OOA),1,0
+27330CA0130007,Kaiser Permanente,Gold 80 PPO 350/25 + Child Dental,0,1
+70285CA8150002,CoveredCA,Platinum 90 PPO 0/15 + Child Dental INF,0,1
+49116CA0100015-13,UnitedHealthcare,Core PPO Platinum CVQG /L44S,0,0
+49116CA0100016-13,UnitedHealthcare,Core PPO Platinum CVQA /L44S,0,0
+49116CA0100019-13,UnitedHealthcare,Select Plus PPO Platinum CVQT /L44S,0,0
+49116CA0100020-13,UnitedHealthcare,Select Plus PPO Platinum CVQN /L44S,0,0
+27330CA0130006,Kaiser Permanente,Platinum 90 PPO 0/15 + Child Dental,0,1
+49116CA0100005-13,UnitedHealthcare,Core PPO Gold CVPV /L40S,0,0
+49116CA0100008-13,UnitedHealthcare,Core PPO Gold CVQF /N54S,0,0
+49116CA0100009-13,UnitedHealthcare,Select Plus PPO Gold CVQZ /L40S,0,0
+49116CA0100012-13,UnitedHealthcare,Select Plus PPO Gold CVQS /N54S,0,0
+27330CA0130010,Kaiser Permanente,Bronze 60 PPO 6300/65 + Child Dental,0,1
+27603CA1220129,Anthem,Anthem Platinum Select PPO 15/10%,0,0
+27603CA1220250,Anthem,Anthem Silver Select PPO 55/2500/35%,0,0
+27603CA1220723,Anthem,Anthem Gold PPO 25/30%,0,0
+27603CA1220818,Anthem,Anthem Platinum PPO 15/250/10%,0,0
+49116CA0100027-13,UnitedHealthcare,Core PPO Gold CEMB /K90L,0,0
+49116CA0100029-13,UnitedHealthcare,Core PPO Platinum CEMA /K89L,0,0
+40733CA0110837,Aetna,CA Bronze MC 100/50 7350 wINF,0,1
+27603CA1220904,Anthem,Anthem Platinum PPO 15/40/10%,0,0
+40733CA0110835,Aetna,CA Bronze MC 100 7000 HSA wINF,1,1
+40733CA0110488,Aetna,CA Bronze MC 100 7000 HSA M,1,1
+67138CA0730501-33,Health Net,Bronze HDHP PPO 7000/0% + Infertility + Chiropractic,1,1
+67138CA0730501,Health Net,Bronze HDHP PPO 7000/0% + Infertility,1,1
+67138CA0730235,Health Net,Bronze HDHP PPO 7000/0%,1,0
+67138CA0730235-33,Health Net,Bronze HDHP PPO 7000/0% + Chiropractic,1,0
+70285CA8160013,BlueShield of California,Bronze Full PPO Savings 7000 OffEx,1,0
+70285CA8160076,BlueShield of California,Bronze Full PPO Savings 7000 OffEx INF,1,1
+70285CA8160555,BlueShield of California,Bronze Tandem PPO Savings 7000 OffEx,1,0
+70285CA8160688,BlueShield of California,Bronze Tandem PPO Savings 7000 OffEx INF,1,1
+27603CA1220130,Anthem,Anthem Bronze Select PPO 7000/0% w/HSA,1,0
+27603CA1220252,Anthem,Anthem Bronze Select PPO 6700/0% w/HSA PrevRx,1,0
+27603CA1220259,Anthem,Anthem Bronze PPO 6700/0% w/HSA PrevRx,1,0
+27603CA1221511,Anthem,Anthem Bronze PPO 6700/0% w/HSA PrevRx WH,1,0
+40025CA0080213,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $1000,0,0
+40025CA0080216,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $1000 INF,0,1
+40025CA0080258,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $3000 INF,0,1
+40025CA0080222,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $3000 INF,0,1
+40025CA0080255,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $3000,0,0
+40025CA0080219,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $3000,0,0
+40025CA0080093,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $1000,0,0
+40025CA0080096,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $1000 INF,0,1
+40025CA0080129,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $0/$20,0,0
+40025CA0080132,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $0/$20 INF,0,1
+40025CA0080004,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $0/$20 INF,0,1
+40025CA0080001,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $0/$20,0,0
+27603CA1221590,Anthem,Anthem Gold PPO 1700/15% w/HSA PrevRx,1,0
+27603CA1221235,Anthem,Anthem Platinum Select PPO 5/200/15%,0,0
+27603CA1221623,Anthem,Anthem Gold Select PPO 1700/15% w/HSA PrevRx,1,0
+27603CA1221397,Anthem,Anthem Platinum PPO 5/200/15% WH,0,0
+27603CA1221280,Anthem,Anthem Platinum PPO 5/200/15%,0,0
+27603CA0000018-77,CalChoice,Anthem Prudent Buyer Gold PPO E (OOA),0,0
+27603CA0000016-77,CalChoice,Anthem Select PPO Gold PPO C,0,0
+27603CA1221435,Anthem,Anthem Gold PPO 35/1000/20% WH,0,0
+27603CA1220799,Anthem,Anthem Gold PPO 35/1000/20%,0,0
+27603CA1220742,Anthem,Anthem Gold PPO 30/500/20%,0,0
+27603CA1220780,Anthem,Anthem Gold PPO 30/750/20%,0,0
+27603CA1220890,Anthem,Anthem Gold Select PPO 35/1000/20%,0,0
+27603CA1220892,Anthem,Anthem Gold Select PPO 30/500/20%,0,0
+27603CA1220893,Anthem,Anthem Gold Select PPO 30/750/20%,0,0
+27603CA1221144,Anthem,Anthem Gold PPO 35/500/25%,0,0
+27603CA0000017-77,CalChoice,Anthem Select PPO Gold PPO D,0,0
+27603CA0000014-77,CalChoice,Anthem Select PPO Gold PPO B,0,0
+27603CA1221133,Anthem,Anthem Gold Select PPO 35/500/25%,0,0
+27603CA1221416,Anthem,Anthem Gold PPO 35/500/25% WH,0,0
+27603CA1221299,Anthem,Anthem Gold PPO 5/1500/30%,0,0
+27603CA1220575,Anthem,Anthem Silver Select PPO 2100/30% w/HSA PrevRx,1,0
+27603CA1221234,Anthem,Anthem Gold Select PPO 5/1500/30%,0,0
+27603CA1220560,Anthem,Anthem Silver PPO 2100/30% w/HSA PrevRx,1,0
+27603CA1221547,Anthem,Anthem Silver PPO 2600/35% w/HSA PrevRx,1,0
+27603CA1220869,Anthem,Anthem Silver Select PPO 55/1950/35%,0,0
+27603CA1221561,Anthem,Anthem Silver Select PPO 2600/35% w/HSA PrevRx,1,0
+27603CA0000002-77,CalChoice,Anthem Prudent Buyer Silver PPO D (OOA),1,0
+27603CA0000012-77,CalChoice,Anthem Select PPO Bronze PPO B,1,0
+27603CA1221333,Anthem,Anthem Bronze Select PPO 70/6600/35%,0,0
+27603CA1221378,Anthem,Anthem Bronze PPO 70/6600/35%,0,0
+27603CA0000003-77,CalChoice,Anthem Select PPO Silver PPO E,1,0
+27603CA1220876,Anthem,Anthem Silver PPO 55/1950/35%,0,0
+27603CA0000015-77,CalChoice,Anthem Prudent Buyer Silver PPO C (OOA),0,0
+27603CA0000001-77,CalChoice,Anthem Prudent Buyer Bronze PPO C (OOA),0,0
+27603CA0000013-77,CalChoice,Anthem Select PPO Silver PPO B,0,0
+27603CA1221332,Anthem,Anthem Bronze Select PPO 60/6850/40%,0,0
+27603CA1220837,Anthem,Anthem Silver PPO 50/2200/40%,0,0
+27603CA1221340,Anthem,Anthem Bronze PPO 40/6200/40%,0,0
+27603CA1221359,Anthem,Anthem Bronze PPO 60/6850/40%,0,0
+27603CA1221529,Anthem,Anthem Bronze PPO 75/7300/40%,0,0
+27603CA1221331,Anthem,Anthem Bronze Select PPO 40/6200/40%,0,0
+27603CA1221560,Anthem,Anthem Bronze Select PPO 75/7300/40%,0,0
+27603CA1220896,Anthem,Anthem Silver Select PPO 50/2200/40%,0,0
+27603CA0000011-77,CalChoice,Anthem Select PPO Bronze PPO D,0,0
+27603CA1221134,Anthem,Anthem Silver Select PPO 55/2500/45%,0,0
+27603CA1221163,Anthem,Anthem Silver PPO 55/2500/45%,0,0
+27603CA1221473,Anthem,Anthem Silver PPO 55/2500/45% WH,0,0
+27603CA1220354,Anthem,Anthem Bronze Select PPO 6000/45% w/HSA PrevRx,1,0
+27603CA1220381,Anthem,Anthem Bronze PPO 6000/45% w/HSA PrevRx,1,0
+27603CA1221492,Anthem,Anthem Bronze PPO 6000/45% w/HSA PrevRx WH,1,0
+40025CA0080007,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $0/$10,0,0
+40025CA0080010,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $0/$10 INF,0,1
+40025CA0080135,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $0/$10,0,0
+40025CA0080138,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $0/$10 INF,0,1
+27603CA1221564,Anthem,Anthem Silver Select PPO 45/1750/40% WH,0,0
+27603CA1221454,Anthem,Anthem Silver PPO 45/1750/40% WH,0,0
+27603CA1221132,Anthem,Anthem Silver Select PPO 45/1750/40%,0,0
+27603CA1221119,Anthem,Anthem Silver PPO 45/1750/40%,0,0
+40025CA0080159,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $250,0,0
+40025CA0080162,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $250 INF,0,1
+40025CA0080031,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $250,0,0
+40025CA0080034,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $250 INF,0,1
+40025CA0080153,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $0,0,0
+40025CA0080156,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $0 INF,0,1
+40025CA0080025,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $0,0,0
+40025CA0080028,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $0 INF,0,1
+40025CA0080061,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $1950,0,0
+40025CA0080189,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $1950,0,0
+40025CA0080192,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $1950 INF,0,1
+40025CA0080064,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $1950 INF,0,1
+40025CA0080183,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $0,0,0
+40025CA0080186,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $0 INF,0,1
+40025CA0080058,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $0 INF,0,1
+40025CA0080055,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $0,0,0
+70285CA8160001,BlueShield of California,Platinum Full PPO 0/10 OffEx,0,0
+70285CA8160064,BlueShield of California,Platinum Full PPO 0/10 OffEx INF,0,1
+70285CA8160306,BlueShield of California,Platinum Full PPO 0/0 OffEx INF,0,1
+70285CA8160083,BlueShield of California,Platinum Tandem PPO 0/10 OffEx ,0,0
+70285CA8160305,BlueShield of California,Platinum Full PPO 0/0 OffEx,0,0
+70285CA8160313,BlueShield of California,Platinum Tandem PPO 0/0 OffEx ,0,0
+70285CA8160332,BlueShield of California,Platinum Tandem PPO 0/0 OffEx INF,0,1
+70285CA8160197,BlueShield of California,Platinum Tandem PPO 0/10 OffEx INF,0,1
+40733CA0111197,Aetna,CA Platinum MC 90/50 0 wINF,0,1
+67138CA0730007-33,Health Net,Platinum PPO 0/15 + Chiropractic,0,0
+67138CA0730007,Health Net,Platinum PPO 0/15,0,0
+67138CA0730273,Health Net,Platinum PPO 0/15 + Infertility,0,1
+67138CA0730273-33,Health Net,Platinum PPO 0/15 + Infertility + Chiropractic,0,1
+40733CA0110762,Aetna,CA Platinum MC 90/50 0 M,0,1
+70285CA8160102,BlueShield of California,Platinum Tandem PPO 250/15 OffEx ,0,0
+70285CA8160743,BlueShield of California,Platinum Full PPO 250/10 OffEx INF,0,1
+70285CA8160216,BlueShield of California,Platinum Tandem PPO 250/15 OffEx INF,0,1
+70285CA8160751,BlueShield of California,Platinum Tandem PPO 250/10 OffEx,0,0
+70285CA8160741,BlueShield of California,Platinum Full PPO 250/10 OffEx,0,0
+70285CA8160002,BlueShield of California,Platinum Full PPO 250/15 OffEx,0,0
+70285CA8160065,BlueShield of California,Platinum Full PPO 250/15 OffEx INF,0,1
+70285CA8160789,BlueShield of California,Platinum Tandem PPO 250/10 OffEx INF,0,1
+40733CA0111007,Aetna,CA Gold MC 90/50 3000 HSA,1,1
+40025CA0080013,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $250,0,0
+40025CA0080016,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $250 INF,0,1
+67138CA0730026-33,Health Net,Platinum PPO 250/15 + Chiropractic,0,0
+67138CA0730026,Health Net,Platinum PPO 250/15,0,0
+67138CA0730292,Health Net,Platinum PPO 250/15 + Infertility,0,1
+67138CA0730292-33,Health Net,Platinum PPO 250/15 + Infertility + Chiropractic,0,1
+40025CA0080144,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $250 INF,0,1
+40025CA0080141,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $250,0,0
+40733CA0111008,Aetna,CA Gold MC 90/50 3000 HSA wINF,1,1
+70285CA8160742,BlueShield of California,Gold Full PPO Savings 1750/15% HDHP PrevRx OffEx,1,0
+70285CA8160744,BlueShield of California,Gold Full PPO Savings 1750/15% HDHP PrevRx OffEx INF,1,1
+70285CA8160770,BlueShield of California,Gold Tandem PPO Savings 1750/15% HDHP PrevRx OffEx,1,0
+70285CA8160808,BlueShield of California,Gold Tandem PPO Savings 1750/15% HDHP PrevRx OffEx INF,1,1
+40025CA0080147,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $500,0,0
+40025CA0080150,Cigna + Oscar,Cigna+Oscar LocalPlus Platinum $500 INF,0,1
+40025CA0080019,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $500,0,0
+40025CA0080022,Cigna + Oscar,Cigna+Oscar Open Access Plus Platinum $500 INF,0,1
+40733CA0110607,Aetna,CA Gold MC 80/50 350 M,0,1
+67138CA0730368,Health Net,Gold PPO 350/25 + Infertility,0,1
+67138CA0730368-33,Health Net,Gold PPO 350/25 + Infertility + Chiropractic,0,1
+67138CA0730102-33,Health Net,Gold PPO 350/25 + Chiropractic,0,0
+67138CA0730102,Health Net,Gold PPO 350/25,0,0
+40733CA0111006,Aetna,CA Gold MC 80/50 350 wINF,0,1
+70285CA8160004,BlueShield of California,Gold Full PPO 500/30 OffEx,0,0
+70285CA8160006,BlueShield of California,Gold Full PPO 1000/35 OffEx,0,0
+70285CA8160068,BlueShield of California,Gold Full PPO 750/30 OffEx INF,0,1
+70285CA8160005,BlueShield of California,Gold Full PPO 750/30 OffEx,0,0
+70285CA8160067,BlueShield of California,Gold Full PPO 500/30 OffEx INF,0,1
+70285CA8160069,BlueShield of California,Gold Full PPO 1000/35 OffEx INF,0,1
+70285CA8160479,BlueShield of California,Gold Tandem PPO 1000/35 OffEx,0,0
+70285CA8160612,BlueShield of California,Gold Tandem PPO 1000/35 OffEx INF,0,1
+70285CA8160460,BlueShield of California,Gold Tandem PPO 500/30 OffEx,0,0
+70285CA8160121,BlueShield of California,Gold Tandem PPO 750/30 OffEx,0,0
+70285CA8160235,BlueShield of California,Gold Tandem PPO 750/30 OffEx INF,0,1
+70285CA8160593,BlueShield of California,Gold Tandem PPO 500/30 OffEx INF,0,1
+40733CA0111005,Aetna,CA Gold MC 80/50 1500 wINF,0,1
+40733CA0090083,Aetna,CA Gold PPO 80/50 1000,0,1
+40025CA0080171,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $750,0,0
+40025CA0080174,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $750 INF,0,1
+40733CA0090084,Aetna,CA Gold PPO 80/50 1000 wINF,0,1
+40733CA0111195,Aetna,CA Platinum MC 80/50 250,0,1
+40025CA0080177,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $1350,0,0
+40025CA0080180,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $1350 INF,0,1
+40025CA0080052,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $1350 INF,0,1
+40733CA0110812,Aetna,CA Gold MC 80/50 1500,0,1
+40025CA0080046,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $750 INF,0,1
+40025CA0080043,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $750,0,0
+40025CA0080049,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $1350,0,0
+40733CA0111196,Aetna,CA Platinum MC 80/50 250 wINF,0,1
+49116CA0100006-13,UnitedHealthcare,Core PPO Gold CVQI /N55S,0,0
+49116CA0100018-13,UnitedHealthcare,Select Plus PPO Platinum CVQR /L47S,0,0
+49116CA0100010-13,UnitedHealthcare,Select Plus PPO Gold CVQV /N55S,0,0
+49116CA0100011-13,UnitedHealthcare,Select Plus PPO Gold CVQU /N55S,0,0
+49116CA0100013-13,UnitedHealthcare,Core PPO Platinum CVQB /L44S,0,0
+49116CA0100014-13,UnitedHealthcare,Core PPO Platinum CVQE /L47S,0,0
+49116CA0100017-13,UnitedHealthcare,Select Plus PPO Platinum CVQO /L44S,0,0
+49116CA0100007-13,UnitedHealthcare,Core PPO Gold CVQH /N55S,0,0
+40025CA0080168,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $500 INF,0,1
+40025CA0080165,Cigna + Oscar,Cigna+Oscar LocalPlus Gold $500,0,0
+40025CA0080037,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $500,0,0
+40025CA0080040,Cigna + Oscar,Cigna+Oscar Open Access Plus Gold $500 INF,0,1
+40733CA0110608,Aetna,CA Gold MC 75/50 500,0,1
+40733CA0111004,Aetna,CA Gold MC 75/50 500 wINF,0,1
+70285CA8160382,BlueShield of California,Silver Tandem PPO Savings 2300/25% OffEx ,1,0
+70285CA8160074,BlueShield of California,Silver Full PPO Savings 2300/25% OffEx INF,1,1
+70285CA8160011,BlueShield of California,Silver Full PPO Savings 2300/25% OffEx,1,0
+70285CA8160420,BlueShield of California,Silver Tandem PPO Savings 2300/25% OffEx INF,1,1
+70285CA8160574,BlueShield of California,Gold Tandem PPO 0/25 OffEx INF,0,1
+70285CA8160066,BlueShield of California,Gold Full PPO 0/25 OffEx INF,0,1
+70285CA8160441,BlueShield of California,Gold Tandem PPO 0/25 OffEx,0,0
+70285CA8160003,BlueShield of California,Gold Full PPO 0/25 OffEx,0,0
+67138CA0730045-33,Health Net,Gold PPO 0/35 + Chiropractic,0,0
+67138CA0730045,Health Net,Gold PPO 0/35,0,0
+67138CA0730311,Health Net,Gold PPO 0/35 + Infertility,0,1
+67138CA0730311-33,Health Net,Gold PPO 0/35 + Infertility + Chiropractic,0,1
+40025CA0080252,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $3000 INF HSA,1,1
+40025CA0080210,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $3000 INF HSA,1,1
+67138CA0730064,Health Net,Gold PPO 1000/35,0,0
+67138CA0730064-33,Health Net,Gold PPO 1000/35 + Chiropractic,0,0
+67138CA0730121-33,Health Net,Gold PPO 500/20 + Chiropractic,0,0
+67138CA0730121,Health Net,Gold PPO 500/20,0,0
+67138CA0730140,Health Net,Gold PPO 750/15,0,0
+67138CA0730330-33,Health Net,Gold PPO 1000/35 + Infertility + Chiropractic,0,1
+67138CA0730330,Health Net,Gold PPO 1000/35 + Infertility,0,1
+67138CA0730387-33,Health Net,Gold PPO 500/20 + Infertility + Chiropractic,0,1
+67138CA0730387,Health Net,Gold PPO 500/20 + Infertility,0,1
+67138CA0730406-33,Health Net,Gold PPO 750/15 + Infertility + Chiropractic,0,1
+67138CA0730406,Health Net,Gold PPO 750/15 + Infertility,0,1
+67138CA0730140-33,Health Net,Gold PPO 750/15 + Chiropractic,0,0
+40733CA0111003,Aetna,CA Gold MC 70/50 1250 wINF,0,1
+40025CA0080207,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $3000 HSA,1,0
+40025CA0080249,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $3000 HSA,1,0
+40733CA0110735,Aetna,CA Gold MC 70/50 1250,0,1
+40733CA0111280,Aetna,CA Silver MC 65/50 2600 wINF,0,1
+27330CA0130008,Kaiser Permanente,Silver 70 PPO 2500/55 + Child Dental,0,1
+40025CA0080243,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $7250,0,0
+40025CA0080279,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $2500 INF,0,1
+67138CA0730216,Health Net,Silver PPO 2500/55,0,0
+67138CA0730216-33,Health Net,Silver PPO 2500/55 + Chiropractic,0,0
+40025CA0080198,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $2500 INF,0,1
+40025CA0080246,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $7250 INF,0,1
+40025CA0080282,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $2500,0,0
+67138CA0730482-33,Health Net,Silver PPO 2500/55 + Infertility + Chiropractic,0,1
+67138CA0730482,Health Net,Silver PPO 2500/55 + Infertility,0,1
+40025CA0080195,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $2500,0,0
+40025CA0080261,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $7250,0,0
+40025CA0080264,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $7250 INF,0,1
+40733CA0110652,Aetna,CA Silver MC 65/50 2500 M,0,1
+40733CA0110769,Aetna,CA Silver MC 65/50 2600,0,1
+40733CA0111279,Aetna,CA Silver MC 65/50 2500 wINF,0,1
+70285CA8150005,CoveredCA,Silver 70 PPO 2500/55 + Child Dental,0,0
+70285CA8160159,BlueShield of California,Silver Tandem PPO 2000/60 OffEx,0,0
+70285CA8160010,BlueShield of California,Bronze Full PPO 6850/55 OffEx,0,0
+70285CA8160071,BlueShield of California,Silver Full PPO 2000/60 OffEx INF,0,1
+70285CA8160073,BlueShield of California,Bronze Full PPO 6850/55 OffEx INF,0,1
+70285CA8160008,BlueShield of California,Silver Full PPO 2000/60 OffEx,0,0
+70285CA8160434,BlueShield of California,Silver Full PPO Savings 2600/35% HDHP PrevRx OffEx INF,1,1
+70285CA8150006,CoveredCA,Silver 70 PPO 2500/55 + Child Dental INF,0,1
+70285CA8160433,BlueShield of California,Silver Full PPO Savings 2600/35% HDHP PrevRx OffEx,1,0
+70285CA8160273,BlueShield of California,Silver Tandem PPO 2000/60 OffEx INF,0,1
+70285CA8160498,BlueShield of California,Bronze Tandem PPO 6850/55 OffEx,0,0
+70285CA8160517,BlueShield of California,Silver Tandem PPO Savings 2600/35% HDHP PrevRx OffEx,1,0
+70285CA8160631,BlueShield of California,Bronze Tandem PPO 6850/55 OffEx INF,0,1
+70285CA8160650,BlueShield of California,Silver Tandem PPO Savings 2600/35% HDHP PrevRx OffEx INF,1,1
+40025CA0080228,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $6000 INF,0,1
+67138CA0730520,Health Net,Bronze PPO 6300/65 + Infertility,0,1
+40733CA0090089,Aetna,CA Silver PPO 60/50 2100,0,1
+40025CA0080273,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $5750 HSA,1,0
+40025CA0080276,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $5750 INF HSA,1,1
+40025CA0080225,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $6000,0,0
+40025CA0080237,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $5750 HSA,1,0
+40025CA0080240,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $5750 INF HSA,1,1
+40025CA0080099,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $6000,0,0
+40025CA0080270,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $2600 INF,0,1
+67138CA0730349,Health Net,Gold PPO 1600/0 + Infertility,0,1
+67138CA0730444,Health Net,Silver PPO 1700/50 + Infertility,0,1
+67138CA0730463-33,Health Net,Silver PPO 2250/60 + Infertility + Chiropractic,0,1
+67138CA0730520-33,Health Net,Bronze PPO 6300/65 + Infertility + Chiropractic,0,1
+67138CA0730083-33,Health Net,Gold PPO 1600/0 + Chiropractic,0,0
+67138CA0730178,Health Net,Silver PPO 1700/50,0,0
+67138CA0730178-33,Health Net,Silver PPO 1700/50 + Chiropractic,0,0
+67138CA0730197-33,Health Net,Silver PPO 2250/60 + Chiropractic,0,0
+67138CA0730349-33,Health Net,Gold PPO 1600/0 + Infertility + Chiropractic,0,1
+67138CA0730444-33,Health Net,Silver PPO 1700/50 + Infertility + Chiropractic,0,1
+67138CA0730083,Health Net,Gold PPO 1600/0,0,0
+67138CA0730197,Health Net,Silver PPO 2250/60,0,0
+40025CA0080105,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $6300,0,0
+40025CA0080108,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $6300 INF,0,1
+67138CA0730254-33,Health Net,Bronze PPO 6300/65 + Chiropractic,0,0
+67138CA0730254,Health Net,Bronze PPO 6300/65,0,0
+67138CA0730463,Health Net,Silver PPO 2250/60 + Infertility,0,1
+40025CA0080201,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $2600,0,0
+40025CA0080204,Cigna + Oscar,Cigna+Oscar LocalPlus Silver $2600 INF,0,1
+40025CA0080231,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $6300,0,0
+40025CA0080234,Cigna + Oscar,Cigna+Oscar LocalPlus Bronze $6300 INF,0,1
+40025CA0080102,Cigna + Oscar,Cigna+Oscar Open Access Plus Bronze $6000 INF,0,1
+40025CA0080267,Cigna + Oscar,Cigna+Oscar Open Access Plus Silver $2600,0,0
+40733CA0090090,Aetna,CA Silver PPO 60/50 2100 wINF,0,1
+40733CA0110696,Aetna,CA Silver MC 60/50 2100,0,1
+40733CA0111278,Aetna,CA Silver MC 60/50 2100 wINF,0,1
+70285CA8150007,CoveredCA,Bronze 60 PPO 6300/65 + Child Dental,0,0
+70285CA8160536,BlueShield of California,Bronze Tandem PPO Savings 5700/40% OffEx,1,0
+70285CA8160831,BlueShield of California,Bronze Tandem PPO 5500/65 OffEx,0,0
+70285CA8150008,CoveredCA,Bronze 60 PPO 6300/65 + Child Dental INF,0,1
+70285CA8160007,BlueShield of California,Silver Full PPO 2550/70 OffEx,0,0
+70285CA8160009,BlueShield of California,Bronze Full PPO 6250/65 OffEx,0,0
+70285CA8160012,BlueShield of California,Bronze Full PPO Savings 5700/40% OffEx,1,0
+70285CA8160072,BlueShield of California,Bronze Full PPO 6250/65 OffEx INF,0,1
+70285CA8160075,BlueShield of California,Bronze Full PPO Savings 5700/40% OffEx INF,1,1
+70285CA8160701,BlueShield of California,Silver Full PPO 2350/65 OffEx,0,0
+70285CA8160702,BlueShield of California,Silver Full PPO 2350/65 OffEx INF,0,1
+70285CA8160070,BlueShield of California,Silver Full PPO 2550/70 OffEx INF,0,1
+70285CA8160821,BlueShield of California,Bronze Full PPO 5500/65 OffEx,0,0
+70285CA8160823,BlueShield of California,Bronze Full PPO 5500/65 OffEx INF,0,1
+70285CA8160254,BlueShield of California,Silver Tandem PPO 2550/70 OffEx INF,0,1
+70285CA8160292,BlueShield of California,Bronze Tandem PPO 6250/65 OffEx INF,0,1
+70285CA8160869,BlueShield of California,Bronze Tandem PPO 5500/65 OffEx INF,0,1
+70285CA8160669,BlueShield of California,Bronze Tandem PPO Savings 5700/40% OffEx INF,1,1
+70285CA8160728,BlueShield of California,Silver Tandem PPO 2350/65 OffEx INF,0,1
+70285CA8160140,BlueShield of California,Silver Tandem PPO 2550/70 OffEx,0,0
+70285CA8160178,BlueShield of California,Bronze Tandem PPO 6250/65 OffEx,0,0
+70285CA8160709,BlueShield of California,Silver Tandem PPO 2350/65 OffEx,0,0
+49116CA0100002-13,UnitedHealthcare,Core PPO Silver CVQJ /L41S,0,0
+49116CA0100003-13,UnitedHealthcare,Select Plus PPO Silver CVQX /L41S,0,0
+49116CA0100004-13,UnitedHealthcare,Select Plus PPO Silver CVQW /L41S,0,0
+49116CA0100001-13,UnitedHealthcare,Core PPO Silver CVQK /L41S,0,0
+37873CA0090006-13,UnitedHealthcare,Core PPO HDHP Silver CVQD /L46S,1,0
+37873CA0090041,UnitedHealthcare,Core PPO HDHP Bronze CVQL /L45Y,1,0
+37873CA0090055,UnitedHealthcare,Select Plus PPO HDHP Bronze CVQY /L45Y,1,0
+37873CA0090001-13,UnitedHealthcare,Select Plus PPO HDHP Silver CVQQ /L46S,1,0
+37873CA0090002-13,UnitedHealthcare,Select Plus PPO Bronze CVQP /L42Y,0,0
+37873CA0090005-13,UnitedHealthcare,Core PPO Bronze CVQC /L42Y,0,0
+49116CA0100023-13,UnitedHealthcare,Core PPO Bronze CEMD /K92L,0,0
+40733CA0110840,Aetna,CA Bronze MC 55/50 4600 wINF,0,1
+40733CA0110839,Aetna,CA Bronze MC 55/50 4600,0,1
+40733CA0090088,Aetna,CA Bronze PPO 55/50 4600 wINF,0,1
+40733CA0090087,Aetna,CA Bronze PPO 55/50 4600,0,1
+40733CA0110838,Aetna,CA Bronze MC 50/50 8300 wINF,0,1
+40733CA0090085,Aetna,CA Bronze PPO 50/50 8300,0,1
+40733CA0090086,Aetna,CA Bronze PPO 50/50 8300 wINF,0,1
+67138CA0730159,Health Net,Silver HDHP PPO 1500/50%,1,0
+67138CA0730425,Health Net,Silver HDHP PPO 1500/50% + Infertility,1,1
+67138CA0730159-33,Health Net,Silver HDHP PPO 1500/50% + Chiropractic,1,0
+40733CA0110718,Aetna,CA Bronze MC 50/50 8300,0,1
+67138CA0730425-33,Health Net,Silver HDHP PPO 1500/50% + Infertility + Chiropractic,1,1
+70285CA8160401,BlueShield of California,Bronze Tandem PPO 7500/65 OffEx INF,0,1
+70285CA8160850,BlueShield of California,Bronze Tandem PPO 6500/70 OffEx,0,0
+70285CA8160888,BlueShield of California,Bronze Tandem PPO 6500/70 OffEx INF,0,1
+70285CA8160363,BlueShield of California,Bronze Tandem PPO 7500/65 OffEx,0,0
+70285CA8160355,BlueShield of California,Bronze Full PPO 7500/65 OffEx,0,0
+70285CA8160356,BlueShield of California,Bronze Full PPO 7500/65 OffEx INF,0,1
+70285CA8160822,BlueShield of California,Bronze Full PPO 6500/70 OffEx,0,0
+70285CA8160824,BlueShield of California,Bronze Full PPO 6500/70 OffEx INF,0,1
+37873CA0090028,UnitedHealthcare,Core PPO Bronze CV2O /L65Y,0,0
+37873CA0090027,UnitedHealthcare,Core PPO Bronze CVPS /L65Y,0,0
+37873CA0090042,UnitedHealthcare,Select Plus PPO Bronze CVPU /L65Y,0,0
+37873CA0090043,UnitedHealthcare,Select Plus PPO Bronze CV2P /L65Y,0,0
