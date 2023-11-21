@@ -18,3 +18,6 @@ FROM
     JOIN airbyte_ideon.pricings pr ON pc.plan_id = pr.plan_id
     AND zc.rating_area_id = pr.rating_area_id
     AND pr._ab_source_file_url LIKE '%{state}/{year}/{quarter}%'
+ORDER BY
+    pc.plan_id asc,
+    pr.age asc;

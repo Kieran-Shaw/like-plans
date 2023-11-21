@@ -1,530 +1,530 @@
-id,carrier_name,name,hsa_eligible,infertility_treatment_rider,individual_medical_deductible_in_network,family_medical_deductible_in_network,individual_medical_moop_in_network,family_medical_moop_in_network,coinsurance_in_network,level_bronze,level_expanded_bronze,level_gold,level_platinum,level_silver,plan_type_EPO,plan_type_HMO
-27603CA1210865,Anthem,Anthem Platinum HMO 0/30,0,0,0,0,2700,5400,0,0,0,0,1,0,0,1
-27603CA1210884,Anthem,Anthem Platinum Select HMO 0/30,0,0,0,0,2700,5400,0,0,0,0,1,0,0,1
-27603CA1211080,Anthem,Anthem Platinum Priority Select HMO 0/30,0,0,0,0,2700,5400,0,0,0,0,1,0,0,1
-27603CA1210551,Anthem,Anthem Gold HMO 30,0,0,0,0,6600,13200,0,0,0,1,0,0,0,1
-27603CA1210290,Anthem,Anthem Gold HMO 35,0,0,0,0,6750,13500,0,0,0,1,0,0,0,1
-27603CA1211108,Anthem,Anthem Gold Priority Select HMO 30,0,0,0,0,6600,13200,0,0,0,1,0,0,0,1
-70285CA8230007,CoveredCA,Blue Shield Trio Gold 80 HMO 250/35 + Child Dental INF,0,1,250,500,7800,15600,20,0,0,1,0,0,0,1
-70285CA8230058,CoveredCA,Trio Gold 80 HMO 250/35 + Child Dental,0,0,250,500,7800,15600,20,0,0,1,0,0,0,1
-49116CA0100035-13,UnitedHealthcare,Doctors Plan EPO Gold CVP9 /N54S,0,0,0,0,8500,17000,30,0,0,1,0,0,1,0
-49116CA0100038-13,UnitedHealthcare,Doctors Plan EPO Platinum CVQM /L44S,0,0,250,500,3600,7200,10,0,0,0,1,0,1,0
-40025CA0000016-77,CalChoice,Cigna + Oscar Open Access Plus Gold EPO F,0,0,0,0,8950,17900,30,0,0,1,0,0,1,0
-40025CA0000010-77,CalChoice,Cigna + Oscar LocalPlus Platinum EPO D,0,0,250,500,4750,9500,10,0,0,0,1,0,1,0
-40025CA0000003-77,CalChoice,Cigna + Oscar LocalPlus Silver EPO C,0,0,1950,3900,8950,17900,35,0,0,0,0,1,1,0
-40025CA0000006-77,CalChoice,Cigna + Oscar LocalPlus Gold EPO C,0,0,0,0,8950,17900,30,0,0,1,0,0,1,0
-27603CA1210266,Anthem,Anthem Gold Select HMO 35,0,0,0,0,6750,13500,0,0,0,1,0,0,0,1
-27603CA1210534,Anthem,Anthem Gold Select HMO 30,0,0,0,0,6600,13200,0,0,0,1,0,0,0,1
-27603CA1210792,Anthem,Anthem Silver Select HMO 55,0,0,0,0,9100,18200,0,0,0,0,0,1,0,1
-27603CA1211094,Anthem,Anthem Gold Priority Select HMO 35,0,0,0,0,6750,13500,0,0,0,1,0,0,0,1
-27603CA1211511,Anthem,Anthem Link Silver Vivity HMO 50/2650 WH,0,0,2650,5300,9100,18200,0,0,0,0,0,1,0,1
-27603CA1211492,Anthem,Anthem Link Silver Vivity HMO 50/2650,0,0,2650,5300,9100,18200,0,0,0,0,0,1,0,1
-40025CA0000014-77,CalChoice,Cigna + Oscar Open Access Plus Silver EPO F,0,0,1950,3900,8950,17900,35,0,0,0,0,1,1,0
-27603CA1210773,Anthem,Anthem Silver HMO 55,0,0,0,0,9100,18200,0,0,0,0,0,1,0,1
-27603CA1211066,Anthem,Anthem Silver Priority Select HMO 55,0,0,0,0,9100,18200,0,0,0,0,0,1,0,1
-40513CA0410045,Kaiser Permanente,Bronze 60 HDHP HMO 7000/0 + Child Dental INF,1,1,7000,14000,7000,14000,0,0,1,0,0,0,0,1
-20523CA0032703,Aetna,CA Bronze HMO AWH NoCA $75/125 7900,0,1,7900,15800,7900,15800,0,0,1,0,0,0,0,1
-20523CA0032712,Aetna,CA Bronze HMO AWH NoCA $75/125 7900 wINF,0,1,7900,15800,7900,15800,0,0,1,0,0,0,0,1
-40513CA0400065,CoveredCA,Bronze 60 HDHP HMO 7000/0% + Child Dental,1,0,7000,14000,7000,14000,0,0,1,0,0,0,0,1
-20523CA0031253,Aetna,CA Bronze HMO $75/125 7900,0,1,7900,15800,7900,15800,0,0,1,0,0,0,0,1
-20523CA0031542,Aetna,CA Bronze HMO $75/125 7900 wINF,0,1,7900,15800,7900,15800,0,0,1,0,0,0,0,1
-40513CA0410021,Kaiser Permanente,Bronze 60 HDHP HMO 7000/0 + Child Dental,1,0,7000,14000,7000,14000,0,0,1,0,0,0,0,1
-40513CA0400066,CoveredCA,Bronze 60 HDHP HMO 7000/0% + Child Dental INF,1,1,7000,14000,7000,14000,0,0,1,0,0,0,0,1
-64210CA0630044,Sutter Health Plus,Bronze SD48 HDHP HMO,1,0,7000,14000,7000,14000,0,0,1,0,0,0,0,1
-64210CA0640044,Sutter Health Plus,Bronze SP48 Plus HDHP HMO,1,1,7000,14000,7000,14000,0,0,1,0,0,0,0,1
-40513CA0000008-77,CalChoice,Kaiser Permanente Full Bronze HMO C,1,0,7000,14000,7000,14000,0,0,1,0,0,0,0,1
-64210CA0000004-77,CalChoice,Sutter Health Plus Bronze HMO B,1,0,7000,14000,7000,14000,0,0,1,0,0,0,0,1
-20523CA0030825,Aetna,CA Bronze HMO Basic $75/125 7900,0,1,7900,15800,7900,15800,0,0,1,0,0,0,0,1
-20523CA0031589,Aetna,CA Bronze HMO Basic $75/125 7900 wINF,0,1,7900,15800,7900,15800,0,0,1,0,0,0,0,1
-20523CA0031562,Aetna,CA Bronze HMO AVN $75/125 7900 wINF,0,1,7900,15800,7900,15800,0,0,1,0,0,0,0,1
-20523CA0030881,Aetna,CA Bronze HMO AVN $75/125 7900,0,1,7900,15800,7900,15800,0,0,1,0,0,0,0,1
-20523CA0032820,Aetna,CA Platinum HMO AWH NoCA $20/30 0 wINF,0,1,0,0,4500,9000,0,0,0,0,1,0,0,1
-20523CA0032829,Aetna,CA Platinum HMO AWH NoCA $20/40 0,0,1,0,0,3500,7000,0,0,0,0,1,0,0,1
-20523CA0032838,Aetna,CA Platinum HMO AWH NoCA $20/40 0 wINF,0,1,0,0,3500,7000,0,0,0,0,1,0,0,1
-20523CA0032021,Aetna,CA Platinum HMO AVN $20/40 0 wINF,0,1,0,0,3500,7000,0,0,0,0,1,0,0,1
-64210CA0640056,Sutter Health Plus,Platinum MP68 Plus HMO,0,1,0,0,3500,7000,0,0,0,0,1,0,0,1
-20523CA0032067,Aetna,CA Platinum HMO Basic $20/40 0 wINF,0,1,0,0,3500,7000,0,0,0,0,1,0,0,1
-20523CA0032058,Aetna,CA Platinum HMO Basic $20/40 0,0,1,0,0,3500,7000,0,0,0,0,1,0,0,1
-20523CA0031983,Aetna,CA Platinum HMO $20/40 0 wINF,0,1,0,0,3500,7000,10,0,0,0,1,0,0,1
-20523CA0030551,Aetna,CA Platinum HMO AVN $20/30 0 wINF,0,1,0,0,4500,9000,0,0,0,0,1,0,0,1
-20523CA0031423,Aetna,CA Platinum HMO AVN $20/30 0 M,0,1,0,0,4500,9000,0,0,0,0,1,0,0,1
-20523CA0032004,Aetna,CA Platinum HMO AVN $20/40 0,0,1,0,0,3500,7000,0,0,0,0,1,0,0,1
-64210CA0630040,Sutter Health Plus,Platinum MS80 HMO,0,0,0,0,4500,9000,0,0,0,0,1,0,0,1
-64210CA0000007-77,CalChoice,Sutter Health Plus Platinum HMO B,0,0,0,0,3500,7000,10,0,0,0,1,0,0,1
-20523CA0031964,Aetna,CA Platinum HMO $20/40 0,0,1,0,0,3500,7000,10,0,0,0,1,0,0,1
-64210CA0000003-77,CalChoice,Sutter Health Plus Platinum HMO A,0,0,0,0,4500,9000,0,0,0,0,1,0,0,1
-64210CA0630056,Sutter Health Plus,Platinum MS68 HMO,0,0,0,0,3500,7000,0,0,0,0,1,0,0,1
-64210CA0640040,Sutter Health Plus,Platinum MP80 Plus HMO,0,1,0,0,4500,9000,0,0,0,0,1,0,0,1
-20523CA0032811,Aetna,CA Platinum HMO AWH NoCA $20/30 0 M,0,1,0,0,4500,9000,0,0,0,0,1,0,0,1
-70285CA8230075,CoveredCA,Trio Platinum 90 HMO 0/20 + Child Dental,0,0,0,0,4500,9000,10,0,0,0,1,0,0,1
-70285CA8170228,BlueShield of California,Platinum Local Access+ HMO (R) 0/20 OffEx,0,0,0,0,2000,4000,0,0,0,0,1,0,0,1
-70285CA8170544,BlueShield of California,Platinum Local Access+ HMO (R) 0/20 OffEx INF,0,1,0,0,2000,4000,0,0,0,0,1,0,0,1
-70285CA8170109,BlueShield of California,Platinum Access+ HMO (R) 0/25 OffEx,0,0,0,0,2350,4700,0,0,0,0,1,0,0,1
-70285CA8230024,CoveredCA,Blue Shield Trio Platinum 90 HMO 0/20 + Child Dental INF,0,1,0,0,4500,9000,10,0,0,0,1,0,0,1
-70285CA8170527,BlueShield of California,Platinum Access+ HMO (R) 0/20 OffEx INF,0,1,0,0,2000,4000,0,0,0,0,1,0,0,1
-70285CA8170211,BlueShield of California,Platinum Access+ HMO (R) 0/20 OffEx,0,0,0,0,2000,4000,0,0,0,0,1,0,0,1
-70285CA8170425,BlueShield of California,Platinum Access+ HMO (R) 0/25 OffEx INF,0,1,0,0,2350,4700,0,0,0,0,1,0,0,1
-70285CA8170245,BlueShield of California,Platinum Trio HMO 0/20 OffEx,0,0,0,0,2000,4000,0,0,0,0,1,0,0,1
-70285CA8170459,BlueShield of California,Platinum Trio HMO 0/25 OffEx INF,0,1,0,0,2350,4700,0,0,0,0,1,0,0,1
-70285CA8170561,BlueShield of California,Platinum Trio HMO 0/20 OffEx INF,0,1,0,0,2000,4000,0,0,0,0,1,0,0,1
-70285CA8170612,BlueShield of California,Platinum Trio HMO 0/30 OffEx INF,0,1,0,0,2700,5400,0,0,0,0,1,0,0,1
-70285CA8170279,BlueShield of California,Platinum Local Access+ HMO (R) 0/30 OffEx,0,0,0,0,2700,5400,0,0,0,0,1,0,0,1
-70285CA8170442,BlueShield of California,Platinum Local Access+ HMO (R) 0/25 OffEx INF,0,1,0,0,2350,4700,0,0,0,0,1,0,0,1
-70285CA8170595,BlueShield of California,Platinum Local Access+ HMO (R) 0/30 OffEx INF,0,1,0,0,2700,5400,0,0,0,0,1,0,0,1
-70285CA8170262,BlueShield of California,Platinum Access+ HMO (R) 0/30 OffEx,0,0,0,0,2700,5400,0,0,0,0,1,0,0,1
-70285CA8170578,BlueShield of California,Platinum Access+ HMO (R) 0/30 OffEx INF,0,1,0,0,2700,5400,0,0,0,0,1,0,0,1
-70285CA8170296,BlueShield of California,Platinum Trio HMO 0/30 OffEx,0,0,0,0,2700,5400,0,0,0,0,1,0,0,1
-70285CA8170126,BlueShield of California,Platinum Local Access+ HMO (R) 0/25 OffEx,0,0,0,0,2350,4700,0,0,0,0,1,0,0,1
-70285CA8170143,BlueShield of California,Platinum Trio HMO 0/25 OffEx,0,0,0,0,2350,4700,0,0,0,0,1,0,0,1
-40513CA0410012,Kaiser Permanente,Platinum 90 HMO 0/20 + Child Dental,0,0,0,0,4500,9000,0,0,0,0,1,0,0,1
-40513CA0400045,CoveredCA,Platinum 90 HMO 0/20 + Child Dental,0,0,0,0,4500,9000,0,0,0,0,1,0,0,1
-40513CA0400046,CoveredCA,Platinum 90 HMO 0/20 + Child Dental INF,0,1,0,0,4500,9000,0,0,0,0,1,0,0,1
-40513CA0000007-77,CalChoice,Kaiser Permanente Full Platinum HMO B,0,0,0,0,4500,9000,0,0,0,0,1,0,0,1
-40513CA0410038,Kaiser Permanente,Platinum 90 HMO 0/20 + Child Dental INF,0,1,0,0,4500,9000,0,0,0,0,1,0,0,1
-20523CA0031919,Aetna,CA Gold HMO Basic $30/60 0 wINF,0,1,0,0,7000,14000,0,0,0,1,0,0,0,1
-20523CA0031767,Aetna,CA Gold HMO AVN $30/60 0 wINF,0,1,0,0,7000,14000,0,0,0,1,0,0,0,1
-20523CA0032739,Aetna,CA Gold HMO AWH NoCA $30/60 0,0,1,0,0,7000,14000,0,0,0,1,0,0,0,1
-20523CA0032793,Aetna,CA Gold HMO AWH NoCA $35/65 250,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-20523CA0032802,Aetna,CA Gold HMO AWH NoCA $35/65 250 wINF,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-20523CA0031729,Aetna,CA Gold HMO $35/65 250 wINF,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-20523CA0031258,Aetna,CA Gold HMO Basic $30/60 0,0,1,0,0,7000,14000,0,0,0,1,0,0,0,1
-20523CA0031946,Aetna,CA Gold HMO Basic $35/65 250,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-20523CA0031710,Aetna,CA Gold HMO $35/65 250,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-20523CA0031256,Aetna,CA Gold HMO AVN $30/60 0,0,1,0,0,7000,14000,0,0,0,1,0,0,0,1
-20523CA0031255,Aetna,CA Gold HMO $30/60 0,0,1,0,0,7000,14000,20,0,0,1,0,0,0,1
-20523CA0031955,Aetna,CA Gold HMO Basic $35/65 250 wINF,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-27603CA1211321,Anthem,Anthem Platinum HMO 0/20,0,0,0,0,1900,3800,0,0,0,0,1,0,0,1
-27603CA1211606,Anthem,Anthem Platinum Select HMO 0/20,0,0,0,0,1900,3800,0,0,0,0,1,0,0,1
-27603CA1211625,Anthem,Anthem Platinum Priority Select HMO 0/20,0,0,0,0,1900,3800,0,0,0,0,1,0,0,1
-20523CA0032748,Aetna,CA Gold HMO AWH NoCA $30/60 0 wINF,0,1,0,0,7000,14000,0,0,0,1,0,0,0,1
-20523CA0031653,Aetna,CA Gold HMO $30/60 0 wINF,0,1,0,0,7000,14000,20,0,0,1,0,0,0,1
-20523CA0031820,Aetna,CA Gold HMO AVN $35/65 250,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-20523CA0031837,Aetna,CA Gold HMO AVN $35/65 250 wINF,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-70285CA8170775,BlueShield of California,Gold Trio HMO 0/30 OffEx INF,0,1,0,0,7000,14000,0,0,0,1,0,0,0,1
-70285CA8170639,BlueShield of California,Gold Access+ HMO (R) 0/30 OffEx,0,0,0,0,7000,14000,0,0,0,1,0,0,0,1
-70285CA8170758,BlueShield of California,Gold Local Access+ HMO (R) 0/30 OffEx INF,0,1,0,0,7000,14000,0,0,0,1,0,0,0,1
-70285CA8170673,BlueShield of California,Gold Trio HMO 0/30 OffEx,0,0,0,0,7000,14000,0,0,0,1,0,0,0,1
-70285CA8170741,BlueShield of California,Gold Access+ HMO (R) 0/30 OffEx INF,0,1,0,0,7000,14000,0,0,0,1,0,0,0,1
-70285CA8170656,BlueShield of California,Gold Local Access+ HMO (R) 0/30 OffEx,0,0,0,0,7000,14000,0,0,0,1,0,0,0,1
-70285CA8170340,BlueShield of California,Gold Local Access+ HMO (R) 1500/35 OffEx INF,0,1,1500,3000,8150,16300,0,0,0,1,0,0,0,1
-70285CA8170041,BlueShield of California,Gold Trio HMO 1500/35 OffEx,0,0,1500,3000,8150,16300,0,0,0,1,0,0,0,1
-70285CA8170357,BlueShield of California,Gold Trio HMO 1500/35 OffEx INF,0,1,1500,3000,8150,16300,0,0,0,1,0,0,0,1
-70285CA8170882,BlueShield of California,Gold Trio HMO 1000/35 OffEx,0,0,1000,2000,7500,15000,0,0,0,1,0,0,0,1
-70285CA8170941,BlueShield of California,Gold Trio HMO 1000/35 OffEx INF,0,1,1000,2000,7500,15000,0,0,0,1,0,0,0,1
-70285CA8170865,BlueShield of California,Gold Local Access+ HMO (R) 1000/35 OffEx,0,0,1000,2000,7500,15000,0,0,0,1,0,0,0,1
-70285CA8170476,BlueShield of California,Gold Access+ HMO (R) 500/35 OffEx INF,0,1,500,1000,7500,15000,0,0,0,1,0,0,0,1
-70285CA8170007,BlueShield of California,Gold Access+ HMO (R) 1500/35 OffEx ,0,0,1500,3000,8150,16300,0,0,0,1,0,0,0,1
-70285CA8170160,BlueShield of California,Gold Access+ HMO (R) 500/35 OffEx,0,0,500,1000,7500,15000,0,0,0,1,0,0,0,1
-70285CA8170323,BlueShield of California,Gold Access+ HMO (R) 1500/35 OffEx INF,0,1,1500,3000,8150,16300,0,0,0,1,0,0,0,1
-70285CA8170848,BlueShield of California,Gold Access+ HMO (R) 1000/35 OffEx ,0,0,1000,2000,7500,15000,0,0,0,1,0,0,0,1
-70285CA8170924,BlueShield of California,Gold Local Access+ HMO (R) 1000/35 OffEx INF,0,1,1000,2000,7500,15000,0,0,0,1,0,0,0,1
-70285CA8170194,BlueShield of California,Gold Trio HMO 500/35 OffEx,0,0,500,1000,7500,15000,0,0,0,1,0,0,0,1
-70285CA8170510,BlueShield of California,Gold Trio HMO 500/35 OffEx INF,0,1,500,1000,7500,15000,0,0,0,1,0,0,0,1
-70285CA8170024,BlueShield of California,Gold Local Access+ HMO (R) 1500/35 OffEx,0,0,1500,3000,8150,16300,0,0,0,1,0,0,0,1
-70285CA8170177,BlueShield of California,Gold Local Access+ HMO (R) 500/35 OffEx,0,0,500,1000,7500,15000,0,0,0,1,0,0,0,1
-70285CA8170493,BlueShield of California,Gold Local Access+ HMO (R) 500/35 OffEx INF,0,1,500,1000,7500,15000,0,0,0,1,0,0,0,1
-70285CA8170907,BlueShield of California,Gold Access+ HMO (R) 1000/35 OffEx INF,0,1,1000,2000,7500,15000,0,0,0,1,0,0,0,1
-67138CA0510208-33,Health Net,SmartCare HMO Platinum $0 + Infertility + Chiropractic,0,1,0,0,3150,6300,30,0,0,0,1,0,0,1
-67138CA0600030-33,Health Net,WholeCare HMO Platinum $20 + Infertility + Chiropractic,0,1,0,0,2500,5000,20,0,0,0,1,0,0,1
-67138CA0240453-33,Health Net,Full Network HMO Platinum $30 + Chiropractic,0,0,0,0,2500,5000,30,0,0,0,1,0,0,1
-27603CA1210475,Anthem,Anthem Platinum Select HMO 0/25,0,0,0,0,2300,4600,0,0,0,0,1,0,0,1
-67138CA0510088,Health Net,SmartCare HMO Platinum $20,0,0,0,0,2500,5000,20,0,0,0,1,0,0,1
-67138CA0600030,Health Net,WholeCare HMO Platinum $20 + Infertility,0,1,0,0,2500,5000,20,0,0,0,1,0,0,1
-67138CA0510172,Health Net,SmartCare HMO Platinum $30 + Infertility,0,1,0,0,2500,5000,30,0,0,0,1,0,0,1
-67138CA0600025,Health Net,WholeCare HMO Platinum $20,0,0,0,0,2500,5000,20,0,0,0,1,0,0,1
-49116CA0000033-77,CalChoice,UnitedHealthcare Harmony Platinum HMO M,0,0,0,0,2500,5000,0,0,0,0,1,0,0,1
-49116CA0000032-77,CalChoice,UnitedHealthcare SignatureValue Platinum HMO B,0,0,0,0,2500,5000,0,0,0,0,1,0,0,1
-49116CA0070709,UnitedHealthcare,SignatureValue HMO Platinum CWXY /N92S,0,0,0,0,2500,5000,0,0,0,0,1,0,0,1
-49116CA0070708,UnitedHealthcare,SignatureValue Harmony HMO Platinum CWXX /N92S,0,0,0,0,2500,5000,0,0,0,0,1,0,0,1
-67138CA0510088-33,Health Net,SmartCare HMO Platinum $20 + Chiropractic,0,0,0,0,2500,5000,20,0,0,0,1,0,0,1
-67138CA0510208,Health Net,SmartCare HMO Platinum $0 + Infertility,0,1,0,0,3150,6300,30,0,0,0,1,0,0,1
-67138CA0510207-33,Health Net,SmartCare HMO Platinum $0 + Chiropractic,0,0,0,0,3150,6300,30,0,0,0,1,0,0,1
-67138CA0510207,Health Net,SmartCare HMO Platinum $0,0,0,0,0,3150,6300,30,0,0,0,1,0,0,1
-67138CA0600036,Health Net,WholeCare HMO Platinum $30,0,0,0,0,2500,5000,30,0,0,0,1,0,0,1
-67138CA0600043,Health Net,WholeCare HMO Platinum $0,0,0,0,0,3150,6300,30,0,0,0,1,0,0,1
-67138CA0600043-33,Health Net,WholeCare HMO Platinum $0 + Chiropractic,0,0,0,0,3150,6300,30,0,0,0,1,0,0,1
-67138CA0600044,Health Net,WholeCare HMO Platinum $0 + Infertility,0,1,0,0,3150,6300,30,0,0,0,1,0,0,1
-67138CA0600044-33,Health Net,WholeCare HMO Platinum $0 + Infertility + Chiropractic,0,1,0,0,3150,6300,30,0,0,0,1,0,0,1
-67138CA0240075-33,Health Net,Full Network HMO Platinum $20 + Chiropractic,0,0,0,0,2500,5000,20,0,0,0,1,0,0,1
-67138CA0240165,Health Net,Full Network HMO Platinum $20 + Infertility,0,1,0,0,2500,5000,20,0,0,0,1,0,0,1
-67138CA0240570-33,Health Net,Full Network HMO Platinum $0 + Chiropractic,0,0,0,0,3150,6300,30,0,0,0,1,0,0,1
-67138CA0240570,Health Net,Full Network HMO Platinum $0,0,0,0,0,3150,6300,30,0,0,0,1,0,0,1
-67138CA0240571-33,Health Net,Full Network HMO Platinum $0 + Infertility + Chiropractic,0,1,0,0,3150,6300,30,0,0,0,1,0,0,1
-67138CA0000020-77,CalChoice,Health Net SmartCare Platinum HMO I,0,0,0,0,3150,6300,0,0,0,0,1,0,0,1
-67138CA0000021-77,CalChoice,Health Net SmartCare Platinum HMO J,0,0,0,0,2500,5000,0,0,0,0,1,0,0,1
-67138CA0510172-33,Health Net,SmartCare HMO Platinum $30 + Infertility + Chiropractic,0,1,0,0,2500,5000,30,0,0,0,1,0,0,1
-67138CA0600025-33,Health Net,WholeCare HMO Platinum $20 + Chiropractic,0,0,0,0,2500,5000,20,0,0,0,1,0,0,1
-67138CA0600036-33,Health Net,WholeCare HMO Platinum $30 + Chiropractic,0,0,0,0,2500,5000,30,0,0,0,1,0,0,1
-67138CA0600037-33,Health Net,WholeCare HMO Platinum $30 + Infertility + Chiropractic,0,1,0,0,2500,5000,30,0,0,0,1,0,0,1
-67138CA0510123,Health Net,SmartCare HMO Platinum $20 + Infertility,0,1,0,0,2500,5000,20,0,0,0,1,0,0,1
-67138CA0510165,Health Net,SmartCare HMO Platinum $30,0,0,0,0,2500,5000,30,0,0,0,1,0,0,1
-67138CA0510165-33,Health Net,SmartCare HMO Platinum $30 + Chiropractic,0,0,0,0,2500,5000,30,0,0,0,1,0,0,1
-67138CA0600037,Health Net,WholeCare HMO Platinum $30 + Infertility,0,1,0,0,2500,5000,30,0,0,0,1,0,0,1
-67138CA0240165-33,Health Net,Full Network HMO Platinum $20 + Infertility + Chiropractic,0,1,0,0,2500,5000,20,0,0,0,1,0,0,1
-67138CA0240453,Health Net,Full Network HMO Platinum $30,0,0,0,0,2500,5000,30,0,0,0,1,0,0,1
-67138CA0240471-33,Health Net,Full Network HMO Platinum $30 + Infertility + Chiropractic,0,1,0,0,2500,5000,30,0,0,0,1,0,0,1
-67138CA0240571,Health Net,Full Network HMO Platinum $0 + Infertility,0,1,0,0,3150,6300,30,0,0,0,1,0,0,1
-67138CA0000013-77,CalChoice,Health Net WholeCare Platinum HMO F,0,0,0,0,3150,6300,0,0,0,0,1,0,0,1
-67138CA0240471,Health Net,Full Network HMO Platinum $30 + Infertility,0,1,0,0,2500,5000,30,0,0,0,1,0,0,1
-67138CA0000015-77,CalChoice,Health Net Full Platinum HMO H,0,0,0,0,3150,6300,0,0,0,0,1,0,0,1
-67138CA0510123-33,Health Net,SmartCare HMO Platinum $20 + Infertility + Chiropractic,0,1,0,0,2500,5000,20,0,0,0,1,0,0,1
-67138CA0240075,Health Net,Full Network HMO Platinum $20,0,0,0,0,2500,5000,20,0,0,0,1,0,0,1
-67138CA0000007-77,CalChoice,Health Net WholeCare Platinum HMO C,0,0,0,0,2500,5000,0,0,0,0,1,0,0,1
-67138CA0000011-77,CalChoice,Health Net Full Platinum HMO E,0,0,0,0,2500,5000,0,0,0,0,1,0,0,1
-27603CA1211136,Anthem,Anthem Platinum Priority Select HMO 0/25,0,0,0,0,2300,4600,0,0,0,0,1,0,0,1
-27603CA1210510,Anthem,Anthem Platinum HMO 0/25,0,0,0,0,2300,4600,0,0,0,0,1,0,0,1
-40025CA0000018-77,CalChoice,Cigna + Oscar Open Access Plus Platinum EPO F,0,0,0,0,4850,9700,10,0,0,0,1,0,1,0
-49116CA0000024-77,CalChoice,UnitedHealthcare Harmony Platinum HMO I,0,0,0,0,3000,6000,0,0,0,0,1,0,0,1
-49116CA0070718,UnitedHealthcare,SignatureValue HMO Platinum CWX3 /N93S,0,0,0,0,3000,6000,0,0,0,0,1,0,0,1
-49116CA0070711,UnitedHealthcare,SignatureValue Harmony HMO Platinum CWX2 /N93S,0,0,0,0,3000,6000,0,0,0,0,1,0,0,1
-49116CA0000004-77,CalChoice,UnitedHealthcare SignatureValue Platinum HMO E,0,0,0,0,3000,6000,0,0,0,0,1,0,0,1
-27603CA0000006-77,CalChoice,Anthem Select HMO Platinum HMO A,0,0,0,0,2500,5000,0,0,0,0,1,0,0,1
-40025CA0000009-77,CalChoice,Cigna + Oscar LocalPlus Platinum EPO C,0,0,0,0,4850,9700,10,0,0,0,1,0,1,0
-70285CA8171025,BlueShield of California,Silver Access+ HMO (R) 2750/70 OffEx INF,0,1,2750,5500,8750,17500,0,0,0,0,0,1,0,1
-70285CA8170092,BlueShield of California,Silver Trio HMO 2300/70 OffEx,0,0,2300,4600,8750,17500,0,0,0,0,0,1,0,1
-70285CA8170408,BlueShield of California,Silver Trio HMO 2300/70 OffEx INF,0,1,2300,4600,8750,17500,0,0,0,0,0,1,0,1
-70285CA8170374,BlueShield of California,Silver Access+ HMO (R) 2300/70 OffEx INF,0,1,2300,4600,8750,17500,0,0,0,0,0,1,0,1
-70285CA8170995,BlueShield of California,Silver Trio HMO 2750/70 OffEx,0,0,2750,5500,8750,17500,0,0,0,0,0,1,0,1
-70285CA8171059,BlueShield of California,Silver Trio HMO 2750/70 OffEx INF,0,1,2750,5500,8750,17500,0,0,0,0,0,1,0,1
-70285CA8170075,BlueShield of California,Silver Local Access+ HMO (R) 2300/70 OffEx,0,0,2300,4600,8750,17500,0,0,0,0,0,1,0,1
-70285CA8170058,BlueShield of California,Silver Access+ HMO (R) 2300/70 OffEx,0,0,2300,4600,8750,17500,0,0,0,0,0,1,0,1
-70285CA8170391,BlueShield of California,Silver Local Access+ HMO (R) 2300/70 OffEx INF,0,1,2300,4600,8750,17500,0,0,0,0,0,1,0,1
-70285CA8170961,BlueShield of California,Silver Access+ HMO (R) 2750/70 OffEx,0,0,2750,5500,8750,17500,0,0,0,0,0,1,0,1
-70285CA8170978,BlueShield of California,Silver Local Access+ HMO (R) 2750/70 OffEx,0,0,2750,5500,8750,17500,0,0,0,0,0,1,0,1
-70285CA8171042,BlueShield of California,Silver Local Access+ HMO (R) 2750/70 OffEx INF,0,1,2750,5500,8750,17500,0,0,0,0,0,1,0,1
-64210CA0630041,Sutter Health Plus,Gold MS83 HMO,0,0,250,500,7800,15600,0,0,0,1,0,0,0,1
-64210CA0640041,Sutter Health Plus,Gold MP83 Plus HMO,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-20523CA0032784,Aetna,CA Gold HMO AWH NoCA $35/55 250 wINF,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-64210CA0000006-77,CalChoice,Sutter Health Plus Gold HMO B,0,0,250,500,7800,15600,0,0,0,1,0,0,0,1
-20523CA0032775,Aetna,CA Gold HMO AWH NoCA $35/55 250 M,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-20523CA0031372,Aetna,CA Gold HMO AVN $35/55 250 M,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-20523CA0030427,Aetna,CA Gold HMO AVN $35/55 250 wINF,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-40513CA0410037,Kaiser Permanente,Platinum 90 HMO 0/10 + Child Dental Alt INF,0,1,0,0,3000,6000,0,0,0,0,1,0,0,1
-40513CA0400043,CoveredCA,Platinum 90 HMO 0/10 + Child Dental Alt,0,0,0,0,3000,6000,0,0,0,0,1,0,0,1
-40513CA0400044,CoveredCA,Platinum 90 HMO 0/10 + Child Dental Alt INF,0,1,0,0,3000,6000,0,0,0,0,1,0,0,1
-40513CA0410026,Kaiser Permanente,Platinum 90 HMO 0/10 + Child Dental Alt,0,0,0,0,3000,6000,0,0,0,0,1,0,0,1
-40513CA0000003-77,CalChoice,Kaiser Permanente Full Platinum HMO A,0,0,0,0,3000,6000,0,0,0,0,1,0,0,1
-40513CA0410052,Kaiser Permanente,Gold 80 HMO 0/30 + Child Dental Alt INF,0,1,0,0,7500,15000,0,0,0,1,0,0,0,1
-40513CA0400048,CoveredCA,Gold 80 HMO 0/30 + Child Dental Alt INF,0,1,0,0,7500,15000,0,0,0,1,0,0,0,1
-40513CA0410051,Kaiser Permanente,Gold 80 HMO 0/30 + Child Dental Alt,0,0,0,0,7500,15000,0,0,0,1,0,0,0,1
-40513CA0000010-77,CalChoice,Kaiser Permanente Full Gold HMO C,0,0,0,0,7500,15000,0,0,0,1,0,0,0,1
-40513CA0400047,CoveredCA,Gold 80 HMO 0/30 + Child Dental Alt,0,0,0,0,7500,15000,0,0,0,1,0,0,0,1
-40513CA0400049,CoveredCA,Gold 80 HMO 250/35 + Child Dental,0,0,250,500,7800,15600,0,0,0,1,0,0,0,1
-40513CA0410014,Kaiser Permanente,Gold 80 HMO 250/35 + Child Dental,0,0,250,500,7800,15600,0,0,0,1,0,0,0,1
-40513CA0410039,Kaiser Permanente,Gold 80 HMO 250/35 + Child Dental INF,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-40513CA0400050,CoveredCA,Gold 80 HMO 250/35 + Child Dental INF,0,1,250,500,7800,15600,0,0,0,1,0,0,0,1
-40513CA0000006-77,CalChoice,Kaiser Permanente Full Gold HMO B,0,0,250,500,7800,15600,0,0,0,1,0,0,0,1
-40513CA0410053,Kaiser Permanente,Gold 80 HMO 1000/40 + Child Dental Alt,0,0,1000,2000,7800,15600,0,0,0,1,0,0,0,1
-40513CA0400051,CoveredCA,Gold 80 HMO 1000/40 + Child Dental Alt,0,0,1000,2000,7800,15600,0,0,0,1,0,0,0,1
-40513CA0000012-77,CalChoice,Kaiser Permanente Full Gold HMO D,0,0,1000,2000,7800,15600,0,0,0,1,0,0,0,1
-40513CA0410054,Kaiser Permanente,Gold 80 HMO 1000/40 + Child Dental Alt INF,0,1,1000,2000,7800,15600,0,0,0,1,0,0,0,1
-40513CA0400052,CoveredCA,Gold 80 HMO 1000/40 + Child Dental Alt INF,0,1,1000,2000,7800,15600,0,0,0,1,0,0,0,1
-67138CA0600026,Health Net,WholeCare HMO Gold $30,0,0,0,0,7000,14000,30,0,0,1,0,0,0,1
-67138CA0240183,Health Net,Full Network HMO Gold $30 + Infertility,0,1,0,0,7000,14000,30,0,0,1,0,0,0,1
-67138CA0000003-77,CalChoice,Health Net WholeCare Gold HMO A,0,0,0,0,7000,14000,40,0,0,1,0,0,0,1
-67138CA0600026-33,Health Net,WholeCare HMO Gold $30 + Chiropractic,0,0,0,0,7000,14000,30,0,0,1,0,0,0,1
-67138CA0600031-33,Health Net,WholeCare HMO Gold $30 + Infertility + Chiropractic,0,1,0,0,7000,14000,30,0,0,1,0,0,0,1
-67138CA0510095,Health Net,SmartCare HMO Gold $30,0,0,0,0,7000,14000,30,0,0,1,0,0,0,1
-67138CA0510095-33,Health Net,SmartCare HMO Gold $30 + Chiropractic,0,0,0,0,7000,14000,30,0,0,1,0,0,0,1
-67138CA0510130-33,Health Net,SmartCare HMO Gold $30 + Infertility + Chiropractic,0,1,0,0,7000,14000,30,0,0,1,0,0,0,1
-67138CA0510130,Health Net,SmartCare HMO Gold $30 + Infertility,0,1,0,0,7000,14000,30,0,0,1,0,0,0,1
-67138CA0600031,Health Net,WholeCare HMO Gold $30 + Infertility,0,1,0,0,7000,14000,30,0,0,1,0,0,0,1
-67138CA0240093,Health Net,Full Network HMO Gold $30,0,0,0,0,7000,14000,30,0,0,1,0,0,0,1
-67138CA0240093-33,Health Net,Full Network HMO Gold $30 + Chiropractic,0,0,0,0,7000,14000,30,0,0,1,0,0,0,1
-67138CA0240183-33,Health Net,Full Network HMO Gold $30 + Infertility + Chiropractic,0,1,0,0,7000,14000,30,0,0,1,0,0,0,1
-67138CA0000016-77,CalChoice,Health Net Full Gold HMO G,0,0,0,0,7000,14000,0,0,0,1,0,0,0,1
-49116CA0000027-77,CalChoice,UnitedHealthcare Harmony Gold HMO P,0,0,0,0,7000,14000,40,0,0,1,0,0,0,1
-49116CA0000028-77,CalChoice,UnitedHealthcare SignatureValue Gold HMO Q,0,0,0,0,7000,14000,40,0,0,1,0,0,0,1
-49116CA0070737,UnitedHealthcare,SignatureValue Harmony HMO Gold CWX8 /N94S,0,0,0,0,7000,14000,0,0,0,1,0,0,0,1
-49116CA0070738,UnitedHealthcare,SignatureValue HMO Gold CWX9 /N94S,0,0,0,0,7000,14000,0,0,0,1,0,0,0,1
-67138CA0600027-33,Health Net,WholeCare HMO Gold $40 + Chiropractic,0,0,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0240489-33,Health Net,Full Network HMO Gold $35 + Chiropractic,0,0,0,0,7250,14500,30,0,0,1,0,0,0,1
-67138CA0600032,Health Net,WholeCare HMO Gold $40 + Infertility,0,1,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0240201-33,Health Net,Full Network HMO Gold $40 + Infertility + Chiropractic,0,1,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0000006-77,CalChoice,Health Net WholeCare Gold HMO C,0,0,0,0,7250,14500,0,0,0,1,0,0,0,1
-67138CA0000010-77,CalChoice,Health Net Full Gold HMO E,0,0,0,0,7250,14500,0,0,0,1,0,0,0,1
-67138CA0000019-77,CalChoice,Health Net SmartCare Gold HMO I,0,0,0,0,7500,15000,0,0,0,1,0,0,0,1
-67138CA0510137,Health Net,SmartCare HMO Gold $40 + Infertility,0,1,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0510179-33,Health Net,SmartCare HMO Gold $35 + Chiropractic,0,0,0,0,7250,14500,30,0,0,1,0,0,0,1
-67138CA0510186-33,Health Net,SmartCare HMO Gold $35 + Infertility + Chiropractic,0,1,0,0,7250,14500,30,0,0,1,0,0,0,1
-67138CA0510186,Health Net,SmartCare HMO Gold $35 + Infertility,0,1,0,0,7250,14500,30,0,0,1,0,0,0,1
-67138CA0600032-33,Health Net,WholeCare HMO Gold $40 + Infertility + Chiropractic,0,1,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0600039,Health Net,WholeCare HMO Gold $35 + Infertility,0,1,0,0,7250,14500,30,0,0,1,0,0,0,1
-67138CA0000018-77,CalChoice,Health Net SmartCare Gold HMO H,0,0,0,0,7250,14500,0,0,0,1,0,0,0,1
-67138CA0600039-33,Health Net,WholeCare HMO Gold $35 + Infertility + Chiropractic,0,1,0,0,7250,14500,30,0,0,1,0,0,0,1
-67138CA0510102-33,Health Net,SmartCare HMO Gold $40 + Chiropractic,0,0,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0510137-33,Health Net,SmartCare HMO Gold $40 + Infertility + Chiropractic,0,1,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0510179,Health Net,SmartCare HMO Gold $35,0,0,0,0,7250,14500,30,0,0,1,0,0,0,1
-67138CA0600027,Health Net,WholeCare HMO Gold $40,0,0,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0600038-33,Health Net,WholeCare HMO Gold $35 + Chiropractic,0,0,0,0,7250,14500,30,0,0,1,0,0,0,1
-67138CA0240111-33,Health Net,Full Network HMO Gold $40 + Chiropractic,0,0,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0240201,Health Net,Full Network HMO Gold $40 + Infertility,0,1,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0240489,Health Net,Full Network HMO Gold $35,0,0,0,0,7250,14500,30,0,0,1,0,0,0,1
-67138CA0240507-33,Health Net,Full Network HMO Gold $35 + Infertility + Chiropractic,0,1,0,0,7250,14500,30,0,0,1,0,0,0,1
-67138CA0240507,Health Net,Full Network HMO Gold $35 + Infertility,0,1,0,0,7250,14500,30,0,0,1,0,0,0,1
-67138CA0510102,Health Net,SmartCare HMO Gold $40,0,0,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0600038,Health Net,WholeCare HMO Gold $35,0,0,0,0,7250,14500,30,0,0,1,0,0,0,1
-67138CA0240111,Health Net,Full Network HMO Gold $40,0,0,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0000004-77,CalChoice,Health Net WholeCare Gold HMO B,0,0,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0000012-77,CalChoice,Health Net Full Gold HMO F,0,0,0,0,7500,15000,40,0,0,1,0,0,0,1
-49116CA0070747,UnitedHealthcare,SignatureValue HMO Gold CWYC /N95S,0,0,0,0,7500,15000,0,0,0,1,0,0,0,1
-49116CA0000021-77,CalChoice,UnitedHealthcare Harmony Gold HMO M,0,0,0,0,7500,15000,0,0,0,1,0,0,0,1
-49116CA0000005-77,CalChoice,UnitedHealthcare SignatureValue Gold HMO F,0,0,0,0,7500,15000,0,0,0,1,0,0,0,1
-49116CA0070740,UnitedHealthcare,SignatureValue Harmony HMO Gold CWYB /N95S,0,0,0,0,7500,15000,0,0,0,1,0,0,0,1
-27603CA1211340,Anthem,Anthem Link Platinum Vivity HMO 15,0,0,0,0,2500,5000,0,0,0,0,1,0,0,1
-27603CA0000005-77,CalChoice,Anthem Select HMO Gold HMO A,0,0,0,0,6500,13000,0,0,0,1,0,0,0,1
-27603CA0000008-77,CalChoice,Anthem CaliforniaCare HMO Gold HMO B,0,0,0,0,6500,13000,0,0,0,1,0,0,0,1
-27603CA1211473,Anthem,Anthem Link Gold Vivity HMO 25,0,0,0,0,6150,12300,0,0,0,1,0,0,0,1
-27603CA1211397,Anthem,Anthem Link Gold Vivity HMO 35/1000 WH,0,0,1000,2000,6750,13500,0,0,0,1,0,0,0,1
-64210CA0630065,Sutter Health Plus,Gold MS62 HMO,0,0,500,1000,7500,15000,0,0,0,1,0,0,0,1
-64210CA0640065,Sutter Health Plus,Gold MP62 Plus HMO,0,1,500,1000,7500,15000,0,0,0,1,0,0,0,1
-27603CA1211454,Anthem,Anthem Link Gold Vivity HMO 25 WH,0,0,0,0,6150,12300,0,0,0,1,0,0,0,1
-27603CA1211530,Anthem,Anthem Link Gold Vivity HMO 25/500,0,0,500,1500,6500,13000,0,0,0,1,0,0,0,1
-27603CA1211378,Anthem,Anthem Link Gold Vivity HMO 35/1000,0,0,1000,2000,6750,13500,0,0,0,1,0,0,0,1
-27603CA1211435,Anthem,Anthem Link Gold Vivity HMO 35/1850 WH,0,0,1850,3700,7750,15500,0,0,0,1,0,0,0,1
-27603CA1211416,Anthem,Anthem Link Gold Vivity HMO 35/1850,0,0,1850,3700,7750,15500,0,0,0,1,0,0,0,1
-27603CA1211549,Anthem,Anthem Link Gold Vivity HMO 25/500 WH,0,0,500,1500,6500,13000,0,0,0,1,0,0,0,1
-27603CA1211359,Anthem,Anthem Link Platinum Vivity HMO 15 WH,0,0,0,0,2500,5000,0,0,0,0,1,0,0,1
-67138CA0240546-33,Health Net,Full Network HMO Gold $50 + Infertility + Chiropractic,0,1,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0510193,Health Net,SmartCare HMO Gold $50,0,0,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0510200-33,Health Net,SmartCare HMO Gold $50 + Infertility + Chiropractic,0,1,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0600041,Health Net,WholeCare HMO Gold $50,0,0,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0600041-33,Health Net,WholeCare HMO Gold $50 + Chiropractic,0,0,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0600042-33,Health Net,WholeCare HMO Gold $50 + Infertility + Chiropractic,0,1,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0510200,Health Net,SmartCare HMO Gold $50 + Infertility,0,1,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0510193-33,Health Net,SmartCare HMO Gold $50 + Chiropractic,0,0,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0600042,Health Net,WholeCare HMO Gold $50 + Infertility,0,1,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0240528-33,Health Net,Full Network HMO Gold $50 + Chiropractic,0,0,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0240528,Health Net,Full Network HMO Gold $50,0,0,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0240546,Health Net,Full Network HMO Gold $50 + Infertility,0,1,0,0,7500,15000,40,0,0,1,0,0,0,1
-67138CA0600029-33,Health Net,WholeCare HMO Platinum $10 + Infertility + Chiropractic,0,1,0,0,1900,3800,10,0,0,0,1,0,0,1
-67138CA0240147-33,Health Net,Full Network HMO Platinum $10 + Infertility + Chiropractic,0,1,0,0,1900,3800,10,0,0,0,1,0,0,1
-67138CA0600024,Health Net,WholeCare HMO Platinum $10,0,0,0,0,1900,3800,10,0,0,0,1,0,0,1
-67138CA0510081,Health Net,SmartCare HMO Platinum $10,0,0,0,0,1900,3800,10,0,0,0,1,0,0,1
-67138CA0600029,Health Net,WholeCare HMO Platinum $10 + Infertility,0,1,0,0,1900,3800,10,0,0,0,1,0,0,1
-67138CA0600024-33,Health Net,WholeCare HMO Platinum $10 + Chiropractic,0,0,0,0,1900,3800,10,0,0,0,1,0,0,1
-67138CA0240057-33,Health Net,Full Network HMO Platinum $10 + Chiropractic,0,0,0,0,1900,3800,10,0,0,0,1,0,0,1
-67138CA0510081-33,Health Net,SmartCare HMO Platinum $10 + Chiropractic,0,0,0,0,1900,3800,10,0,0,0,1,0,0,1
-67138CA0510116-33,Health Net,SmartCare HMO Platinum $10 + Infertility + Chiropractic,0,1,0,0,1900,3800,10,0,0,0,1,0,0,1
-67138CA0240057,Health Net,Full Network HMO Platinum $10,0,0,0,0,1900,3800,10,0,0,0,1,0,0,1
-67138CA0240147,Health Net,Full Network HMO Platinum $10 + Infertility,0,1,0,0,1900,3800,10,0,0,0,1,0,0,1
-67138CA0510116,Health Net,SmartCare HMO Platinum $10 + Infertility,0,1,0,0,1900,3800,10,0,0,0,1,0,0,1
-49116CA0000030-77,CalChoice,UnitedHealthcare Harmony Platinum HMO K,0,0,0,0,3500,7000,20,0,0,0,1,0,0,1
-49116CA0000031-77,CalChoice,UnitedHealthcare SignatureValue Platinum HMO L,0,0,0,0,3500,7000,20,0,0,0,1,0,0,1
-49116CA0070731,UnitedHealthcare,SignatureValue HMO Platinum 25-50/10%,0,0,0,0,3500,7000,10,0,0,0,1,0,0,1
-49116CA0070724,UnitedHealthcare,SignatureValue Harmony HMO Platinum 25-50/10%,0,0,0,0,3500,7000,10,0,0,0,1,0,0,1
-49116CA0100039-13,UnitedHealthcare,Doctors Plan EPO Platinum CVPZ /L44S,0,0,0,0,3600,7200,10,0,0,0,1,0,1,0
-95677CA0100002-13,UnitedHealthcare,Navigate EPO Platinum CDFB /K89L,0,1,0,0,4500,9000,10,0,0,0,1,0,1,0
-40513CA0410060,Kaiser Permanente,Gold 80 HDHP HMO 1600/15% + Child Dental Alt INF,1,1,1600,3200,3550,7100,15,0,0,1,0,0,0,1
-40513CA0400041,CoveredCA,Gold 80 HDHP HMO 1600/15% + Child Dental Alt,1,0,1600,3200,3550,7100,15,0,0,1,0,0,0,1
-40513CA0400042,CoveredCA,Gold 80 HDHP HMO 1600/15% + Child Dental Alt INF,1,1,1600,3200,3550,7100,15,0,0,1,0,0,0,1
-40025CA0000019-77,CalChoice,Cigna + Oscar Open Access Plus Platinum EPO G,0,0,500,1000,3750,7500,15,0,0,0,1,0,1,0
-40513CA0000014-77,CalChoice,Kaiser Permanente Full Gold HMO E,1,0,1600,3200,3550,7100,15,0,0,1,0,0,0,1
-40025CA0000011-77,CalChoice,Cigna + Oscar LocalPlus Platinum EPO E,0,0,500,1000,3750,7500,15,0,0,0,1,0,1,0
-40513CA0410059,Kaiser Permanente,Gold 80 HDHP HMO 1600/15% + Child Dental Alt,1,0,1600,3200,3550,7100,15,0,0,1,0,0,0,1
-49116CA0000003-77,CalChoice,UnitedHealthcare SignatureValue Platinum HMO A,0,0,0,0,3500,7000,20,0,0,0,1,0,0,1
-49116CA0070481,UnitedHealthcare,SignatureValue Harmony HMO Platinum 25-50/20%,0,0,0,0,3500,7000,20,0,0,0,1,0,0,1
-49116CA0070431,UnitedHealthcare,SignatureValue HMO Platinum 25-50/20%,0,0,0,0,3500,7000,20,0,0,0,1,0,0,1
-49116CA0000023-77,CalChoice,UnitedHealthcare Harmony Platinum HMO H,0,0,0,0,3500,7000,20,0,0,0,1,0,0,1
-95677CA0100003-13,UnitedHealthcare,Navigate EPO Gold CDFC /K90L,0,1,350,700,7800,15600,20,0,0,1,0,0,1,0
-64210CA0640059,Sutter Health Plus,Gold MP77 Plus HMO,0,1,1500,3000,5000,10000,20,0,0,1,0,0,0,1
-20523CA0031164,Aetna,CA Gold HMO Basic $25/50 500,0,1,500,1000,7800,15600,20,0,0,1,0,0,0,1
-20523CA0031138,Aetna,CA Gold HMO AVN $25/50 500,0,1,500,1000,7800,15600,20,0,0,1,0,0,0,1
-20523CA0031749,Aetna,CA Gold HMO AVN $25/50 500 wINF,0,1,500,1000,7800,15600,20,0,0,1,0,0,0,1
-20523CA0031254,Aetna,CA Gold HMO $25/50 500,0,1,500,1000,7800,15600,20,0,0,1,0,0,0,1
-64210CA0000002-77,CalChoice,Sutter Health Plus Gold HMO A,0,0,1500,3000,5000,10000,20,0,0,1,0,0,0,1
-49116CA0000022-77,CalChoice,UnitedHealthcare Harmony Gold HMO N,0,0,500,1000,8000,16000,20,0,0,1,0,0,0,1
-49116CA0100033-13,UnitedHealthcare,Doctors Plan EPO Gold CVP4 /N55S,0,0,1000,2000,8500,17000,20,0,0,1,0,0,1,0
-49116CA0100034-13,UnitedHealthcare,Doctors Plan EPO Gold CVP3 /N55S,0,0,500,1000,8500,17000,20,0,0,1,0,0,1,0
-49116CA0100036-13,UnitedHealthcare,Doctors Plan EPO Platinum CVPX /L44S,0,0,250,500,3600,7200,20,0,0,0,1,0,1,0
-49116CA0100037-13,UnitedHealthcare,Doctors Plan EPO Platinum CVPY /L47S,0,0,250,500,3500,7000,20,0,0,0,1,0,1,0
-20523CA0031616,Aetna,CA Gold HMO $25/50 500 wINF,0,1,500,1000,7800,15600,20,0,0,1,0,0,0,1
-64210CA0630059,Sutter Health Plus,Gold MS77 HMO,0,0,1500,3000,5000,10000,20,0,0,1,0,0,0,1
-64210CA0690001,Sutter Health Plus,Gold SD02 HDHP HMO,1,0,1500,3000,6000,12000,20,0,0,1,0,0,0,1
-40025CA0000007-77,CalChoice,Cigna + Oscar LocalPlus Gold EPO D,0,0,1350,2700,8550,17100,20,0,0,1,0,0,1,0
-20523CA0032721,Aetna,CA Gold HMO AWH NoCA $25/50 500,0,1,500,1000,7800,15600,20,0,0,1,0,0,0,1
-20523CA0032730,Aetna,CA Gold HMO AWH NoCA $25/50 500 wINF,0,1,500,1000,7800,15600,20,0,0,1,0,0,0,1
-20523CA0031910,Aetna,CA Gold HMO Basic $25/50 500 wINF,0,1,500,1000,7800,15600,20,0,0,1,0,0,0,1
-27603CA1211245,Anthem,Anthem Gold Priority Select HMO 35/500/20%,0,0,500,1500,8450,16900,20,0,0,1,0,0,0,1
-27603CA1211226,Anthem,Anthem Gold Priority Select HMO 35/1250/20%,0,0,1250,2500,8600,17200,20,0,0,1,0,0,0,1
-27603CA1211150,Anthem,Anthem Gold HMO 35/500/20%,0,0,500,1500,8450,16900,20,0,0,1,0,0,0,1
-27603CA1211207,Anthem,Anthem Gold Select HMO 35/500/20%,0,0,500,1500,8450,16900,20,0,0,1,0,0,0,1
-27603CA1211169,Anthem,Anthem Gold HMO 35/1250/20%,0,0,1250,2500,8600,17200,20,0,0,1,0,0,0,1
-27603CA1211188,Anthem,Anthem Gold Select HMO 35/1250/20%,0,0,1250,2500,8600,17200,20,0,0,1,0,0,0,1
-49116CA0070760,UnitedHealthcare,SignatureValue HMO Gold 35-70/20%/500ded,0,0,500,1000,8000,16000,20,0,0,1,0,0,0,1
-49116CA0070753,UnitedHealthcare,SignatureValue Harmony HMO Gold 35-70/20%/500ded,0,0,500,1000,8000,16000,20,0,0,1,0,0,0,1
-49116CA0000006-77,CalChoice,UnitedHealthcare SignatureValue Gold HMO H,0,0,500,1000,8000,16000,20,0,0,1,0,0,0,1
-40513CA0410022,Kaiser Permanente,Gold 80 HRA HMO 2250/35 + Child Dental,0,0,2250,4500,8500,17000,25,0,0,1,0,0,0,1
-40513CA0410041,Kaiser Permanente,Gold 80 HRA HMO 2250/35 + Child Dental INF,0,1,2250,4500,8500,17000,25,0,0,1,0,0,0,1
-40513CA0410046,Kaiser Permanente,Silver 70 HDHP HMO 2700/25% + Child Dental,1,0,2700,5400,7200,14400,25,0,0,0,0,1,0,1
-40513CA0410048,Kaiser Permanente,Silver 70 HDHP HMO 2700/25% + Child Dental INF,1,1,2700,5400,7200,14400,25,0,0,0,0,1,0,1
-40513CA0400061,CoveredCA,Silver 70 HDHP HMO 2700/25% + Child Dental,1,0,2700,5400,7200,14400,25,0,0,0,0,1,0,1
-40513CA0400062,CoveredCA,Silver 70 HDHP HMO 2700/25% + Child Dental INF,1,1,2700,5400,7200,14400,25,0,0,0,0,1,0,1
-64210CA0000008-77,CalChoice,Sutter Health Plus Silver HMO C,1,0,2500,5000,7050,14100,20,0,0,0,0,1,0,1
-64210CA0630063,Sutter Health Plus,Silver SD01 HDHP HMO,1,0,2500,5000,7050,14100,25,0,0,0,0,1,0,1
-64210CA0640063,Sutter Health Plus,Silver SP01 Plus HDHP HMO,1,1,2500,5000,7050,14100,25,0,0,0,0,1,0,1
-40513CA0000011-77,CalChoice,Kaiser Permanente Full Silver HMO D,1,0,2700,5400,7200,14400,25,0,0,0,0,1,0,1
-40025CA0000015-77,CalChoice,Cigna + Oscar Open Access Plus Silver EPO G,1,0,3000,6000,7250,14500,30,0,0,0,0,1,1,0
-49116CA0000020-77,CalChoice,UnitedHealthcare Harmony Gold HMO L,0,0,1500,3000,8500,17000,30,0,0,1,0,0,0,1
-49116CA0000002-77,CalChoice,UnitedHealthcare SignatureValue Gold HMO A,0,0,1500,3000,8500,17000,30,0,0,1,0,0,0,1
-49116CA0070766,UnitedHealthcare,SignatureValue Harmony HMO Gold CWYH /N96S,0,0,1500,3000,8500,17000,30,0,0,1,0,0,0,1
-49116CA0100032-13,UnitedHealthcare,Doctors Plan EPO Gold CVP5 /L40S,0,0,1500,3000,8800,17600,30,0,0,1,0,0,1,0
-20523CA0031672,Aetna,CA Gold HMO $30/70 1250,0,1,1250,2500,7800,15600,30,0,0,1,0,0,0,1
-20523CA0031691,Aetna,CA Gold HMO $30/70 1250 wINF,0,1,1250,2500,7800,15600,30,0,0,1,0,0,0,1
-20523CA0032757,Aetna,CA Gold HMO AWH NoCA $30/70 1250,0,1,1250,2500,7800,15600,30,0,0,1,0,0,0,1
-20523CA0032766,Aetna,CA Gold HMO AWH NoCA $30/70 1250 wINF,0,1,1250,2500,7800,15600,30,0,0,1,0,0,0,1
-20523CA0031928,Aetna,CA Gold HMO Basic $30/70 1250,0,1,1250,2500,7800,15600,30,0,0,1,0,0,0,1
-20523CA0031937,Aetna,CA Gold HMO Basic $30/70 1250 wINF,0,1,1250,2500,7800,15600,30,0,0,1,0,0,0,1
-20523CA0031784,Aetna,CA Gold HMO AVN $30/70 1250,0,1,1250,2500,7800,15600,30,0,0,1,0,0,0,1
-20523CA0031801,Aetna,CA Gold HMO AVN $30/70 1250 wINF,0,1,1250,2500,7800,15600,30,0,0,1,0,0,0,1
-49116CA0070773,UnitedHealthcare,SignatureValue HMO Gold 35-70/30%/1500ded,0,0,1500,3000,8500,17000,30,0,0,1,0,0,0,1
-40025CA0000005-77,CalChoice,Cigna + Oscar LocalPlus Silver EPO E,0,0,3000,6000,7250,14500,30,0,0,0,0,1,1,0
-40513CA0410043,Kaiser Permanente,Silver 70 HMO 2500/55 + Child Dental INF,0,1,2500,5000,8750,17500,35,0,0,0,0,1,0,1
-40513CA0400060,CoveredCA,Silver 70 HMO 2500/55 + Child Dental INF,0,1,2500,5000,8750,17500,35,0,0,0,0,1,0,1
-20523CA0032865,Aetna,CA Silver HMO AWH NoCA $55/90 2500 M,0,1,2500,5000,8750,17500,35,0,0,0,0,1,0,1
-20523CA0032883,Aetna,CA Silver HMO AWH NoCA $60/100 2500,0,1,2500,5000,9100,18200,35,0,0,0,0,1,0,1
-70285CA8230092,CoveredCA,Trio Silver 70 HMO 2500/55 + Child Dental,0,0,2500,5000,8750,17500,40,0,0,0,0,1,0,1
-40513CA0400059,CoveredCA,Silver 70 HMO 2500/55 + Child Dental,0,0,2500,5000,8750,17500,35,0,0,0,0,1,0,1
-20523CA0032253,Aetna,CA Silver HMO Basic $60/100 2500 wINF,0,1,2500,5000,9100,18200,35,0,0,0,0,1,0,1
-20523CA0031474,Aetna,CA Silver HMO AVN $55/90 2500 M,0,1,2500,5000,8750,17500,35,0,0,0,0,1,0,1
-40025CA0000013-77,CalChoice,Cigna + Oscar LocalPlus Bronze EPO F,0,0,7250,14500,9100,18200,35,0,1,0,0,0,1,0
-20523CA0031199,Aetna,CA Silver HMO AVN $60/100 2500,0,1,2500,5000,9100,18200,35,0,0,0,0,1,0,1
-64210CA0000005-77,CalChoice,Sutter Health Plus Silver HMO B,0,0,2500,5000,8750,17500,30,0,0,0,0,1,0,1
-40025CA0000012-77,CalChoice,Cigna + Oscar Open Access Plus Bronze EPO E,0,0,7250,14500,9100,18200,35,0,1,0,0,0,1,0
-70285CA8230041,CoveredCA,Trio Silver 70 HMO 2500/55 + Child Dental INF,0,1,2500,5000,8750,17500,40,0,0,0,0,1,0,1
-40513CA0000009-77,CalChoice,Kaiser Permanente Full Silver HMO C,0,0,2500,5000,8750,17500,30,0,0,0,0,1,0,1
-20523CA0031260,Aetna,CA Silver HMO $60/100 2500,0,1,2500,5000,9100,18200,35,0,0,0,0,1,0,1
-20523CA0032132,Aetna,CA Silver HMO $60/100 2500 wINF,0,1,2500,5000,9100,18200,35,0,0,0,0,1,0,1
-64210CA0630061,Sutter Health Plus,Silver MS84 HMO,0,0,2500,5000,8750,17500,40,0,0,0,0,1,0,1
-64210CA0640061,Sutter Health Plus,Silver MP84 Plus HMO,0,1,2500,5000,8750,17500,35,0,0,0,0,1,0,1
-20523CA0032874,Aetna,CA Silver HMO AWH NoCA $55/90 2500 wINF,0,1,2500,5000,8750,17500,35,0,0,0,0,1,0,1
-20523CA0032892,Aetna,CA Silver HMO AWH NoCA $60/100 2500 wINF,0,1,2500,5000,9100,18200,35,0,0,0,0,1,0,1
-20523CA0031225,Aetna,CA Silver HMO Basic $60/100 2500,0,1,2500,5000,9100,18200,35,0,0,0,0,1,0,1
-20523CA0032188,Aetna,CA Silver HMO AVN $60/100 2500 wINF,0,1,2500,5000,9100,18200,35,0,0,0,0,1,0,1
-95677CA0100004-13,UnitedHealthcare,Navigate EPO Silver CUVI /N53L,0,1,2500,5000,8600,17200,35,0,0,0,0,1,1,0
-40513CA0410016,Kaiser Permanente,Silver 70 HMO 2500/55 + Child Dental,0,0,2500,5000,8750,17500,35,0,0,0,0,1,0,1
-20523CA0031072,Aetna,CA Silver HMO AVN $55/90 2500 wINF,0,1,2500,5000,8750,17500,35,0,0,0,0,1,0,1
-67138CA0510158,Health Net,SmartCare HMO Silver $55 + Infertility,0,1,0,0,9100,18200,50,0,0,0,0,1,0,1
-67138CA0600035,Health Net,WholeCare HMO Silver $55 + Infertility,0,1,0,0,9100,18200,50,0,0,0,0,1,0,1
-67138CA0600034,Health Net,WholeCare HMO Silver $55,0,0,0,0,9100,18200,50,0,0,0,0,1,0,1
-67138CA0240237,Health Net,Full Network HMO Silver $55,0,0,0,0,9100,18200,50,0,0,0,0,1,0,1
-67138CA0000017-77,CalChoice,Health Net Full Silver HMO D,0,0,0,0,9100,18200,50,0,0,0,0,1,0,1
-67138CA0510151,Health Net,SmartCare HMO Silver $55,0,0,0,0,9100,18200,50,0,0,0,0,1,0,1
-67138CA0510158-33,Health Net,SmartCare HMO Silver $55 + Infertility + Chiropractic,0,1,0,0,9100,18200,50,0,0,0,0,1,0,1
-67138CA0600034-33,Health Net,WholeCare HMO Silver $55 + Chiropractic,0,0,0,0,9100,18200,50,0,0,0,0,1,0,1
-67138CA0600035-33,Health Net,WholeCare HMO Silver $55 + Infertility + Chiropractic,0,1,0,0,9100,18200,50,0,0,0,0,1,0,1
-67138CA0240255-33,Health Net,Full Network HMO Silver $55 + Infertility + Chiropractic,0,1,0,0,9100,18200,50,0,0,0,0,1,0,1
-67138CA0000002-77,CalChoice,Health Net WholeCare Silver HMO A,0,0,0,0,9100,18200,50,0,0,0,0,1,0,1
-67138CA0240237-33,Health Net,Full Network HMO Silver $55 + Chiropractic,0,0,0,0,9100,18200,50,0,0,0,0,1,0,1
-67138CA0240255,Health Net,Full Network HMO Silver $55 + Infertility,0,1,0,0,9100,18200,50,0,0,0,0,1,0,1
-67138CA0510151-33,Health Net,SmartCare HMO Silver $55 + Chiropractic,0,0,0,0,9100,18200,50,0,0,0,0,1,0,1
-40025CA0000001-77,CalChoice,Cigna + Oscar LocalPlus Bronze EPO C,1,0,5750,11500,7450,14900,40,0,1,0,0,0,1,0
-40513CA0400063,CoveredCA,Bronze 60 HMO 6300/65 + Child Dental,0,0,6300,12600,8600,17200,40,0,1,0,0,0,0,1
-40513CA0400064,CoveredCA,Bronze 60 HMO 6300/65 + Child Dental INF,0,1,6300,12600,8600,17200,40,0,1,0,0,0,0,1
-20523CA0031362,Aetna,CA Bronze HMO Basic $65/95 6300 M,0,1,6300,12600,8200,16400,40,0,1,0,0,0,0,1
-40513CA0410019,Kaiser Permanente,Bronze 60 HMO 6300/65 + Child Dental ,0,0,6300,12600,8600,17200,40,0,1,0,0,0,0,1
-40513CA0410044,Kaiser Permanente,Bronze 60 HMO 6300/65 + Child Dental INF,0,1,6300,12600,8600,17200,40,0,1,0,0,0,0,1
-49116CA0070497,UnitedHealthcare,SignatureValue Harmony HMO Silver CWYL /L61S,0,0,2400,4800,9100,18200,40,0,0,0,0,1,0,1
-40025CA0000004-77,CalChoice,Cigna + Oscar LocalPlus Silver EPO D,0,0,2600,5200,8950,17900,40,0,0,0,0,1,1,0
-64210CA0630043,Sutter Health Plus,Bronze MS86 HMO,0,0,6300,12600,8200,16400,40,0,1,0,0,0,0,1
-40025CA0000017-77,CalChoice,Cigna + Oscar Open Access Plus Gold EPO G,0,0,750,1500,8550,17100,0,0,0,1,0,0,1,0
-49116CA0000025-77,CalChoice,UnitedHealthcare Harmony Silver HMO F,0,0,2400,4800,9100,18200,40,0,0,0,0,1,0,1
-49116CA0000019-77,CalChoice,UnitedHealthcare Harmony Silver HMO G,0,0,2400,4800,9100,18200,30,0,0,0,0,1,0,1
-49116CA0070436,UnitedHealthcare,SignatureValue HMO Silver 60-95/40%/2400ded,0,0,2400,4800,9100,18200,40,0,0,0,0,1,0,1
-49116CA0070779,UnitedHealthcare,SignatureValue Harmony HMO Silver CWYN /L61S,0,0,2400,4800,9100,18200,40,0,0,0,0,1,0,1
-40513CA0000001-77,CalChoice,Kaiser Permanente Full Bronze HMO A,0,0,6300,12600,8600,17200,40,0,1,0,0,0,0,1
-49116CA0100030-13,UnitedHealthcare,Doctors Plan EPO Silver CVP7 /L41S,0,0,2450,4900,9100,18200,40,0,0,0,0,1,1,0
-49116CA0100031-13,UnitedHealthcare,Doctors Plan EPO Silver CVP6 /L41S,0,0,1950,3900,9100,18200,40,0,0,0,0,1,1,0
-64210CA0000001-77,CalChoice,Sutter Health Plus Bronze HMO A,0,0,6300,12600,8200,16400,40,0,1,0,0,0,0,1
-49116CA0000001-77,CalChoice,UnitedHealthcare SignatureValue Silver HMO A,0,0,2400,4800,9100,18200,40,0,0,0,0,1,0,1
-40025CA0000002-77,CalChoice,Cigna + Oscar LocalPlus Bronze EPO D,0,0,6000,12000,8700,17400,40,0,1,0,0,0,1,0
-40025CA0000008-77,CalChoice,Cigna + Oscar LocalPlus Gold EPO E,0,0,750,1500,8550,17100,0,0,0,1,0,0,1,0
-64210CA0640043,Sutter Health Plus,Bronze MP86 Plus HMO,0,1,6300,12600,8200,16400,40,0,1,0,0,0,0,1
-95677CA0100001-13,UnitedHealthcare,Navigate EPO Bronze CDFE /K92L,0,1,6300,12600,8200,16400,40,1,0,0,0,0,1,0
-37873CA0030037,UnitedHealthcare,Doctors Plan EPO HDHP Bronze CVP2 /L45Y,1,0,6000,12000,7500,15000,40,0,1,0,0,0,1,0
-37873CA0090003-13,UnitedHealthcare,Doctors Plan EPO HDHP Silver CVPW /L46S,1,0,2800,3000,7500,15000,40,0,0,0,0,1,1,0
-37873CA0090004-13,UnitedHealthcare,Doctors Plan EPO Bronze CVP8 /L42Y,0,0,5500,11000,9100,18200,40,1,0,0,0,0,1,0
-20523CA0030698,Aetna,CA Bronze HMO Basic $65/95 6300 wINF,0,1,6300,12600,8200,16400,40,0,1,0,0,0,0,1
-40513CA0410050,Kaiser Permanente,Silver 70 HMO 2300/65 + Child Dental Alt INF,0,1,2300,4600,8750,17500,45,0,0,0,0,1,0,1
-40513CA0410058,Kaiser Permanente,Silver 70 HMO 2800/65 + Child Dental Alt INF,0,1,2800,5600,8750,17500,45,0,0,0,0,1,0,1
-40513CA0400058,CoveredCA,Silver 70 HMO 2800/65 + Child Dental Alt INF,0,1,2800,5600,8750,17500,45,0,0,0,0,1,0,1
-40513CA0410057,Kaiser Permanente,Silver 70 HMO 2800/65 + Child Dental Alt,0,0,2800,5600,8750,17500,45,0,0,0,0,1,0,1
-40513CA0410017,Kaiser Permanente,Silver 70 HMO 1900/65 + Child Dental Alt,0,0,1900,3800,8750,17500,45,0,0,0,0,1,0,1
-40513CA0410042,Kaiser Permanente,Silver 70 HMO 1900/65 + Child Dental Alt INF,0,1,1900,3800,8750,17500,45,0,0,0,0,1,0,1
-40513CA0000013-77,CalChoice,Kaiser Permanente Full Silver HMO E,0,0,2800,5600,8750,17500,45,0,0,0,0,1,0,1
-40513CA0000002-77,CalChoice,Kaiser Permanente Full Silver HMO A,0,0,2300,4600,8750,17500,45,0,0,0,0,1,0,1
-27603CA1211122,Anthem,Anthem Silver Priority Select HMO 60/2500/45%,0,0,2500,5000,9100,18200,45,0,0,0,0,1,0,1
-27603CA0000004-77,CalChoice,Anthem Select HMO Silver HMO A,0,0,2200,4400,9100,18200,0,0,0,0,0,1,0,1
-27603CA0000007-77,CalChoice,Anthem CaliforniaCare HMO Silver HMO B,0,0,2200,4400,9100,18200,0,0,0,0,0,1,0,1
-27603CA1211568,Anthem,Anthem Silver Select HMO 60/2500/45% WH,0,0,2500,5000,9100,18200,45,0,0,0,0,1,0,1
-40513CA0000005-77,CalChoice,Kaiser Permanente Full Silver HMO B,0,0,1900,3800,8750,17500,45,0,0,0,0,1,0,1
-27603CA1210990,Anthem,Anthem Silver Select HMO 60/2500/45%,0,0,2500,5000,9100,18200,45,0,0,0,0,1,0,1
-27603CA1210971,Anthem,Anthem Silver HMO 60/2500/45%,0,0,2500,5000,9100,18200,45,0,0,0,0,1,0,1
-27603CA1211587,Anthem,Anthem Silver Priority Select HMO 60/2500/45% WH,0,0,2500,5000,9100,18200,45,0,0,0,0,1,0,1
-40513CA0400053,CoveredCA,Silver 70 HMO 1900/65 + Child Dental Alt,0,0,1900,3800,8750,17500,45,0,0,0,0,1,0,1
-40513CA0400054,CoveredCA,Silver 70 HMO 1900/65 + Child Dental Alt INF,0,1,1900,3800,8750,17500,45,0,0,0,0,1,0,1
-40513CA0400055,CoveredCA,Silver 70 HMO 2300/65 + Child Dental Alt,0,0,2300,4600,8750,17500,45,0,0,0,0,1,0,1
-40513CA0400056,CoveredCA,Silver 70 HMO 2300/65 + Child Dental Alt INF,0,1,2300,4600,8750,17500,45,0,0,0,0,1,0,1
-40513CA0410049,Kaiser Permanente,Silver 70 HMO 2300/65 + Child Dental Alt,0,0,2300,4600,8750,17500,45,0,0,0,0,1,0,1
-40513CA0400057,CoveredCA,Silver 70 HMO 2800/65 + Child Dental Alt,0,0,2800,5600,8750,17500,45,0,0,0,0,1,0,1
-20523CA0032095,Aetna,CA Silver HMO $50/70 0 wINF,0,1,0,0,8700,17400,50,0,0,0,0,1,0,1
-20523CA0032076,Aetna,CA Silver HMO $50/70 0,0,1,0,0,8700,17400,50,0,0,0,0,1,0,1
-20523CA0032847,Aetna,CA Silver HMO AWH NoCA $50/70 0,0,1,0,0,8700,17400,50,0,0,0,0,1,0,1
-20523CA0032856,Aetna,CA Silver HMO AWH NoCA $50/70 0 wINF,0,1,0,0,8700,17400,50,0,0,0,0,1,0,1
-20523CA0032235,Aetna,CA Silver HMO Basic $50/70 0,0,1,0,0,8700,17400,50,0,0,0,0,1,0,1
-20523CA0032244,Aetna,CA Silver HMO Basic $50/70 0 wINF,0,1,0,0,8700,17400,50,0,0,0,0,1,0,1
-20523CA0032168,Aetna,CA Silver HMO AVN $50/70 0 wINF,0,1,0,0,8700,17400,50,0,0,0,0,1,0,1
-20523CA0032151,Aetna,CA Silver HMO AVN $50/70 0,0,1,0,0,8700,17400,50,0,0,0,0,1,0,1
-70285CA8171089,BlueShield of California,Bronze Trio HMO 7000/70 OffEx,0,0,7000,14000,8750,14000,50,0,1,0,0,0,0,1
-40513CA0410056,Kaiser Permanente,Bronze 60 HMO 5400/60 + Child Dental Alt INF,0,1,5400,10800,8300,16600,50,0,1,0,0,0,0,1
-40513CA0410055,Kaiser Permanente,Bronze 60 HMO 5400/60 + Child Dental Alt,0,0,5400,10800,8300,16600,50,0,1,0,0,0,0,1
-70285CA8171107,BlueShield of California,Bronze Trio HMO 7000/70 OffEx INF,0,1,7000,14000,8750,14000,50,0,1,0,0,0,0,1
-70285CA8171125,BlueShield of California,Bronze Access+ HMO (R) 7000/70 OffEx,0,0,7000,14000,8750,17500,50,0,1,0,0,0,0,1
-70285CA8171159,BlueShield of California,Bronze Access+ HMO (R) 7000/70 OffEx INF,0,1,7000,14000,8750,17500,50,0,1,0,0,0,0,1
-70285CA8171142,BlueShield of California,Bronze Local Access+ HMO (R) 7000/70 OffEx,0,0,7000,14000,8750,17500,50,0,1,0,0,0,0,1
-70285CA8171176,BlueShield of California,Bronze Local Access+ HMO (R) 7000/70 OffEx INF,0,1,7000,14000,8750,17500,50,0,1,0,0,0,0,1
-40513CA0000004-77,CalChoice,Kaiser Permanente Full Bronze HMO B,0,0,5400,10800,8300,16600,50,0,1,0,0,0,0,1
-37873CA0030031,UnitedHealthcare,Doctors Plan EPO Bronze CVPR /L65Y,0,0,7500,15000,9100,18200,50,1,0,0,0,0,1,0
-40513CA0400067,CoveredCA,Bronze 60 HMO 5400/60 + Child Dental Alt,0,0,5400,10800,8300,16600,50,0,1,0,0,0,0,1
-40513CA0400068,CoveredCA,Bronze 60 HMO 5400/60 + Child Dental Alt INF,0,1,5400,10800,8300,16600,50,0,1,0,0,0,0,1
-27603CA1210510-13,Anthem,Anthem Platinum HMO 0/25 w/ T&L,0,0,0,0,2300,4600,0,0,0,0,1,0,0,1
-27603CA1210475-13,Anthem,Anthem Platinum Select HMO 0/25 w/ T&L,0,0,0,0,2300,4600,0,0,0,0,1,0,0,1
-27603CA1210290-13,Anthem,Anthem Gold HMO 35 w/ T&L,0,0,0,0,6750,13500,0,0,0,1,0,0,0,1
-27603CA1210266-13,Anthem,Anthem Gold Select HMO 35 w/ T&L,0,0,0,0,6750,13500,0,0,0,1,0,0,0,1
-27603CA1210773-13,Anthem,Anthem Silver HMO 55 w/ T&L,0,0,0,0,9100,18200,0,0,0,0,0,1,0,1
-27603CA1210551-13,Anthem,Anthem Gold HMO 30 w/ T&L,0,0,0,0,6600,13200,0,0,0,1,0,0,0,1
-27603CA1210884-13,Anthem,Anthem Platinum Select HMO 0/30 w/ T&L,0,0,0,0,2700,5400,0,0,0,0,1,0,0,1
-27603CA1210792-13,Anthem,Anthem Silver Select HMO 55 w/ T&L,0,0,0,0,9100,18200,0,0,0,0,0,1,0,1
-27603CA1210865-13,Anthem,Anthem Platinum HMO 0/30 w/ T&L,0,0,0,0,2700,5400,0,0,0,0,1,0,0,1
-27603CA1210534-13,Anthem,Anthem Gold Select HMO 30 w/ T&L,0,0,0,0,6600,13200,0,0,0,1,0,0,0,1
-27603CA1210971-13,Anthem,Anthem Silver HMO 60/2500/45% w/ T&L,0,0,2500,5000,9100,18200,45,0,0,0,0,1,0,1
-27603CA1211080-13,Anthem,Anthem Platinum Priority Select HMO 0/30 w/ T&L,0,0,0,0,2700,5400,0,0,0,0,1,0,0,1
-27603CA1211122-13,Anthem,Anthem Silver Priority Select HMO 60/2500/45% w/ T&L,0,0,2500,5000,9100,18200,45,0,0,0,0,1,0,1
-27603CA1210990-13,Anthem,Anthem Silver Select HMO 60/2500/45% w/ T&L,0,0,2500,5000,9100,18200,45,0,0,0,0,1,0,1
-27603CA1211136-13,Anthem,Anthem Platinum Priority Select HMO 0/25 w/ T&L,0,0,0,0,2300,4600,0,0,0,0,1,0,0,1
-27603CA1211094-13,Anthem,Anthem Gold Priority Select HMO 35 w/ T&L,0,0,0,0,6750,13500,0,0,0,1,0,0,0,1
-27603CA1211108-13,Anthem,Anthem Gold Priority Select HMO 30 w/ T&L,0,0,0,0,6600,13200,0,0,0,1,0,0,0,1
-27603CA1211066-13,Anthem,Anthem Silver Priority Select HMO 55 w/ T&L,0,0,0,0,9100,18200,0,0,0,0,0,1,0,1
-27603CA1211150-13,Anthem,Anthem Gold HMO 35/500/20% w/ T&L,0,0,500,1500,8450,16900,20,0,0,1,0,0,0,1
-27603CA1211188-13,Anthem,Anthem Gold Select HMO 35/1250/20% w/ T&L,0,0,1250,2500,8600,17200,20,0,0,1,0,0,0,1
-27603CA1211207-13,Anthem,Anthem Gold Select HMO 35/500/20% w/ T&L,0,0,500,1500,8450,16900,20,0,0,1,0,0,0,1
-27603CA1211169-13,Anthem,Anthem Gold HMO 35/1250/20% w/ T&L,0,0,1250,2500,8600,17200,20,0,0,1,0,0,0,1
-27603CA1211245-13,Anthem,Anthem Gold Priority Select HMO 35/500/20% w/ T&L,0,0,500,1500,8450,16900,20,0,0,1,0,0,0,1
-27603CA1211226-13,Anthem,Anthem Gold Priority Select HMO 35/1250/20% w/ T&L,0,0,1250,2500,8600,17200,20,0,0,1,0,0,0,1
-27603CA1211340-13,Anthem,Anthem Link Platinum Vivity HMO 15 w/ T&L,0,0,0,0,2500,5000,25,0,0,0,1,0,0,1
-27603CA1211378-13,Anthem,Anthem Link Gold Vivity HMO 35/1000 w/ T&L,0,0,1000,2000,6750,13500,25,0,0,1,0,0,0,1
-27603CA1211416-13,Anthem,Anthem Link Gold Vivity HMO 35/1850 w/ T&L,0,0,1850,3700,7750,15500,25,0,0,1,0,0,0,1
-27603CA1211359-13,Anthem,Anthem Link Platinum Vivity HMO 15 WH w/ T&L,0,0,0,0,2500,5000,25,0,0,0,1,0,0,1
-27603CA1211321-13,Anthem,Anthem Platinum HMO 0/20 w/ T&L,0,0,0,0,1900,3800,0,0,0,0,1,0,0,1
-27603CA1211397-13,Anthem,Anthem Link Gold Vivity HMO 35/1000 WH w/ T&L,0,0,1000,2000,6750,13500,25,0,0,1,0,0,0,1
-27603CA1211549-13,Anthem,Anthem Link Gold Vivity HMO 25/500 WH w/ T&L,0,0,500,1500,6500,13000,25,0,0,1,0,0,0,1
-27603CA1211511-13,Anthem,Anthem Link Silver Vivity HMO 50/2650 WH w/ T&L,0,0,2650,5300,9100,18200,25,0,0,0,0,1,0,1
-27603CA1211435-13,Anthem,Anthem Link Gold Vivity HMO 35/1850 WH w/ T&L,0,0,1850,3700,7750,15500,25,0,0,1,0,0,0,1
-27603CA1211492-13,Anthem,Anthem Link Silver Vivity HMO 50/2650 w/ T&L,0,0,2650,5300,9100,18200,25,0,0,0,0,1,0,1
-27603CA1211473-13,Anthem,Anthem Link Gold Vivity HMO 25 w/ T&L,0,0,0,0,6150,12300,25,0,0,1,0,0,0,1
-27603CA1211530-13,Anthem,Anthem Link Gold Vivity HMO 25/500 w/ T&L,0,0,500,1500,6500,13000,25,0,0,1,0,0,0,1
-27603CA1211454-13,Anthem,Anthem Link Gold Vivity HMO 25 WH w/ T&L,0,0,0,0,6150,12300,25,0,0,1,0,0,0,1
-27603CA1211606-13,Anthem,Anthem Platinum Select HMO 0/20 w/ T&L,0,0,0,0,1900,3800,0,0,0,0,1,0,0,1
-27603CA1211625-13,Anthem,Anthem Platinum Priority Select HMO 0/20 w/ T&L,0,0,0,0,1900,3800,0,0,0,0,1,0,0,1
-27603CA1211587-13,Anthem,Anthem Silver Priority Select HMO 60/2500/45% WH w/ T&L,0,0,2500,5000,9100,18200,45,0,0,0,0,1,0,1
-27603CA1211568-13,Anthem,Anthem Silver Select HMO 60/2500/45% WH w/ T&L,0,0,2500,5000,9100,18200,45,0,0,0,0,1,0,1
+id,carrier_name,name,level,plan_type,hsa_eligible,infertility_treatment_rider,individual_medical_deductible_in_network,family_medical_deductible_in_network,individual_medical_moop_in_network,family_medical_moop_in_network,coinsurance_in_network
+20523CA0030427,Aetna,CA Gold HMO AVN $35/55 250 wINF,gold,HMO,False,True,250,500,7800,15600,0
+20523CA0030551,Aetna,CA Platinum HMO AVN $20/30 0 wINF,platinum,HMO,False,True,0,0,4500,9000,0
+20523CA0030698,Aetna,CA Bronze HMO Basic $65/95 6300 wINF,expanded_bronze,HMO,False,True,6300,12600,8200,16400,40
+20523CA0030825,Aetna,CA Bronze HMO Basic $75/125 7900,expanded_bronze,HMO,False,True,7900,15800,7900,15800,0
+20523CA0030881,Aetna,CA Bronze HMO AVN $75/125 7900,expanded_bronze,HMO,False,True,7900,15800,7900,15800,0
+20523CA0031072,Aetna,CA Silver HMO AVN $55/90 2500 wINF,silver,HMO,False,True,2500,5000,8750,17500,35
+20523CA0031138,Aetna,CA Gold HMO AVN $25/50 500,gold,HMO,False,True,500,1000,7800,15600,20
+20523CA0031164,Aetna,CA Gold HMO Basic $25/50 500,gold,HMO,False,True,500,1000,7800,15600,20
+20523CA0031199,Aetna,CA Silver HMO AVN $60/100 2500,silver,HMO,False,True,2500,5000,9100,18200,35
+20523CA0031225,Aetna,CA Silver HMO Basic $60/100 2500,silver,HMO,False,True,2500,5000,9100,18200,35
+20523CA0031253,Aetna,CA Bronze HMO $75/125 7900,expanded_bronze,HMO,False,True,7900,15800,7900,15800,0
+20523CA0031254,Aetna,CA Gold HMO $25/50 500,gold,HMO,False,True,500,1000,7800,15600,20
+20523CA0031255,Aetna,CA Gold HMO $30/60 0,gold,HMO,False,True,0,0,7000,14000,20
+20523CA0031256,Aetna,CA Gold HMO AVN $30/60 0,gold,HMO,False,True,0,0,7000,14000,0
+20523CA0031258,Aetna,CA Gold HMO Basic $30/60 0,gold,HMO,False,True,0,0,7000,14000,0
+20523CA0031260,Aetna,CA Silver HMO $60/100 2500,silver,HMO,False,True,2500,5000,9100,18200,35
+20523CA0031362,Aetna,CA Bronze HMO Basic $65/95 6300 M,expanded_bronze,HMO,False,True,6300,12600,8200,16400,40
+20523CA0031372,Aetna,CA Gold HMO AVN $35/55 250 M,gold,HMO,False,True,250,500,7800,15600,0
+20523CA0031423,Aetna,CA Platinum HMO AVN $20/30 0 M,platinum,HMO,False,True,0,0,4500,9000,0
+20523CA0031474,Aetna,CA Silver HMO AVN $55/90 2500 M,silver,HMO,False,True,2500,5000,8750,17500,35
+20523CA0031542,Aetna,CA Bronze HMO $75/125 7900 wINF,expanded_bronze,HMO,False,True,7900,15800,7900,15800,0
+20523CA0031562,Aetna,CA Bronze HMO AVN $75/125 7900 wINF,expanded_bronze,HMO,False,True,7900,15800,7900,15800,0
+20523CA0031589,Aetna,CA Bronze HMO Basic $75/125 7900 wINF,expanded_bronze,HMO,False,True,7900,15800,7900,15800,0
+20523CA0031616,Aetna,CA Gold HMO $25/50 500 wINF,gold,HMO,False,True,500,1000,7800,15600,20
+20523CA0031653,Aetna,CA Gold HMO $30/60 0 wINF,gold,HMO,False,True,0,0,7000,14000,20
+20523CA0031672,Aetna,CA Gold HMO $30/70 1250,gold,HMO,False,True,1250,2500,7800,15600,30
+20523CA0031691,Aetna,CA Gold HMO $30/70 1250 wINF,gold,HMO,False,True,1250,2500,7800,15600,30
+20523CA0031710,Aetna,CA Gold HMO $35/65 250,gold,HMO,False,True,250,500,7800,15600,0
+20523CA0031729,Aetna,CA Gold HMO $35/65 250 wINF,gold,HMO,False,True,250,500,7800,15600,0
+20523CA0031749,Aetna,CA Gold HMO AVN $25/50 500 wINF,gold,HMO,False,True,500,1000,7800,15600,20
+20523CA0031767,Aetna,CA Gold HMO AVN $30/60 0 wINF,gold,HMO,False,True,0,0,7000,14000,0
+20523CA0031784,Aetna,CA Gold HMO AVN $30/70 1250,gold,HMO,False,True,1250,2500,7800,15600,30
+20523CA0031801,Aetna,CA Gold HMO AVN $30/70 1250 wINF,gold,HMO,False,True,1250,2500,7800,15600,30
+20523CA0031820,Aetna,CA Gold HMO AVN $35/65 250,gold,HMO,False,True,250,500,7800,15600,0
+20523CA0031837,Aetna,CA Gold HMO AVN $35/65 250 wINF,gold,HMO,False,True,250,500,7800,15600,0
+20523CA0031910,Aetna,CA Gold HMO Basic $25/50 500 wINF,gold,HMO,False,True,500,1000,7800,15600,20
+20523CA0031919,Aetna,CA Gold HMO Basic $30/60 0 wINF,gold,HMO,False,True,0,0,7000,14000,0
+20523CA0031928,Aetna,CA Gold HMO Basic $30/70 1250,gold,HMO,False,True,1250,2500,7800,15600,30
+20523CA0031937,Aetna,CA Gold HMO Basic $30/70 1250 wINF,gold,HMO,False,True,1250,2500,7800,15600,30
+20523CA0031946,Aetna,CA Gold HMO Basic $35/65 250,gold,HMO,False,True,250,500,7800,15600,0
+20523CA0031955,Aetna,CA Gold HMO Basic $35/65 250 wINF,gold,HMO,False,True,250,500,7800,15600,0
+20523CA0031964,Aetna,CA Platinum HMO $20/40 0,platinum,HMO,False,True,0,0,3500,7000,10
+20523CA0031983,Aetna,CA Platinum HMO $20/40 0 wINF,platinum,HMO,False,True,0,0,3500,7000,10
+20523CA0032004,Aetna,CA Platinum HMO AVN $20/40 0,platinum,HMO,False,True,0,0,3500,7000,0
+20523CA0032021,Aetna,CA Platinum HMO AVN $20/40 0 wINF,platinum,HMO,False,True,0,0,3500,7000,0
+20523CA0032058,Aetna,CA Platinum HMO Basic $20/40 0,platinum,HMO,False,True,0,0,3500,7000,0
+20523CA0032067,Aetna,CA Platinum HMO Basic $20/40 0 wINF,platinum,HMO,False,True,0,0,3500,7000,0
+20523CA0032076,Aetna,CA Silver HMO $50/70 0,silver,HMO,False,True,0,0,8700,17400,50
+20523CA0032095,Aetna,CA Silver HMO $50/70 0 wINF,silver,HMO,False,True,0,0,8700,17400,50
+20523CA0032132,Aetna,CA Silver HMO $60/100 2500 wINF,silver,HMO,False,True,2500,5000,9100,18200,35
+20523CA0032151,Aetna,CA Silver HMO AVN $50/70 0,silver,HMO,False,True,0,0,8700,17400,50
+20523CA0032168,Aetna,CA Silver HMO AVN $50/70 0 wINF,silver,HMO,False,True,0,0,8700,17400,50
+20523CA0032188,Aetna,CA Silver HMO AVN $60/100 2500 wINF,silver,HMO,False,True,2500,5000,9100,18200,35
+20523CA0032235,Aetna,CA Silver HMO Basic $50/70 0,silver,HMO,False,True,0,0,8700,17400,50
+20523CA0032244,Aetna,CA Silver HMO Basic $50/70 0 wINF,silver,HMO,False,True,0,0,8700,17400,50
+20523CA0032253,Aetna,CA Silver HMO Basic $60/100 2500 wINF,silver,HMO,False,True,2500,5000,9100,18200,35
+20523CA0032703,Aetna,CA Bronze HMO AWH NoCA $75/125 7900,expanded_bronze,HMO,False,True,7900,15800,7900,15800,0
+20523CA0032712,Aetna,CA Bronze HMO AWH NoCA $75/125 7900 wINF,expanded_bronze,HMO,False,True,7900,15800,7900,15800,0
+20523CA0032721,Aetna,CA Gold HMO AWH NoCA $25/50 500,gold,HMO,False,True,500,1000,7800,15600,20
+20523CA0032730,Aetna,CA Gold HMO AWH NoCA $25/50 500 wINF,gold,HMO,False,True,500,1000,7800,15600,20
+20523CA0032739,Aetna,CA Gold HMO AWH NoCA $30/60 0,gold,HMO,False,True,0,0,7000,14000,0
+20523CA0032748,Aetna,CA Gold HMO AWH NoCA $30/60 0 wINF,gold,HMO,False,True,0,0,7000,14000,0
+20523CA0032757,Aetna,CA Gold HMO AWH NoCA $30/70 1250,gold,HMO,False,True,1250,2500,7800,15600,30
+20523CA0032766,Aetna,CA Gold HMO AWH NoCA $30/70 1250 wINF,gold,HMO,False,True,1250,2500,7800,15600,30
+20523CA0032775,Aetna,CA Gold HMO AWH NoCA $35/55 250 M,gold,HMO,False,True,250,500,7800,15600,0
+20523CA0032784,Aetna,CA Gold HMO AWH NoCA $35/55 250 wINF,gold,HMO,False,True,250,500,7800,15600,0
+20523CA0032793,Aetna,CA Gold HMO AWH NoCA $35/65 250,gold,HMO,False,True,250,500,7800,15600,0
+20523CA0032802,Aetna,CA Gold HMO AWH NoCA $35/65 250 wINF,gold,HMO,False,True,250,500,7800,15600,0
+20523CA0032811,Aetna,CA Platinum HMO AWH NoCA $20/30 0 M,platinum,HMO,False,True,0,0,4500,9000,0
+20523CA0032820,Aetna,CA Platinum HMO AWH NoCA $20/30 0 wINF,platinum,HMO,False,True,0,0,4500,9000,0
+20523CA0032829,Aetna,CA Platinum HMO AWH NoCA $20/40 0,platinum,HMO,False,True,0,0,3500,7000,0
+20523CA0032838,Aetna,CA Platinum HMO AWH NoCA $20/40 0 wINF,platinum,HMO,False,True,0,0,3500,7000,0
+20523CA0032847,Aetna,CA Silver HMO AWH NoCA $50/70 0,silver,HMO,False,True,0,0,8700,17400,50
+20523CA0032856,Aetna,CA Silver HMO AWH NoCA $50/70 0 wINF,silver,HMO,False,True,0,0,8700,17400,50
+20523CA0032865,Aetna,CA Silver HMO AWH NoCA $55/90 2500 M,silver,HMO,False,True,2500,5000,8750,17500,35
+20523CA0032874,Aetna,CA Silver HMO AWH NoCA $55/90 2500 wINF,silver,HMO,False,True,2500,5000,8750,17500,35
+20523CA0032883,Aetna,CA Silver HMO AWH NoCA $60/100 2500,silver,HMO,False,True,2500,5000,9100,18200,35
+20523CA0032892,Aetna,CA Silver HMO AWH NoCA $60/100 2500 wINF,silver,HMO,False,True,2500,5000,9100,18200,35
+27603CA0000004-77,CalChoice,Anthem Select HMO Silver HMO A,silver,HMO,False,False,2200,4400,9100,18200,0
+27603CA0000005-77,CalChoice,Anthem Select HMO Gold HMO A,gold,HMO,False,False,0,0,6500,13000,0
+27603CA0000006-77,CalChoice,Anthem Select HMO Platinum HMO A,platinum,HMO,False,False,0,0,2500,5000,0
+27603CA0000007-77,CalChoice,Anthem CaliforniaCare HMO Silver HMO B,silver,HMO,False,False,2200,4400,9100,18200,0
+27603CA0000008-77,CalChoice,Anthem CaliforniaCare HMO Gold HMO B,gold,HMO,False,False,0,0,6500,13000,0
+27603CA1210266,Anthem,Anthem Gold Select HMO 35,gold,HMO,False,False,0,0,6750,13500,0
+27603CA1210266-13,Anthem,Anthem Gold Select HMO 35 w/ T&L,gold,HMO,False,False,0,0,6750,13500,0
+27603CA1210290,Anthem,Anthem Gold HMO 35,gold,HMO,False,False,0,0,6750,13500,0
+27603CA1210290-13,Anthem,Anthem Gold HMO 35 w/ T&L,gold,HMO,False,False,0,0,6750,13500,0
+27603CA1210475,Anthem,Anthem Platinum Select HMO 0/25,platinum,HMO,False,False,0,0,2300,4600,0
+27603CA1210475-13,Anthem,Anthem Platinum Select HMO 0/25 w/ T&L,platinum,HMO,False,False,0,0,2300,4600,0
+27603CA1210510,Anthem,Anthem Platinum HMO 0/25,platinum,HMO,False,False,0,0,2300,4600,0
+27603CA1210510-13,Anthem,Anthem Platinum HMO 0/25 w/ T&L,platinum,HMO,False,False,0,0,2300,4600,0
+27603CA1210534,Anthem,Anthem Gold Select HMO 30,gold,HMO,False,False,0,0,6600,13200,0
+27603CA1210534-13,Anthem,Anthem Gold Select HMO 30 w/ T&L,gold,HMO,False,False,0,0,6600,13200,0
+27603CA1210551,Anthem,Anthem Gold HMO 30,gold,HMO,False,False,0,0,6600,13200,0
+27603CA1210551-13,Anthem,Anthem Gold HMO 30 w/ T&L,gold,HMO,False,False,0,0,6600,13200,0
+27603CA1210773,Anthem,Anthem Silver HMO 55,silver,HMO,False,False,0,0,9100,18200,0
+27603CA1210773-13,Anthem,Anthem Silver HMO 55 w/ T&L,silver,HMO,False,False,0,0,9100,18200,0
+27603CA1210792,Anthem,Anthem Silver Select HMO 55,silver,HMO,False,False,0,0,9100,18200,0
+27603CA1210792-13,Anthem,Anthem Silver Select HMO 55 w/ T&L,silver,HMO,False,False,0,0,9100,18200,0
+27603CA1210865,Anthem,Anthem Platinum HMO 0/30,platinum,HMO,False,False,0,0,2700,5400,0
+27603CA1210865-13,Anthem,Anthem Platinum HMO 0/30 w/ T&L,platinum,HMO,False,False,0,0,2700,5400,0
+27603CA1210884,Anthem,Anthem Platinum Select HMO 0/30,platinum,HMO,False,False,0,0,2700,5400,0
+27603CA1210884-13,Anthem,Anthem Platinum Select HMO 0/30 w/ T&L,platinum,HMO,False,False,0,0,2700,5400,0
+27603CA1210971,Anthem,Anthem Silver HMO 60/2500/45%,silver,HMO,False,False,2500,5000,9100,18200,45
+27603CA1210971-13,Anthem,Anthem Silver HMO 60/2500/45% w/ T&L,silver,HMO,False,False,2500,5000,9100,18200,45
+27603CA1210990,Anthem,Anthem Silver Select HMO 60/2500/45%,silver,HMO,False,False,2500,5000,9100,18200,45
+27603CA1210990-13,Anthem,Anthem Silver Select HMO 60/2500/45% w/ T&L,silver,HMO,False,False,2500,5000,9100,18200,45
+27603CA1211066,Anthem,Anthem Silver Priority Select HMO 55,silver,HMO,False,False,0,0,9100,18200,0
+27603CA1211066-13,Anthem,Anthem Silver Priority Select HMO 55 w/ T&L,silver,HMO,False,False,0,0,9100,18200,0
+27603CA1211080,Anthem,Anthem Platinum Priority Select HMO 0/30,platinum,HMO,False,False,0,0,2700,5400,0
+27603CA1211080-13,Anthem,Anthem Platinum Priority Select HMO 0/30 w/ T&L,platinum,HMO,False,False,0,0,2700,5400,0
+27603CA1211094,Anthem,Anthem Gold Priority Select HMO 35,gold,HMO,False,False,0,0,6750,13500,0
+27603CA1211094-13,Anthem,Anthem Gold Priority Select HMO 35 w/ T&L,gold,HMO,False,False,0,0,6750,13500,0
+27603CA1211108,Anthem,Anthem Gold Priority Select HMO 30,gold,HMO,False,False,0,0,6600,13200,0
+27603CA1211108-13,Anthem,Anthem Gold Priority Select HMO 30 w/ T&L,gold,HMO,False,False,0,0,6600,13200,0
+27603CA1211122,Anthem,Anthem Silver Priority Select HMO 60/2500/45%,silver,HMO,False,False,2500,5000,9100,18200,45
+27603CA1211122-13,Anthem,Anthem Silver Priority Select HMO 60/2500/45% w/ T&L,silver,HMO,False,False,2500,5000,9100,18200,45
+27603CA1211136,Anthem,Anthem Platinum Priority Select HMO 0/25,platinum,HMO,False,False,0,0,2300,4600,0
+27603CA1211136-13,Anthem,Anthem Platinum Priority Select HMO 0/25 w/ T&L,platinum,HMO,False,False,0,0,2300,4600,0
+27603CA1211150,Anthem,Anthem Gold HMO 35/500/20%,gold,HMO,False,False,500,1500,8450,16900,20
+27603CA1211150-13,Anthem,Anthem Gold HMO 35/500/20% w/ T&L,gold,HMO,False,False,500,1500,8450,16900,20
+27603CA1211169,Anthem,Anthem Gold HMO 35/1250/20%,gold,HMO,False,False,1250,2500,8600,17200,20
+27603CA1211169-13,Anthem,Anthem Gold HMO 35/1250/20% w/ T&L,gold,HMO,False,False,1250,2500,8600,17200,20
+27603CA1211188,Anthem,Anthem Gold Select HMO 35/1250/20%,gold,HMO,False,False,1250,2500,8600,17200,20
+27603CA1211188-13,Anthem,Anthem Gold Select HMO 35/1250/20% w/ T&L,gold,HMO,False,False,1250,2500,8600,17200,20
+27603CA1211207,Anthem,Anthem Gold Select HMO 35/500/20%,gold,HMO,False,False,500,1500,8450,16900,20
+27603CA1211207-13,Anthem,Anthem Gold Select HMO 35/500/20% w/ T&L,gold,HMO,False,False,500,1500,8450,16900,20
+27603CA1211226,Anthem,Anthem Gold Priority Select HMO 35/1250/20%,gold,HMO,False,False,1250,2500,8600,17200,20
+27603CA1211226-13,Anthem,Anthem Gold Priority Select HMO 35/1250/20% w/ T&L,gold,HMO,False,False,1250,2500,8600,17200,20
+27603CA1211245,Anthem,Anthem Gold Priority Select HMO 35/500/20%,gold,HMO,False,False,500,1500,8450,16900,20
+27603CA1211245-13,Anthem,Anthem Gold Priority Select HMO 35/500/20% w/ T&L,gold,HMO,False,False,500,1500,8450,16900,20
+27603CA1211321,Anthem,Anthem Platinum HMO 0/20,platinum,HMO,False,False,0,0,1900,3800,0
+27603CA1211321-13,Anthem,Anthem Platinum HMO 0/20 w/ T&L,platinum,HMO,False,False,0,0,1900,3800,0
+27603CA1211340,Anthem,Anthem Link Platinum Vivity HMO 15,platinum,HMO,False,False,0,0,2500,5000,0
+27603CA1211340-13,Anthem,Anthem Link Platinum Vivity HMO 15 w/ T&L,platinum,HMO,False,False,0,0,2500,5000,25
+27603CA1211359,Anthem,Anthem Link Platinum Vivity HMO 15 WH,platinum,HMO,False,False,0,0,2500,5000,0
+27603CA1211359-13,Anthem,Anthem Link Platinum Vivity HMO 15 WH w/ T&L,platinum,HMO,False,False,0,0,2500,5000,25
+27603CA1211378,Anthem,Anthem Link Gold Vivity HMO 35/1000,gold,HMO,False,False,1000,2000,6750,13500,0
+27603CA1211378-13,Anthem,Anthem Link Gold Vivity HMO 35/1000 w/ T&L,gold,HMO,False,False,1000,2000,6750,13500,25
+27603CA1211397,Anthem,Anthem Link Gold Vivity HMO 35/1000 WH,gold,HMO,False,False,1000,2000,6750,13500,0
+27603CA1211397-13,Anthem,Anthem Link Gold Vivity HMO 35/1000 WH w/ T&L,gold,HMO,False,False,1000,2000,6750,13500,25
+27603CA1211416,Anthem,Anthem Link Gold Vivity HMO 35/1850,gold,HMO,False,False,1850,3700,7750,15500,0
+27603CA1211416-13,Anthem,Anthem Link Gold Vivity HMO 35/1850 w/ T&L,gold,HMO,False,False,1850,3700,7750,15500,25
+27603CA1211435,Anthem,Anthem Link Gold Vivity HMO 35/1850 WH,gold,HMO,False,False,1850,3700,7750,15500,0
+27603CA1211435-13,Anthem,Anthem Link Gold Vivity HMO 35/1850 WH w/ T&L,gold,HMO,False,False,1850,3700,7750,15500,25
+27603CA1211454,Anthem,Anthem Link Gold Vivity HMO 25 WH,gold,HMO,False,False,0,0,6150,12300,0
+27603CA1211454-13,Anthem,Anthem Link Gold Vivity HMO 25 WH w/ T&L,gold,HMO,False,False,0,0,6150,12300,25
+27603CA1211473,Anthem,Anthem Link Gold Vivity HMO 25,gold,HMO,False,False,0,0,6150,12300,0
+27603CA1211473-13,Anthem,Anthem Link Gold Vivity HMO 25 w/ T&L,gold,HMO,False,False,0,0,6150,12300,25
+27603CA1211492,Anthem,Anthem Link Silver Vivity HMO 50/2650,silver,HMO,False,False,2650,5300,9100,18200,0
+27603CA1211492-13,Anthem,Anthem Link Silver Vivity HMO 50/2650 w/ T&L,silver,HMO,False,False,2650,5300,9100,18200,25
+27603CA1211511,Anthem,Anthem Link Silver Vivity HMO 50/2650 WH,silver,HMO,False,False,2650,5300,9100,18200,0
+27603CA1211511-13,Anthem,Anthem Link Silver Vivity HMO 50/2650 WH w/ T&L,silver,HMO,False,False,2650,5300,9100,18200,25
+27603CA1211530,Anthem,Anthem Link Gold Vivity HMO 25/500,gold,HMO,False,False,500,1500,6500,13000,0
+27603CA1211530-13,Anthem,Anthem Link Gold Vivity HMO 25/500 w/ T&L,gold,HMO,False,False,500,1500,6500,13000,25
+27603CA1211549,Anthem,Anthem Link Gold Vivity HMO 25/500 WH,gold,HMO,False,False,500,1500,6500,13000,0
+27603CA1211549-13,Anthem,Anthem Link Gold Vivity HMO 25/500 WH w/ T&L,gold,HMO,False,False,500,1500,6500,13000,25
+27603CA1211568,Anthem,Anthem Silver Select HMO 60/2500/45% WH,silver,HMO,False,False,2500,5000,9100,18200,45
+27603CA1211568-13,Anthem,Anthem Silver Select HMO 60/2500/45% WH w/ T&L,silver,HMO,False,False,2500,5000,9100,18200,45
+27603CA1211587,Anthem,Anthem Silver Priority Select HMO 60/2500/45% WH,silver,HMO,False,False,2500,5000,9100,18200,45
+27603CA1211587-13,Anthem,Anthem Silver Priority Select HMO 60/2500/45% WH w/ T&L,silver,HMO,False,False,2500,5000,9100,18200,45
+27603CA1211606,Anthem,Anthem Platinum Select HMO 0/20,platinum,HMO,False,False,0,0,1900,3800,0
+27603CA1211606-13,Anthem,Anthem Platinum Select HMO 0/20 w/ T&L,platinum,HMO,False,False,0,0,1900,3800,0
+27603CA1211625,Anthem,Anthem Platinum Priority Select HMO 0/20,platinum,HMO,False,False,0,0,1900,3800,0
+27603CA1211625-13,Anthem,Anthem Platinum Priority Select HMO 0/20 w/ T&L,platinum,HMO,False,False,0,0,1900,3800,0
+37873CA0030031,UnitedHealthcare,Doctors Plan EPO Bronze CVPR /L65Y,bronze,EPO,False,False,7500,15000,9100,18200,50
+37873CA0030037,UnitedHealthcare,Doctors Plan EPO HDHP Bronze CVP2 /L45Y,expanded_bronze,EPO,True,False,6000,12000,7500,15000,40
+37873CA0090003-13,UnitedHealthcare,Doctors Plan EPO HDHP Silver CVPW /L46S,silver,EPO,True,False,2800,3000,7500,15000,40
+37873CA0090004-13,UnitedHealthcare,Doctors Plan EPO Bronze CVP8 /L42Y,bronze,EPO,False,False,5500,11000,9100,18200,40
+40025CA0000001-77,CalChoice,Cigna + Oscar LocalPlus Bronze EPO C,expanded_bronze,EPO,True,False,5750,11500,7450,14900,40
+40025CA0000002-77,CalChoice,Cigna + Oscar LocalPlus Bronze EPO D,expanded_bronze,EPO,False,False,6000,12000,8700,17400,40
+40025CA0000003-77,CalChoice,Cigna + Oscar LocalPlus Silver EPO C,silver,EPO,False,False,1950,3900,8950,17900,35
+40025CA0000004-77,CalChoice,Cigna + Oscar LocalPlus Silver EPO D,silver,EPO,False,False,2600,5200,8950,17900,40
+40025CA0000005-77,CalChoice,Cigna + Oscar LocalPlus Silver EPO E,silver,EPO,False,False,3000,6000,7250,14500,30
+40025CA0000006-77,CalChoice,Cigna + Oscar LocalPlus Gold EPO C,gold,EPO,False,False,0,0,8950,17900,30
+40025CA0000007-77,CalChoice,Cigna + Oscar LocalPlus Gold EPO D,gold,EPO,False,False,1350,2700,8550,17100,20
+40025CA0000008-77,CalChoice,Cigna + Oscar LocalPlus Gold EPO E,gold,EPO,False,False,750,1500,8550,17100,0
+40025CA0000009-77,CalChoice,Cigna + Oscar LocalPlus Platinum EPO C,platinum,EPO,False,False,0,0,4850,9700,10
+40025CA0000010-77,CalChoice,Cigna + Oscar LocalPlus Platinum EPO D,platinum,EPO,False,False,250,500,4750,9500,10
+40025CA0000011-77,CalChoice,Cigna + Oscar LocalPlus Platinum EPO E,platinum,EPO,False,False,500,1000,3750,7500,15
+40025CA0000012-77,CalChoice,Cigna + Oscar Open Access Plus Bronze EPO E,expanded_bronze,EPO,False,False,7250,14500,9100,18200,35
+40025CA0000013-77,CalChoice,Cigna + Oscar LocalPlus Bronze EPO F,expanded_bronze,EPO,False,False,7250,14500,9100,18200,35
+40025CA0000014-77,CalChoice,Cigna + Oscar Open Access Plus Silver EPO F,silver,EPO,False,False,1950,3900,8950,17900,35
+40025CA0000015-77,CalChoice,Cigna + Oscar Open Access Plus Silver EPO G,silver,EPO,True,False,3000,6000,7250,14500,30
+40025CA0000016-77,CalChoice,Cigna + Oscar Open Access Plus Gold EPO F,gold,EPO,False,False,0,0,8950,17900,30
+40025CA0000017-77,CalChoice,Cigna + Oscar Open Access Plus Gold EPO G,gold,EPO,False,False,750,1500,8550,17100,0
+40025CA0000018-77,CalChoice,Cigna + Oscar Open Access Plus Platinum EPO F,platinum,EPO,False,False,0,0,4850,9700,10
+40025CA0000019-77,CalChoice,Cigna + Oscar Open Access Plus Platinum EPO G,platinum,EPO,False,False,500,1000,3750,7500,15
+40513CA0000001-77,CalChoice,Kaiser Permanente Full Bronze HMO A,expanded_bronze,HMO,False,False,6300,12600,8600,17200,40
+40513CA0000002-77,CalChoice,Kaiser Permanente Full Silver HMO A,silver,HMO,False,False,2300,4600,8750,17500,45
+40513CA0000003-77,CalChoice,Kaiser Permanente Full Platinum HMO A,platinum,HMO,False,False,0,0,3000,6000,0
+40513CA0000004-77,CalChoice,Kaiser Permanente Full Bronze HMO B,expanded_bronze,HMO,False,False,5400,10800,8300,16600,50
+40513CA0000005-77,CalChoice,Kaiser Permanente Full Silver HMO B,silver,HMO,False,False,1900,3800,8750,17500,45
+40513CA0000006-77,CalChoice,Kaiser Permanente Full Gold HMO B,gold,HMO,False,False,250,500,7800,15600,0
+40513CA0000007-77,CalChoice,Kaiser Permanente Full Platinum HMO B,platinum,HMO,False,False,0,0,4500,9000,0
+40513CA0000008-77,CalChoice,Kaiser Permanente Full Bronze HMO C,expanded_bronze,HMO,True,False,7000,14000,7000,14000,0
+40513CA0000009-77,CalChoice,Kaiser Permanente Full Silver HMO C,silver,HMO,False,False,2500,5000,8750,17500,30
+40513CA0000010-77,CalChoice,Kaiser Permanente Full Gold HMO C,gold,HMO,False,False,0,0,7500,15000,0
+40513CA0000011-77,CalChoice,Kaiser Permanente Full Silver HMO D,silver,HMO,True,False,2700,5400,7200,14400,25
+40513CA0000012-77,CalChoice,Kaiser Permanente Full Gold HMO D,gold,HMO,False,False,1000,2000,7800,15600,0
+40513CA0000013-77,CalChoice,Kaiser Permanente Full Silver HMO E,silver,HMO,False,False,2800,5600,8750,17500,45
+40513CA0000014-77,CalChoice,Kaiser Permanente Full Gold HMO E,gold,HMO,True,False,1600,3200,3550,7100,15
+40513CA0400041,CoveredCA,Gold 80 HDHP HMO 1600/15% + Child Dental Alt,gold,HMO,True,False,1600,3200,3550,7100,15
+40513CA0400042,CoveredCA,Gold 80 HDHP HMO 1600/15% + Child Dental Alt INF,gold,HMO,True,True,1600,3200,3550,7100,15
+40513CA0400043,CoveredCA,Platinum 90 HMO 0/10 + Child Dental Alt,platinum,HMO,False,False,0,0,3000,6000,0
+40513CA0400044,CoveredCA,Platinum 90 HMO 0/10 + Child Dental Alt INF,platinum,HMO,False,True,0,0,3000,6000,0
+40513CA0400045,CoveredCA,Platinum 90 HMO 0/20 + Child Dental,platinum,HMO,False,False,0,0,4500,9000,0
+40513CA0400046,CoveredCA,Platinum 90 HMO 0/20 + Child Dental INF,platinum,HMO,False,True,0,0,4500,9000,0
+40513CA0400047,CoveredCA,Gold 80 HMO 0/30 + Child Dental Alt,gold,HMO,False,False,0,0,7500,15000,0
+40513CA0400048,CoveredCA,Gold 80 HMO 0/30 + Child Dental Alt INF,gold,HMO,False,True,0,0,7500,15000,0
+40513CA0400049,CoveredCA,Gold 80 HMO 250/35 + Child Dental,gold,HMO,False,False,250,500,7800,15600,0
+40513CA0400050,CoveredCA,Gold 80 HMO 250/35 + Child Dental INF,gold,HMO,False,True,250,500,7800,15600,0
+40513CA0400051,CoveredCA,Gold 80 HMO 1000/40 + Child Dental Alt,gold,HMO,False,False,1000,2000,7800,15600,0
+40513CA0400052,CoveredCA,Gold 80 HMO 1000/40 + Child Dental Alt INF,gold,HMO,False,True,1000,2000,7800,15600,0
+40513CA0400053,CoveredCA,Silver 70 HMO 1900/65 + Child Dental Alt,silver,HMO,False,False,1900,3800,8750,17500,45
+40513CA0400054,CoveredCA,Silver 70 HMO 1900/65 + Child Dental Alt INF,silver,HMO,False,True,1900,3800,8750,17500,45
+40513CA0400055,CoveredCA,Silver 70 HMO 2300/65 + Child Dental Alt,silver,HMO,False,False,2300,4600,8750,17500,45
+40513CA0400056,CoveredCA,Silver 70 HMO 2300/65 + Child Dental Alt INF,silver,HMO,False,True,2300,4600,8750,17500,45
+40513CA0400057,CoveredCA,Silver 70 HMO 2800/65 + Child Dental Alt,silver,HMO,False,False,2800,5600,8750,17500,45
+40513CA0400058,CoveredCA,Silver 70 HMO 2800/65 + Child Dental Alt INF,silver,HMO,False,True,2800,5600,8750,17500,45
+40513CA0400059,CoveredCA,Silver 70 HMO 2500/55 + Child Dental,silver,HMO,False,False,2500,5000,8750,17500,35
+40513CA0400060,CoveredCA,Silver 70 HMO 2500/55 + Child Dental INF,silver,HMO,False,True,2500,5000,8750,17500,35
+40513CA0400061,CoveredCA,Silver 70 HDHP HMO 2700/25% + Child Dental,silver,HMO,True,False,2700,5400,7200,14400,25
+40513CA0400062,CoveredCA,Silver 70 HDHP HMO 2700/25% + Child Dental INF,silver,HMO,True,True,2700,5400,7200,14400,25
+40513CA0400063,CoveredCA,Bronze 60 HMO 6300/65 + Child Dental,expanded_bronze,HMO,False,False,6300,12600,8600,17200,40
+40513CA0400064,CoveredCA,Bronze 60 HMO 6300/65 + Child Dental INF,expanded_bronze,HMO,False,True,6300,12600,8600,17200,40
+40513CA0400065,CoveredCA,Bronze 60 HDHP HMO 7000/0% + Child Dental,expanded_bronze,HMO,True,False,7000,14000,7000,14000,0
+40513CA0400066,CoveredCA,Bronze 60 HDHP HMO 7000/0% + Child Dental INF,expanded_bronze,HMO,True,True,7000,14000,7000,14000,0
+40513CA0400067,CoveredCA,Bronze 60 HMO 5400/60 + Child Dental Alt,expanded_bronze,HMO,False,False,5400,10800,8300,16600,50
+40513CA0400068,CoveredCA,Bronze 60 HMO 5400/60 + Child Dental Alt INF,expanded_bronze,HMO,False,True,5400,10800,8300,16600,50
+40513CA0410012,Kaiser Permanente,Platinum 90 HMO 0/20 + Child Dental,platinum,HMO,False,False,0,0,4500,9000,0
+40513CA0410014,Kaiser Permanente,Gold 80 HMO 250/35 + Child Dental,gold,HMO,False,False,250,500,7800,15600,0
+40513CA0410016,Kaiser Permanente,Silver 70 HMO 2500/55 + Child Dental,silver,HMO,False,False,2500,5000,8750,17500,35
+40513CA0410017,Kaiser Permanente,Silver 70 HMO 1900/65 + Child Dental Alt,silver,HMO,False,False,1900,3800,8750,17500,45
+40513CA0410019,Kaiser Permanente,Bronze 60 HMO 6300/65 + Child Dental ,expanded_bronze,HMO,False,False,6300,12600,8600,17200,40
+40513CA0410021,Kaiser Permanente,Bronze 60 HDHP HMO 7000/0 + Child Dental,expanded_bronze,HMO,True,False,7000,14000,7000,14000,0
+40513CA0410022,Kaiser Permanente,Gold 80 HRA HMO 2250/35 + Child Dental,gold,HMO,False,False,2250,4500,8500,17000,25
+40513CA0410026,Kaiser Permanente,Platinum 90 HMO 0/10 + Child Dental Alt,platinum,HMO,False,False,0,0,3000,6000,0
+40513CA0410037,Kaiser Permanente,Platinum 90 HMO 0/10 + Child Dental Alt INF,platinum,HMO,False,True,0,0,3000,6000,0
+40513CA0410038,Kaiser Permanente,Platinum 90 HMO 0/20 + Child Dental INF,platinum,HMO,False,True,0,0,4500,9000,0
+40513CA0410039,Kaiser Permanente,Gold 80 HMO 250/35 + Child Dental INF,gold,HMO,False,True,250,500,7800,15600,0
+40513CA0410041,Kaiser Permanente,Gold 80 HRA HMO 2250/35 + Child Dental INF,gold,HMO,False,True,2250,4500,8500,17000,25
+40513CA0410042,Kaiser Permanente,Silver 70 HMO 1900/65 + Child Dental Alt INF,silver,HMO,False,True,1900,3800,8750,17500,45
+40513CA0410043,Kaiser Permanente,Silver 70 HMO 2500/55 + Child Dental INF,silver,HMO,False,True,2500,5000,8750,17500,35
+40513CA0410044,Kaiser Permanente,Bronze 60 HMO 6300/65 + Child Dental INF,expanded_bronze,HMO,False,True,6300,12600,8600,17200,40
+40513CA0410045,Kaiser Permanente,Bronze 60 HDHP HMO 7000/0 + Child Dental INF,expanded_bronze,HMO,True,True,7000,14000,7000,14000,0
+40513CA0410046,Kaiser Permanente,Silver 70 HDHP HMO 2700/25% + Child Dental,silver,HMO,True,False,2700,5400,7200,14400,25
+40513CA0410048,Kaiser Permanente,Silver 70 HDHP HMO 2700/25% + Child Dental INF,silver,HMO,True,True,2700,5400,7200,14400,25
+40513CA0410049,Kaiser Permanente,Silver 70 HMO 2300/65 + Child Dental Alt,silver,HMO,False,False,2300,4600,8750,17500,45
+40513CA0410050,Kaiser Permanente,Silver 70 HMO 2300/65 + Child Dental Alt INF,silver,HMO,False,True,2300,4600,8750,17500,45
+40513CA0410051,Kaiser Permanente,Gold 80 HMO 0/30 + Child Dental Alt,gold,HMO,False,False,0,0,7500,15000,0
+40513CA0410052,Kaiser Permanente,Gold 80 HMO 0/30 + Child Dental Alt INF,gold,HMO,False,True,0,0,7500,15000,0
+40513CA0410053,Kaiser Permanente,Gold 80 HMO 1000/40 + Child Dental Alt,gold,HMO,False,False,1000,2000,7800,15600,0
+40513CA0410054,Kaiser Permanente,Gold 80 HMO 1000/40 + Child Dental Alt INF,gold,HMO,False,True,1000,2000,7800,15600,0
+40513CA0410055,Kaiser Permanente,Bronze 60 HMO 5400/60 + Child Dental Alt,expanded_bronze,HMO,False,False,5400,10800,8300,16600,50
+40513CA0410056,Kaiser Permanente,Bronze 60 HMO 5400/60 + Child Dental Alt INF,expanded_bronze,HMO,False,True,5400,10800,8300,16600,50
+40513CA0410057,Kaiser Permanente,Silver 70 HMO 2800/65 + Child Dental Alt,silver,HMO,False,False,2800,5600,8750,17500,45
+40513CA0410058,Kaiser Permanente,Silver 70 HMO 2800/65 + Child Dental Alt INF,silver,HMO,False,True,2800,5600,8750,17500,45
+40513CA0410059,Kaiser Permanente,Gold 80 HDHP HMO 1600/15% + Child Dental Alt,gold,HMO,True,False,1600,3200,3550,7100,15
+40513CA0410060,Kaiser Permanente,Gold 80 HDHP HMO 1600/15% + Child Dental Alt INF,gold,HMO,True,True,1600,3200,3550,7100,15
+49116CA0000001-77,CalChoice,UnitedHealthcare SignatureValue Silver HMO A,silver,HMO,False,False,2400,4800,9100,18200,40
+49116CA0000002-77,CalChoice,UnitedHealthcare SignatureValue Gold HMO A,gold,HMO,False,False,1500,3000,8500,17000,30
+49116CA0000003-77,CalChoice,UnitedHealthcare SignatureValue Platinum HMO A,platinum,HMO,False,False,0,0,3500,7000,20
+49116CA0000004-77,CalChoice,UnitedHealthcare SignatureValue Platinum HMO E,platinum,HMO,False,False,0,0,3000,6000,0
+49116CA0000005-77,CalChoice,UnitedHealthcare SignatureValue Gold HMO F,gold,HMO,False,False,0,0,7500,15000,0
+49116CA0000006-77,CalChoice,UnitedHealthcare SignatureValue Gold HMO H,gold,HMO,False,False,500,1000,8000,16000,20
+49116CA0000019-77,CalChoice,UnitedHealthcare Harmony Silver HMO G,silver,HMO,False,False,2400,4800,9100,18200,30
+49116CA0000020-77,CalChoice,UnitedHealthcare Harmony Gold HMO L,gold,HMO,False,False,1500,3000,8500,17000,30
+49116CA0000021-77,CalChoice,UnitedHealthcare Harmony Gold HMO M,gold,HMO,False,False,0,0,7500,15000,0
+49116CA0000022-77,CalChoice,UnitedHealthcare Harmony Gold HMO N,gold,HMO,False,False,500,1000,8000,16000,20
+49116CA0000023-77,CalChoice,UnitedHealthcare Harmony Platinum HMO H,platinum,HMO,False,False,0,0,3500,7000,20
+49116CA0000024-77,CalChoice,UnitedHealthcare Harmony Platinum HMO I,platinum,HMO,False,False,0,0,3000,6000,0
+49116CA0000025-77,CalChoice,UnitedHealthcare Harmony Silver HMO F,silver,HMO,False,False,2400,4800,9100,18200,40
+49116CA0000027-77,CalChoice,UnitedHealthcare Harmony Gold HMO P,gold,HMO,False,False,0,0,7000,14000,40
+49116CA0000028-77,CalChoice,UnitedHealthcare SignatureValue Gold HMO Q,gold,HMO,False,False,0,0,7000,14000,40
+49116CA0000030-77,CalChoice,UnitedHealthcare Harmony Platinum HMO K,platinum,HMO,False,False,0,0,3500,7000,20
+49116CA0000031-77,CalChoice,UnitedHealthcare SignatureValue Platinum HMO L,platinum,HMO,False,False,0,0,3500,7000,20
+49116CA0000032-77,CalChoice,UnitedHealthcare SignatureValue Platinum HMO B,platinum,HMO,False,False,0,0,2500,5000,0
+49116CA0000033-77,CalChoice,UnitedHealthcare Harmony Platinum HMO M,platinum,HMO,False,False,0,0,2500,5000,0
+49116CA0070431,UnitedHealthcare,SignatureValue HMO Platinum 25-50/20%,platinum,HMO,False,False,0,0,3500,7000,20
+49116CA0070436,UnitedHealthcare,SignatureValue HMO Silver 60-95/40%/2400ded,silver,HMO,False,False,2400,4800,9100,18200,40
+49116CA0070481,UnitedHealthcare,SignatureValue Harmony HMO Platinum 25-50/20%,platinum,HMO,False,False,0,0,3500,7000,20
+49116CA0070497,UnitedHealthcare,SignatureValue Harmony HMO Silver CWYL /L61S,silver,HMO,False,False,2400,4800,9100,18200,40
+49116CA0070708,UnitedHealthcare,SignatureValue Harmony HMO Platinum CWXX /N92S,platinum,HMO,False,False,0,0,2500,5000,0
+49116CA0070709,UnitedHealthcare,SignatureValue HMO Platinum CWXY /N92S,platinum,HMO,False,False,0,0,2500,5000,0
+49116CA0070711,UnitedHealthcare,SignatureValue Harmony HMO Platinum CWX2 /N93S,platinum,HMO,False,False,0,0,3000,6000,0
+49116CA0070718,UnitedHealthcare,SignatureValue HMO Platinum CWX3 /N93S,platinum,HMO,False,False,0,0,3000,6000,0
+49116CA0070724,UnitedHealthcare,SignatureValue Harmony HMO Platinum 25-50/10%,platinum,HMO,False,False,0,0,3500,7000,10
+49116CA0070731,UnitedHealthcare,SignatureValue HMO Platinum 25-50/10%,platinum,HMO,False,False,0,0,3500,7000,10
+49116CA0070737,UnitedHealthcare,SignatureValue Harmony HMO Gold CWX8 /N94S,gold,HMO,False,False,0,0,7000,14000,0
+49116CA0070738,UnitedHealthcare,SignatureValue HMO Gold CWX9 /N94S,gold,HMO,False,False,0,0,7000,14000,0
+49116CA0070740,UnitedHealthcare,SignatureValue Harmony HMO Gold CWYB /N95S,gold,HMO,False,False,0,0,7500,15000,0
+49116CA0070747,UnitedHealthcare,SignatureValue HMO Gold CWYC /N95S,gold,HMO,False,False,0,0,7500,15000,0
+49116CA0070753,UnitedHealthcare,SignatureValue Harmony HMO Gold 35-70/20%/500ded,gold,HMO,False,False,500,1000,8000,16000,20
+49116CA0070760,UnitedHealthcare,SignatureValue HMO Gold 35-70/20%/500ded,gold,HMO,False,False,500,1000,8000,16000,20
+49116CA0070766,UnitedHealthcare,SignatureValue Harmony HMO Gold CWYH /N96S,gold,HMO,False,False,1500,3000,8500,17000,30
+49116CA0070773,UnitedHealthcare,SignatureValue HMO Gold 35-70/30%/1500ded,gold,HMO,False,False,1500,3000,8500,17000,30
+49116CA0070779,UnitedHealthcare,SignatureValue Harmony HMO Silver CWYN /L61S,silver,HMO,False,False,2400,4800,9100,18200,40
+49116CA0100030-13,UnitedHealthcare,Doctors Plan EPO Silver CVP7 /L41S,silver,EPO,False,False,2450,4900,9100,18200,40
+49116CA0100031-13,UnitedHealthcare,Doctors Plan EPO Silver CVP6 /L41S,silver,EPO,False,False,1950,3900,9100,18200,40
+49116CA0100032-13,UnitedHealthcare,Doctors Plan EPO Gold CVP5 /L40S,gold,EPO,False,False,1500,3000,8800,17600,30
+49116CA0100033-13,UnitedHealthcare,Doctors Plan EPO Gold CVP4 /N55S,gold,EPO,False,False,1000,2000,8500,17000,20
+49116CA0100034-13,UnitedHealthcare,Doctors Plan EPO Gold CVP3 /N55S,gold,EPO,False,False,500,1000,8500,17000,20
+49116CA0100035-13,UnitedHealthcare,Doctors Plan EPO Gold CVP9 /N54S,gold,EPO,False,False,0,0,8500,17000,30
+49116CA0100036-13,UnitedHealthcare,Doctors Plan EPO Platinum CVPX /L44S,platinum,EPO,False,False,250,500,3600,7200,20
+49116CA0100037-13,UnitedHealthcare,Doctors Plan EPO Platinum CVPY /L47S,platinum,EPO,False,False,250,500,3500,7000,20
+49116CA0100038-13,UnitedHealthcare,Doctors Plan EPO Platinum CVQM /L44S,platinum,EPO,False,False,250,500,3600,7200,10
+49116CA0100039-13,UnitedHealthcare,Doctors Plan EPO Platinum CVPZ /L44S,platinum,EPO,False,False,0,0,3600,7200,10
+64210CA0000001-77,CalChoice,Sutter Health Plus Bronze HMO A,expanded_bronze,HMO,False,False,6300,12600,8200,16400,40
+64210CA0000002-77,CalChoice,Sutter Health Plus Gold HMO A,gold,HMO,False,False,1500,3000,5000,10000,20
+64210CA0000003-77,CalChoice,Sutter Health Plus Platinum HMO A,platinum,HMO,False,False,0,0,4500,9000,0
+64210CA0000004-77,CalChoice,Sutter Health Plus Bronze HMO B,expanded_bronze,HMO,True,False,7000,14000,7000,14000,0
+64210CA0000005-77,CalChoice,Sutter Health Plus Silver HMO B,silver,HMO,False,False,2500,5000,8750,17500,30
+64210CA0000006-77,CalChoice,Sutter Health Plus Gold HMO B,gold,HMO,False,False,250,500,7800,15600,0
+64210CA0000007-77,CalChoice,Sutter Health Plus Platinum HMO B,platinum,HMO,False,False,0,0,3500,7000,10
+64210CA0000008-77,CalChoice,Sutter Health Plus Silver HMO C,silver,HMO,True,False,2500,5000,7050,14100,20
+64210CA0630040,Sutter Health Plus,Platinum MS80 HMO,platinum,HMO,False,False,0,0,4500,9000,0
+64210CA0630041,Sutter Health Plus,Gold MS83 HMO,gold,HMO,False,False,250,500,7800,15600,0
+64210CA0630043,Sutter Health Plus,Bronze MS86 HMO,expanded_bronze,HMO,False,False,6300,12600,8200,16400,40
+64210CA0630044,Sutter Health Plus,Bronze SD48 HDHP HMO,expanded_bronze,HMO,True,False,7000,14000,7000,14000,0
+64210CA0630056,Sutter Health Plus,Platinum MS68 HMO,platinum,HMO,False,False,0,0,3500,7000,0
+64210CA0630059,Sutter Health Plus,Gold MS77 HMO,gold,HMO,False,False,1500,3000,5000,10000,20
+64210CA0630061,Sutter Health Plus,Silver MS84 HMO,silver,HMO,False,False,2500,5000,8750,17500,40
+64210CA0630063,Sutter Health Plus,Silver SD01 HDHP HMO,silver,HMO,True,False,2500,5000,7050,14100,25
+64210CA0630065,Sutter Health Plus,Gold MS62 HMO,gold,HMO,False,False,500,1000,7500,15000,0
+64210CA0640040,Sutter Health Plus,Platinum MP80 Plus HMO,platinum,HMO,False,True,0,0,4500,9000,0
+64210CA0640041,Sutter Health Plus,Gold MP83 Plus HMO,gold,HMO,False,True,250,500,7800,15600,0
+64210CA0640043,Sutter Health Plus,Bronze MP86 Plus HMO,expanded_bronze,HMO,False,True,6300,12600,8200,16400,40
+64210CA0640044,Sutter Health Plus,Bronze SP48 Plus HDHP HMO,expanded_bronze,HMO,True,True,7000,14000,7000,14000,0
+64210CA0640056,Sutter Health Plus,Platinum MP68 Plus HMO,platinum,HMO,False,True,0,0,3500,7000,0
+64210CA0640059,Sutter Health Plus,Gold MP77 Plus HMO,gold,HMO,False,True,1500,3000,5000,10000,20
+64210CA0640061,Sutter Health Plus,Silver MP84 Plus HMO,silver,HMO,False,True,2500,5000,8750,17500,35
+64210CA0640063,Sutter Health Plus,Silver SP01 Plus HDHP HMO,silver,HMO,True,True,2500,5000,7050,14100,25
+64210CA0640065,Sutter Health Plus,Gold MP62 Plus HMO,gold,HMO,False,True,500,1000,7500,15000,0
+64210CA0690001,Sutter Health Plus,Gold SD02 HDHP HMO,gold,HMO,True,False,1500,3000,6000,12000,20
+67138CA0000002-77,CalChoice,Health Net WholeCare Silver HMO A,silver,HMO,False,False,0,0,9100,18200,50
+67138CA0000003-77,CalChoice,Health Net WholeCare Gold HMO A,gold,HMO,False,False,0,0,7000,14000,40
+67138CA0000004-77,CalChoice,Health Net WholeCare Gold HMO B,gold,HMO,False,False,0,0,7500,15000,40
+67138CA0000006-77,CalChoice,Health Net WholeCare Gold HMO C,gold,HMO,False,False,0,0,7250,14500,0
+67138CA0000007-77,CalChoice,Health Net WholeCare Platinum HMO C,platinum,HMO,False,False,0,0,2500,5000,0
+67138CA0000010-77,CalChoice,Health Net Full Gold HMO E,gold,HMO,False,False,0,0,7250,14500,0
+67138CA0000011-77,CalChoice,Health Net Full Platinum HMO E,platinum,HMO,False,False,0,0,2500,5000,0
+67138CA0000012-77,CalChoice,Health Net Full Gold HMO F,gold,HMO,False,False,0,0,7500,15000,40
+67138CA0000013-77,CalChoice,Health Net WholeCare Platinum HMO F,platinum,HMO,False,False,0,0,3150,6300,0
+67138CA0000015-77,CalChoice,Health Net Full Platinum HMO H,platinum,HMO,False,False,0,0,3150,6300,0
+67138CA0000016-77,CalChoice,Health Net Full Gold HMO G,gold,HMO,False,False,0,0,7000,14000,0
+67138CA0000017-77,CalChoice,Health Net Full Silver HMO D,silver,HMO,False,False,0,0,9100,18200,50
+67138CA0000018-77,CalChoice,Health Net SmartCare Gold HMO H,gold,HMO,False,False,0,0,7250,14500,0
+67138CA0000019-77,CalChoice,Health Net SmartCare Gold HMO I,gold,HMO,False,False,0,0,7500,15000,0
+67138CA0000020-77,CalChoice,Health Net SmartCare Platinum HMO I,platinum,HMO,False,False,0,0,3150,6300,0
+67138CA0000021-77,CalChoice,Health Net SmartCare Platinum HMO J,platinum,HMO,False,False,0,0,2500,5000,0
+67138CA0240057,Health Net,Full Network HMO Platinum $10,platinum,HMO,False,False,0,0,1900,3800,10
+67138CA0240057-33,Health Net,Full Network HMO Platinum $10 + Chiropractic,platinum,HMO,False,False,0,0,1900,3800,10
+67138CA0240075,Health Net,Full Network HMO Platinum $20,platinum,HMO,False,False,0,0,2500,5000,20
+67138CA0240075-33,Health Net,Full Network HMO Platinum $20 + Chiropractic,platinum,HMO,False,False,0,0,2500,5000,20
+67138CA0240093,Health Net,Full Network HMO Gold $30,gold,HMO,False,False,0,0,7000,14000,30
+67138CA0240093-33,Health Net,Full Network HMO Gold $30 + Chiropractic,gold,HMO,False,False,0,0,7000,14000,30
+67138CA0240111,Health Net,Full Network HMO Gold $40,gold,HMO,False,False,0,0,7500,15000,40
+67138CA0240111-33,Health Net,Full Network HMO Gold $40 + Chiropractic,gold,HMO,False,False,0,0,7500,15000,40
+67138CA0240147,Health Net,Full Network HMO Platinum $10 + Infertility,platinum,HMO,False,True,0,0,1900,3800,10
+67138CA0240147-33,Health Net,Full Network HMO Platinum $10 + Infertility + Chiropractic,platinum,HMO,False,True,0,0,1900,3800,10
+67138CA0240165,Health Net,Full Network HMO Platinum $20 + Infertility,platinum,HMO,False,True,0,0,2500,5000,20
+67138CA0240165-33,Health Net,Full Network HMO Platinum $20 + Infertility + Chiropractic,platinum,HMO,False,True,0,0,2500,5000,20
+67138CA0240183,Health Net,Full Network HMO Gold $30 + Infertility,gold,HMO,False,True,0,0,7000,14000,30
+67138CA0240183-33,Health Net,Full Network HMO Gold $30 + Infertility + Chiropractic,gold,HMO,False,True,0,0,7000,14000,30
+67138CA0240201,Health Net,Full Network HMO Gold $40 + Infertility,gold,HMO,False,True,0,0,7500,15000,40
+67138CA0240201-33,Health Net,Full Network HMO Gold $40 + Infertility + Chiropractic,gold,HMO,False,True,0,0,7500,15000,40
+67138CA0240237,Health Net,Full Network HMO Silver $55,silver,HMO,False,False,0,0,9100,18200,50
+67138CA0240237-33,Health Net,Full Network HMO Silver $55 + Chiropractic,silver,HMO,False,False,0,0,9100,18200,50
+67138CA0240255,Health Net,Full Network HMO Silver $55 + Infertility,silver,HMO,False,True,0,0,9100,18200,50
+67138CA0240255-33,Health Net,Full Network HMO Silver $55 + Infertility + Chiropractic,silver,HMO,False,True,0,0,9100,18200,50
+67138CA0240453,Health Net,Full Network HMO Platinum $30,platinum,HMO,False,False,0,0,2500,5000,30
+67138CA0240453-33,Health Net,Full Network HMO Platinum $30 + Chiropractic,platinum,HMO,False,False,0,0,2500,5000,30
+67138CA0240471,Health Net,Full Network HMO Platinum $30 + Infertility,platinum,HMO,False,True,0,0,2500,5000,30
+67138CA0240471-33,Health Net,Full Network HMO Platinum $30 + Infertility + Chiropractic,platinum,HMO,False,True,0,0,2500,5000,30
+67138CA0240489,Health Net,Full Network HMO Gold $35,gold,HMO,False,False,0,0,7250,14500,30
+67138CA0240489-33,Health Net,Full Network HMO Gold $35 + Chiropractic,gold,HMO,False,False,0,0,7250,14500,30
+67138CA0240507,Health Net,Full Network HMO Gold $35 + Infertility,gold,HMO,False,True,0,0,7250,14500,30
+67138CA0240507-33,Health Net,Full Network HMO Gold $35 + Infertility + Chiropractic,gold,HMO,False,True,0,0,7250,14500,30
+67138CA0240528,Health Net,Full Network HMO Gold $50,gold,HMO,False,False,0,0,7500,15000,40
+67138CA0240528-33,Health Net,Full Network HMO Gold $50 + Chiropractic,gold,HMO,False,False,0,0,7500,15000,40
+67138CA0240546,Health Net,Full Network HMO Gold $50 + Infertility,gold,HMO,False,True,0,0,7500,15000,40
+67138CA0240546-33,Health Net,Full Network HMO Gold $50 + Infertility + Chiropractic,gold,HMO,False,True,0,0,7500,15000,40
+67138CA0240570,Health Net,Full Network HMO Platinum $0,platinum,HMO,False,False,0,0,3150,6300,30
+67138CA0240570-33,Health Net,Full Network HMO Platinum $0 + Chiropractic,platinum,HMO,False,False,0,0,3150,6300,30
+67138CA0240571,Health Net,Full Network HMO Platinum $0 + Infertility,platinum,HMO,False,True,0,0,3150,6300,30
+67138CA0240571-33,Health Net,Full Network HMO Platinum $0 + Infertility + Chiropractic,platinum,HMO,False,True,0,0,3150,6300,30
+67138CA0510081,Health Net,SmartCare HMO Platinum $10,platinum,HMO,False,False,0,0,1900,3800,10
+67138CA0510081-33,Health Net,SmartCare HMO Platinum $10 + Chiropractic,platinum,HMO,False,False,0,0,1900,3800,10
+67138CA0510088,Health Net,SmartCare HMO Platinum $20,platinum,HMO,False,False,0,0,2500,5000,20
+67138CA0510088-33,Health Net,SmartCare HMO Platinum $20 + Chiropractic,platinum,HMO,False,False,0,0,2500,5000,20
+67138CA0510095,Health Net,SmartCare HMO Gold $30,gold,HMO,False,False,0,0,7000,14000,30
+67138CA0510095-33,Health Net,SmartCare HMO Gold $30 + Chiropractic,gold,HMO,False,False,0,0,7000,14000,30
+67138CA0510102,Health Net,SmartCare HMO Gold $40,gold,HMO,False,False,0,0,7500,15000,40
+67138CA0510102-33,Health Net,SmartCare HMO Gold $40 + Chiropractic,gold,HMO,False,False,0,0,7500,15000,40
+67138CA0510116,Health Net,SmartCare HMO Platinum $10 + Infertility,platinum,HMO,False,True,0,0,1900,3800,10
+67138CA0510116-33,Health Net,SmartCare HMO Platinum $10 + Infertility + Chiropractic,platinum,HMO,False,True,0,0,1900,3800,10
+67138CA0510123,Health Net,SmartCare HMO Platinum $20 + Infertility,platinum,HMO,False,True,0,0,2500,5000,20
+67138CA0510123-33,Health Net,SmartCare HMO Platinum $20 + Infertility + Chiropractic,platinum,HMO,False,True,0,0,2500,5000,20
+67138CA0510130,Health Net,SmartCare HMO Gold $30 + Infertility,gold,HMO,False,True,0,0,7000,14000,30
+67138CA0510130-33,Health Net,SmartCare HMO Gold $30 + Infertility + Chiropractic,gold,HMO,False,True,0,0,7000,14000,30
+67138CA0510137,Health Net,SmartCare HMO Gold $40 + Infertility,gold,HMO,False,True,0,0,7500,15000,40
+67138CA0510137-33,Health Net,SmartCare HMO Gold $40 + Infertility + Chiropractic,gold,HMO,False,True,0,0,7500,15000,40
+67138CA0510151,Health Net,SmartCare HMO Silver $55,silver,HMO,False,False,0,0,9100,18200,50
+67138CA0510151-33,Health Net,SmartCare HMO Silver $55 + Chiropractic,silver,HMO,False,False,0,0,9100,18200,50
+67138CA0510158,Health Net,SmartCare HMO Silver $55 + Infertility,silver,HMO,False,True,0,0,9100,18200,50
+67138CA0510158-33,Health Net,SmartCare HMO Silver $55 + Infertility + Chiropractic,silver,HMO,False,True,0,0,9100,18200,50
+67138CA0510165,Health Net,SmartCare HMO Platinum $30,platinum,HMO,False,False,0,0,2500,5000,30
+67138CA0510165-33,Health Net,SmartCare HMO Platinum $30 + Chiropractic,platinum,HMO,False,False,0,0,2500,5000,30
+67138CA0510172,Health Net,SmartCare HMO Platinum $30 + Infertility,platinum,HMO,False,True,0,0,2500,5000,30
+67138CA0510172-33,Health Net,SmartCare HMO Platinum $30 + Infertility + Chiropractic,platinum,HMO,False,True,0,0,2500,5000,30
+67138CA0510179,Health Net,SmartCare HMO Gold $35,gold,HMO,False,False,0,0,7250,14500,30
+67138CA0510179-33,Health Net,SmartCare HMO Gold $35 + Chiropractic,gold,HMO,False,False,0,0,7250,14500,30
+67138CA0510186,Health Net,SmartCare HMO Gold $35 + Infertility,gold,HMO,False,True,0,0,7250,14500,30
+67138CA0510186-33,Health Net,SmartCare HMO Gold $35 + Infertility + Chiropractic,gold,HMO,False,True,0,0,7250,14500,30
+67138CA0510193,Health Net,SmartCare HMO Gold $50,gold,HMO,False,False,0,0,7500,15000,40
+67138CA0510193-33,Health Net,SmartCare HMO Gold $50 + Chiropractic,gold,HMO,False,False,0,0,7500,15000,40
+67138CA0510200,Health Net,SmartCare HMO Gold $50 + Infertility,gold,HMO,False,True,0,0,7500,15000,40
+67138CA0510200-33,Health Net,SmartCare HMO Gold $50 + Infertility + Chiropractic,gold,HMO,False,True,0,0,7500,15000,40
+67138CA0510207,Health Net,SmartCare HMO Platinum $0,platinum,HMO,False,False,0,0,3150,6300,30
+67138CA0510207-33,Health Net,SmartCare HMO Platinum $0 + Chiropractic,platinum,HMO,False,False,0,0,3150,6300,30
+67138CA0510208,Health Net,SmartCare HMO Platinum $0 + Infertility,platinum,HMO,False,True,0,0,3150,6300,30
+67138CA0510208-33,Health Net,SmartCare HMO Platinum $0 + Infertility + Chiropractic,platinum,HMO,False,True,0,0,3150,6300,30
+67138CA0600024,Health Net,WholeCare HMO Platinum $10,platinum,HMO,False,False,0,0,1900,3800,10
+67138CA0600024-33,Health Net,WholeCare HMO Platinum $10 + Chiropractic,platinum,HMO,False,False,0,0,1900,3800,10
+67138CA0600025,Health Net,WholeCare HMO Platinum $20,platinum,HMO,False,False,0,0,2500,5000,20
+67138CA0600025-33,Health Net,WholeCare HMO Platinum $20 + Chiropractic,platinum,HMO,False,False,0,0,2500,5000,20
+67138CA0600026,Health Net,WholeCare HMO Gold $30,gold,HMO,False,False,0,0,7000,14000,30
+67138CA0600026-33,Health Net,WholeCare HMO Gold $30 + Chiropractic,gold,HMO,False,False,0,0,7000,14000,30
+67138CA0600027,Health Net,WholeCare HMO Gold $40,gold,HMO,False,False,0,0,7500,15000,40
+67138CA0600027-33,Health Net,WholeCare HMO Gold $40 + Chiropractic,gold,HMO,False,False,0,0,7500,15000,40
+67138CA0600029,Health Net,WholeCare HMO Platinum $10 + Infertility,platinum,HMO,False,True,0,0,1900,3800,10
+67138CA0600029-33,Health Net,WholeCare HMO Platinum $10 + Infertility + Chiropractic,platinum,HMO,False,True,0,0,1900,3800,10
+67138CA0600030,Health Net,WholeCare HMO Platinum $20 + Infertility,platinum,HMO,False,True,0,0,2500,5000,20
+67138CA0600030-33,Health Net,WholeCare HMO Platinum $20 + Infertility + Chiropractic,platinum,HMO,False,True,0,0,2500,5000,20
+67138CA0600031,Health Net,WholeCare HMO Gold $30 + Infertility,gold,HMO,False,True,0,0,7000,14000,30
+67138CA0600031-33,Health Net,WholeCare HMO Gold $30 + Infertility + Chiropractic,gold,HMO,False,True,0,0,7000,14000,30
+67138CA0600032,Health Net,WholeCare HMO Gold $40 + Infertility,gold,HMO,False,True,0,0,7500,15000,40
+67138CA0600032-33,Health Net,WholeCare HMO Gold $40 + Infertility + Chiropractic,gold,HMO,False,True,0,0,7500,15000,40
+67138CA0600034,Health Net,WholeCare HMO Silver $55,silver,HMO,False,False,0,0,9100,18200,50
+67138CA0600034-33,Health Net,WholeCare HMO Silver $55 + Chiropractic,silver,HMO,False,False,0,0,9100,18200,50
+67138CA0600035,Health Net,WholeCare HMO Silver $55 + Infertility,silver,HMO,False,True,0,0,9100,18200,50
+67138CA0600035-33,Health Net,WholeCare HMO Silver $55 + Infertility + Chiropractic,silver,HMO,False,True,0,0,9100,18200,50
+67138CA0600036,Health Net,WholeCare HMO Platinum $30,platinum,HMO,False,False,0,0,2500,5000,30
+67138CA0600036-33,Health Net,WholeCare HMO Platinum $30 + Chiropractic,platinum,HMO,False,False,0,0,2500,5000,30
+67138CA0600037,Health Net,WholeCare HMO Platinum $30 + Infertility,platinum,HMO,False,True,0,0,2500,5000,30
+67138CA0600037-33,Health Net,WholeCare HMO Platinum $30 + Infertility + Chiropractic,platinum,HMO,False,True,0,0,2500,5000,30
+67138CA0600038,Health Net,WholeCare HMO Gold $35,gold,HMO,False,False,0,0,7250,14500,30
+67138CA0600038-33,Health Net,WholeCare HMO Gold $35 + Chiropractic,gold,HMO,False,False,0,0,7250,14500,30
+67138CA0600039,Health Net,WholeCare HMO Gold $35 + Infertility,gold,HMO,False,True,0,0,7250,14500,30
+67138CA0600039-33,Health Net,WholeCare HMO Gold $35 + Infertility + Chiropractic,gold,HMO,False,True,0,0,7250,14500,30
+67138CA0600041,Health Net,WholeCare HMO Gold $50,gold,HMO,False,False,0,0,7500,15000,40
+67138CA0600041-33,Health Net,WholeCare HMO Gold $50 + Chiropractic,gold,HMO,False,False,0,0,7500,15000,40
+67138CA0600042,Health Net,WholeCare HMO Gold $50 + Infertility,gold,HMO,False,True,0,0,7500,15000,40
+67138CA0600042-33,Health Net,WholeCare HMO Gold $50 + Infertility + Chiropractic,gold,HMO,False,True,0,0,7500,15000,40
+67138CA0600043,Health Net,WholeCare HMO Platinum $0,platinum,HMO,False,False,0,0,3150,6300,30
+67138CA0600043-33,Health Net,WholeCare HMO Platinum $0 + Chiropractic,platinum,HMO,False,False,0,0,3150,6300,30
+67138CA0600044,Health Net,WholeCare HMO Platinum $0 + Infertility,platinum,HMO,False,True,0,0,3150,6300,30
+67138CA0600044-33,Health Net,WholeCare HMO Platinum $0 + Infertility + Chiropractic,platinum,HMO,False,True,0,0,3150,6300,30
+70285CA8170007,BlueShield of California,Gold Access+ HMO (R) 1500/35 OffEx ,gold,HMO,False,False,1500,3000,8150,16300,0
+70285CA8170024,BlueShield of California,Gold Local Access+ HMO (R) 1500/35 OffEx,gold,HMO,False,False,1500,3000,8150,16300,0
+70285CA8170041,BlueShield of California,Gold Trio HMO 1500/35 OffEx,gold,HMO,False,False,1500,3000,8150,16300,0
+70285CA8170058,BlueShield of California,Silver Access+ HMO (R) 2300/70 OffEx,silver,HMO,False,False,2300,4600,8750,17500,0
+70285CA8170075,BlueShield of California,Silver Local Access+ HMO (R) 2300/70 OffEx,silver,HMO,False,False,2300,4600,8750,17500,0
+70285CA8170092,BlueShield of California,Silver Trio HMO 2300/70 OffEx,silver,HMO,False,False,2300,4600,8750,17500,0
+70285CA8170109,BlueShield of California,Platinum Access+ HMO (R) 0/25 OffEx,platinum,HMO,False,False,0,0,2350,4700,0
+70285CA8170126,BlueShield of California,Platinum Local Access+ HMO (R) 0/25 OffEx,platinum,HMO,False,False,0,0,2350,4700,0
+70285CA8170143,BlueShield of California,Platinum Trio HMO 0/25 OffEx,platinum,HMO,False,False,0,0,2350,4700,0
+70285CA8170160,BlueShield of California,Gold Access+ HMO (R) 500/35 OffEx,gold,HMO,False,False,500,1000,7500,15000,0
+70285CA8170177,BlueShield of California,Gold Local Access+ HMO (R) 500/35 OffEx,gold,HMO,False,False,500,1000,7500,15000,0
+70285CA8170194,BlueShield of California,Gold Trio HMO 500/35 OffEx,gold,HMO,False,False,500,1000,7500,15000,0
+70285CA8170211,BlueShield of California,Platinum Access+ HMO (R) 0/20 OffEx,platinum,HMO,False,False,0,0,2000,4000,0
+70285CA8170228,BlueShield of California,Platinum Local Access+ HMO (R) 0/20 OffEx,platinum,HMO,False,False,0,0,2000,4000,0
+70285CA8170245,BlueShield of California,Platinum Trio HMO 0/20 OffEx,platinum,HMO,False,False,0,0,2000,4000,0
+70285CA8170262,BlueShield of California,Platinum Access+ HMO (R) 0/30 OffEx,platinum,HMO,False,False,0,0,2700,5400,0
+70285CA8170279,BlueShield of California,Platinum Local Access+ HMO (R) 0/30 OffEx,platinum,HMO,False,False,0,0,2700,5400,0
+70285CA8170296,BlueShield of California,Platinum Trio HMO 0/30 OffEx,platinum,HMO,False,False,0,0,2700,5400,0
+70285CA8170323,BlueShield of California,Gold Access+ HMO (R) 1500/35 OffEx INF,gold,HMO,False,True,1500,3000,8150,16300,0
+70285CA8170340,BlueShield of California,Gold Local Access+ HMO (R) 1500/35 OffEx INF,gold,HMO,False,True,1500,3000,8150,16300,0
+70285CA8170357,BlueShield of California,Gold Trio HMO 1500/35 OffEx INF,gold,HMO,False,True,1500,3000,8150,16300,0
+70285CA8170374,BlueShield of California,Silver Access+ HMO (R) 2300/70 OffEx INF,silver,HMO,False,True,2300,4600,8750,17500,0
+70285CA8170391,BlueShield of California,Silver Local Access+ HMO (R) 2300/70 OffEx INF,silver,HMO,False,True,2300,4600,8750,17500,0
+70285CA8170408,BlueShield of California,Silver Trio HMO 2300/70 OffEx INF,silver,HMO,False,True,2300,4600,8750,17500,0
+70285CA8170425,BlueShield of California,Platinum Access+ HMO (R) 0/25 OffEx INF,platinum,HMO,False,True,0,0,2350,4700,0
+70285CA8170442,BlueShield of California,Platinum Local Access+ HMO (R) 0/25 OffEx INF,platinum,HMO,False,True,0,0,2350,4700,0
+70285CA8170459,BlueShield of California,Platinum Trio HMO 0/25 OffEx INF,platinum,HMO,False,True,0,0,2350,4700,0
+70285CA8170476,BlueShield of California,Gold Access+ HMO (R) 500/35 OffEx INF,gold,HMO,False,True,500,1000,7500,15000,0
+70285CA8170493,BlueShield of California,Gold Local Access+ HMO (R) 500/35 OffEx INF,gold,HMO,False,True,500,1000,7500,15000,0
+70285CA8170510,BlueShield of California,Gold Trio HMO 500/35 OffEx INF,gold,HMO,False,True,500,1000,7500,15000,0
+70285CA8170527,BlueShield of California,Platinum Access+ HMO (R) 0/20 OffEx INF,platinum,HMO,False,True,0,0,2000,4000,0
+70285CA8170544,BlueShield of California,Platinum Local Access+ HMO (R) 0/20 OffEx INF,platinum,HMO,False,True,0,0,2000,4000,0
+70285CA8170561,BlueShield of California,Platinum Trio HMO 0/20 OffEx INF,platinum,HMO,False,True,0,0,2000,4000,0
+70285CA8170578,BlueShield of California,Platinum Access+ HMO (R) 0/30 OffEx INF,platinum,HMO,False,True,0,0,2700,5400,0
+70285CA8170595,BlueShield of California,Platinum Local Access+ HMO (R) 0/30 OffEx INF,platinum,HMO,False,True,0,0,2700,5400,0
+70285CA8170612,BlueShield of California,Platinum Trio HMO 0/30 OffEx INF,platinum,HMO,False,True,0,0,2700,5400,0
+70285CA8170639,BlueShield of California,Gold Access+ HMO (R) 0/30 OffEx,gold,HMO,False,False,0,0,7000,14000,0
+70285CA8170656,BlueShield of California,Gold Local Access+ HMO (R) 0/30 OffEx,gold,HMO,False,False,0,0,7000,14000,0
+70285CA8170673,BlueShield of California,Gold Trio HMO 0/30 OffEx,gold,HMO,False,False,0,0,7000,14000,0
+70285CA8170741,BlueShield of California,Gold Access+ HMO (R) 0/30 OffEx INF,gold,HMO,False,True,0,0,7000,14000,0
+70285CA8170758,BlueShield of California,Gold Local Access+ HMO (R) 0/30 OffEx INF,gold,HMO,False,True,0,0,7000,14000,0
+70285CA8170775,BlueShield of California,Gold Trio HMO 0/30 OffEx INF,gold,HMO,False,True,0,0,7000,14000,0
+70285CA8170848,BlueShield of California,Gold Access+ HMO (R) 1000/35 OffEx ,gold,HMO,False,False,1000,2000,7500,15000,0
+70285CA8170865,BlueShield of California,Gold Local Access+ HMO (R) 1000/35 OffEx,gold,HMO,False,False,1000,2000,7500,15000,0
+70285CA8170882,BlueShield of California,Gold Trio HMO 1000/35 OffEx,gold,HMO,False,False,1000,2000,7500,15000,0
+70285CA8170907,BlueShield of California,Gold Access+ HMO (R) 1000/35 OffEx INF,gold,HMO,False,True,1000,2000,7500,15000,0
+70285CA8170924,BlueShield of California,Gold Local Access+ HMO (R) 1000/35 OffEx INF,gold,HMO,False,True,1000,2000,7500,15000,0
+70285CA8170941,BlueShield of California,Gold Trio HMO 1000/35 OffEx INF,gold,HMO,False,True,1000,2000,7500,15000,0
+70285CA8170961,BlueShield of California,Silver Access+ HMO (R) 2750/70 OffEx,silver,HMO,False,False,2750,5500,8750,17500,0
+70285CA8170978,BlueShield of California,Silver Local Access+ HMO (R) 2750/70 OffEx,silver,HMO,False,False,2750,5500,8750,17500,0
+70285CA8170995,BlueShield of California,Silver Trio HMO 2750/70 OffEx,silver,HMO,False,False,2750,5500,8750,17500,0
+70285CA8171025,BlueShield of California,Silver Access+ HMO (R) 2750/70 OffEx INF,silver,HMO,False,True,2750,5500,8750,17500,0
+70285CA8171042,BlueShield of California,Silver Local Access+ HMO (R) 2750/70 OffEx INF,silver,HMO,False,True,2750,5500,8750,17500,0
+70285CA8171059,BlueShield of California,Silver Trio HMO 2750/70 OffEx INF,silver,HMO,False,True,2750,5500,8750,17500,0
+70285CA8171089,BlueShield of California,Bronze Trio HMO 7000/70 OffEx,expanded_bronze,HMO,False,False,7000,14000,8750,14000,50
+70285CA8171107,BlueShield of California,Bronze Trio HMO 7000/70 OffEx INF,expanded_bronze,HMO,False,True,7000,14000,8750,14000,50
+70285CA8171125,BlueShield of California,Bronze Access+ HMO (R) 7000/70 OffEx,expanded_bronze,HMO,False,False,7000,14000,8750,17500,50
+70285CA8171142,BlueShield of California,Bronze Local Access+ HMO (R) 7000/70 OffEx,expanded_bronze,HMO,False,False,7000,14000,8750,17500,50
+70285CA8171159,BlueShield of California,Bronze Access+ HMO (R) 7000/70 OffEx INF,expanded_bronze,HMO,False,True,7000,14000,8750,17500,50
+70285CA8171176,BlueShield of California,Bronze Local Access+ HMO (R) 7000/70 OffEx INF,expanded_bronze,HMO,False,True,7000,14000,8750,17500,50
+70285CA8230007,CoveredCA,Blue Shield Trio Gold 80 HMO 250/35 + Child Dental INF,gold,HMO,False,True,250,500,7800,15600,20
+70285CA8230024,CoveredCA,Blue Shield Trio Platinum 90 HMO 0/20 + Child Dental INF,platinum,HMO,False,True,0,0,4500,9000,10
+70285CA8230041,CoveredCA,Trio Silver 70 HMO 2500/55 + Child Dental INF,silver,HMO,False,True,2500,5000,8750,17500,40
+70285CA8230058,CoveredCA,Trio Gold 80 HMO 250/35 + Child Dental,gold,HMO,False,False,250,500,7800,15600,20
+70285CA8230075,CoveredCA,Trio Platinum 90 HMO 0/20 + Child Dental,platinum,HMO,False,False,0,0,4500,9000,10
+70285CA8230092,CoveredCA,Trio Silver 70 HMO 2500/55 + Child Dental,silver,HMO,False,False,2500,5000,8750,17500,40
+95677CA0100001-13,UnitedHealthcare,Navigate EPO Bronze CDFE /K92L,bronze,EPO,False,True,6300,12600,8200,16400,40
+95677CA0100002-13,UnitedHealthcare,Navigate EPO Platinum CDFB /K89L,platinum,EPO,False,True,0,0,4500,9000,10
+95677CA0100003-13,UnitedHealthcare,Navigate EPO Gold CDFC /K90L,gold,EPO,False,True,350,700,7800,15600,20
+95677CA0100004-13,UnitedHealthcare,Navigate EPO Silver CUVI /N53L,silver,EPO,False,True,2500,5000,8600,17200,35
