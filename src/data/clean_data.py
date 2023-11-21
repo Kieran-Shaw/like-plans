@@ -51,8 +51,18 @@ def clean_boolean(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-def one_hot_encoding():
-    return
+def one_hot_encoding(df: pd.DataFrame) -> pd.DataFrame:
+    # one hot encoding
+    # I don't need to worry about n-1 dummy variables because cosine similarity measures the orientation of similarity, not the magnitude. When measuring the magnitude, multicollinearity is important.
+    # All n categories are important here, so we can measure the similarity across all categories.
+
+    one_hot_encoding_columns = ["level", "plan_type"]
+    df_encoded = pd.get_dummies(
+        df,
+        columns=one_hot_encoding_columns,
+    )
+
+    return df_encoded
 
 
 def clean_hmo_epo_plans(df: pd.DataFrame) -> pd.DataFrame:
@@ -75,25 +85,11 @@ def clean_hmo_epo_plans(df: pd.DataFrame) -> pd.DataFrame:
         .str.replace(",", "")
         .astype(int)
     )
-    df["individual_medical_moop_out_of_network"] = (
-        df["individual_medical_moop"]
-        .apply(lambda x: re.findall(r"Out-of-Network: (\$[\d,]+|Not Covered)", x)[0])
-        .replace("Not Covered", np.nan)
-        .str.replace("$", "")
-        .str.replace(",", "")
-    )
     df["family_medical_moop_in_network"] = (
         df["family_medical_moop"]
         .apply(lambda x: re.findall(r"In-Network: \$([\d,]+)", x)[0])
         .str.replace(",", "")
         .astype(int)
-    )
-    df["family_medical_moop_out_of_network"] = (
-        df["family_medical_moop"]
-        .apply(lambda x: re.findall(r"Out-of-Network: (\$[\d,]+|Not Covered)", x)[0])
-        .replace("Not Covered", np.nan)
-        .str.replace("$", "")
-        .str.replace(",", "")
     )
     df["coinsurance_in_network"] = (
         df["plan_coinsurance"]
@@ -102,14 +98,22 @@ def clean_hmo_epo_plans(df: pd.DataFrame) -> pd.DataFrame:
             if re.findall(r"In-Network: (\d+%|\$0|Not Applicable)", x)
             else None
         )
-        .replace(
-            "Not Applicable", None
-        )  # what should we do with 'Not Applicable' for coinsurance?
+        .replace("Not Applicable", 0)  # if not applicable, normalize to 0
         .replace(
             "$", ""
         )  # I saw that there was a $ sign in one of the coinsurance columns
         .replace("%", "", regex=True)
     )
+
+    # drop the columns
+    columns_to_drop = [
+        "individual_medical_deductible",
+        "family_medical_deductible",
+        "individual_medical_moop",
+        "family_medical_moop",
+        "plan_coinsurance",
+    ]
+    df.drop(columns=columns_to_drop, inplace=True)
     return df
 
 
@@ -170,7 +174,9 @@ def clean_ppo_pos_plans(df: pd.DataFrame) -> pd.DataFrame:
             if re.findall(r"In-Network: (\d+%|\$0|Not Applicable)", x)
             else None
         )
-        .replace("Not Applicable", None)  # what should we do with 'Not Applicable'?
+        .replace(
+            "Not Applicable", 0
+        )  # if coinsurance is not applicable, lets normalize to 0 for the time being
         .replace("\$", "", regex=True)
         .replace("%", "", regex=True)
     )
@@ -181,31 +187,38 @@ def clean_ppo_pos_plans(df: pd.DataFrame) -> pd.DataFrame:
             if re.findall(r"Out-of-Network: (\d+%|\$0|Not Applicable)", x)
             else None
         )
-        .replace("Not Applicable", 0)  # what should we do with 'Not Applicable'?
+        .replace(
+            "Not Applicable", 0
+        )  # if not applicable for OON for ppo_pos plans, lets normalize to 0
         .replace("$0", 0)
         .replace("%", "", regex=True)
     )
 
     # drop the columns
+    columns_to_drop = [
+        "individual_medical_deductible",
+        "family_medical_deductible",
+        "individual_medical_moop",
+        "family_medical_moop",
+        "plan_coinsurance",
+    ]
+    df.drop(columns=columns_to_drop, inplace=True)
 
     return df
 
 
-def drop_columns(df: pd.DataFrame) -> pd.DataFrame:
-    columns_to_keep = [col for col in COLUMNS if col in COLUMNS_TO_KEEP]
-    return_df = df[columns_to_keep].copy()
-    return return_df
-
-
 # apply the methods to the dataframes
-hmo_df = clean_ppo_pos_plans(df=hmo_df)
+hmo_df = clean_hmo_epo_plans(df=hmo_df)
 ppo_df = clean_ppo_pos_plans(df=ppo_df)
+
+hmo_df = one_hot_encoding(df=hmo_df)
+ppo_df = one_hot_encoding(df=ppo_df)
 
 hmo_df = clean_boolean(df=hmo_df)
 ppo_df = clean_boolean(df=ppo_df)
 
-hmo_df = drop_columns(df=hmo_df)
-ppo_df = drop_columns(df=ppo_df)
+# hmo_df = drop_columns(df=hmo_df)
+# ppo_df = drop_columns(df=ppo_df)
 
 # write the file out
 hmo_df.to_csv(CLEANED_HMO_EPO_FILE_PATH, index=False)
