@@ -43,7 +43,7 @@ class PlanCleaner:
 
 class HMOEPOCleaner(PlanCleaner):
     HMO_EPO_CLEANED_FILE_PATH = os.path.expanduser(
-        "~/like-plans/data/processed/hmo_epo_plans.csv"
+        "~/like-plans/data/processed/hmo_epo_plans_cleaned.csv"
     )
 
     def __init__(self):
@@ -98,7 +98,7 @@ class HMOEPOCleaner(PlanCleaner):
 
 class PPOPOSCleaner(PlanCleaner):
     PPO_POS_CLEANED_FILE_PATH = os.path.expanduser(
-        "~/like-plans/data/processed/ppo_pos_plans.csv"
+        "~/like-plans/data/processed/ppo_pos_plans_cleaned.csv"
     )
 
     def __init__(self):
