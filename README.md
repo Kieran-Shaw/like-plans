@@ -13,19 +13,20 @@ A repo for medical plan similarity (and expressed similarity attributes) and rec
 
 - This is a basic model - one that purely builds a similarity across the plan attributes that are known
   - here are some of the plan attributes that will be in this simple model
-    - level
-    - individual_in_network_deductible
-    - family_in_network_deductible
-    - individual_out_of_network_deductible
-    - family_out_of_network_deductible
-    - individual_medical_moop
-    - family_medical_moop
-    - primary_care_physician
-    - specialist
-    - coinsurance
-    - emergency_room
-    - infertility
-    - rx_deductible
+    - level ✅
+    - individual_in_network_deductible ✅
+    - family_in_network_deductible ✅
+    - individual_out_of_network_deductible ✅
+    - family_out_of_network_deductible ✅
+    - individual_medical_moop ✅
+    - family_medical_moop ✅
+    - primary_care_physician ✅
+    - plan_coinsurance ✅
+    - infertility ✅
+    - hsa_eligible ✅
+    - rx_deductible ✅
+    - chiropractic_services
+    - networks (?? difficult one, lol)
 - **How?**
 
   1. After processing, normalizing, and cleaning the data, just find the similarity across attributes (we should change the weights to say that one feature or many feature/s are more important than another)
