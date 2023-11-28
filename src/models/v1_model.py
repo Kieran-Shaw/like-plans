@@ -27,9 +27,10 @@ class MedicalPlanSimilarityModel:
 
         # Select a random plan
         self.random_plan_df = self.feature_clean_plan_df.sample(n=1)
-        random_plan_index = self.random_plan_df.index[0]
+        random_plan_id = self.random_plan_df["id"].iloc[0]
 
         # Find the nearest neighbors for the random plan
+        random_plan_index = self.random_plan_df.index[0]
         specific_plan_features = self.transformed_array[random_plan_index].reshape(
             1, -1
         )
@@ -44,6 +45,11 @@ class MedicalPlanSimilarityModel:
 
         # Add a column for distances in the similar plans DataFrame
         self.similar_plans_df["similarity_score"] = similar_plan_distances
+
+        # Exclude the random plan using its ID
+        self.similar_plans_df = self.similar_plans_df[
+            self.similar_plans_df["id"] != random_plan_id
+        ]
 
         # Return the random plan and its similar plans
         return self.random_plan_df, self.similar_plans_df
