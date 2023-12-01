@@ -84,4 +84,7 @@ Brainstorming:
   - https://www.soa.org/research-reports/research-healthcare-trends/
 
 - Network Data
+
   - Can we use and process network data from Ribbon to understand the number of providers and use that in the model?
+
+- Do we need to be able to compare an HMO to a PPO and visa versa? Wouldn't it just be comparing in-network options for those plans?

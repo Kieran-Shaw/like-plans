@@ -77,13 +77,13 @@ class HMOEPOCleaner(PlanCleaner):
             .apply(
                 lambda x: re.findall(r"In-Network: (\d+%|\$0|Not Applicable)", x)[0]
                 if re.findall(r"In-Network: (\d+%|\$0|Not Applicable)", x)
-                else None
+                else "0"
             )
-            .replace("Not Applicable", 0)  # if not applicable, normalize to 0
-            .replace(
+            .str.replace("Not Applicable", "0")  # if not applicable, normalize to 0
+            .str.replace(
                 "$", ""
             )  # I saw that there was a $ sign in one of the coinsurance columns
-            .replace("%", "", regex=True)
+            .str.replace("%", "", regex=True)
         ).astype(int)
         df["individual_drug_deductible_in_network"] = df[
             "individual_drug_deductible"
@@ -216,13 +216,13 @@ class PPOPOSCleaner(PlanCleaner):
             .apply(
                 lambda x: re.findall(r"In-Network: (\d+%|\$0|Not Applicable)", x)[0]
                 if re.findall(r"In-Network: (\d+%|\$0|Not Applicable)", x)
-                else None
+                else "0"
             )
-            .replace(
-                "Not Applicable", 0
-            )  # if coinsurance is not applicable, lets normalize to 0 for the time being
-            .replace("\$", "", regex=True)
-            .replace("%", "", regex=True)
+            .str.replace("Not Applicable", "0")  # if not applicable, normalize to 0
+            .str.replace(
+                "$", ""
+            )  # I saw that there was a $ sign in one of the coinsurance columns
+            .str.replace("%", "", regex=True)
         ).astype(int)
         df["coinsurance_out_of_network"] = (
             df["plan_coinsurance"]
