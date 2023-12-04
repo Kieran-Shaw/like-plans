@@ -25,7 +25,7 @@ class PlanCleaner:
             "individual_drug_deductible",
             "family_drug_deductible",
             "primary_care_physician",
-            "network_size",
+            "chiropractic_services",
         ]
 
     def read_data(self) -> pd.DataFrame:
@@ -120,6 +120,15 @@ class HMOEPOCleaner(PlanCleaner):
                 self.clean_primary_care_physician
             )
         )
+
+        # fill chiropractic null with false
+        df["chiropractic_services"] = df["chiropractic_services"].fillna(False)
+
+        # travel and lodging
+        df["anthem_travel_and_lodging"] = np.where(
+            df["name"].str.contains("T&L", na=False), True, False
+        )
+
         return df
 
     def clean_primary_care_physician(self, value: str):
@@ -289,6 +298,14 @@ class PPOPOSCleaner(PlanCleaner):
             *df["primary_care_physician_out_of_network_cleaned"].apply(
                 self.clean_primary_care_physician
             )
+        )
+
+        # fill chiropractic null with false
+        df["chiropractic_services"] = df["chiropractic_services"].fillna(False)
+
+        # travel and lodging
+        df["anthem_travel_and_lodging"] = np.where(
+            df["name"].str.contains("T&L", na=False), True, False
         )
 
         return df
